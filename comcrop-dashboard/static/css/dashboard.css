@@ -1,0 +1,362 @@
+:root {
+    --primary: #2e7d32;
+    --primary-light: #60ad5e;
+    --primary-dark: #005005;
+    --secondary: #1b5e20;
+    --accent: #4caf50;
+    --light: #e8f5e9;
+    --dark: #1a1a1a;
+    --warning: #ff9800;
+    --danger: #f44336;
+    --success: #66bb6a;
+    --gray: #f5f5f5;
+    --text-dark: #333;
+    --text-light: #fff;
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --border-color: #ddd;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f0f0f0;
+    color: var(--text-dark);
+    padding: 15px;
+}
+
+.dashboard {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: var(--primary);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.header-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.header-actions button {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.dashboard-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.dashboard-section {
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: var(--shadow);
+    flex: 1;
+}
+
+.section-header {
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-header h2 {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.section-header .timestamp {
+    font-size: 12px;
+    color: #777;
+}
+
+.current-conditions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+}
+
+.condition-item {
+    background-color: var(--light);
+    padding: 12px;
+    border-radius: 6px;
+}
+
+.condition-label {
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.condition-value {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
+.condition-meta {
+    font-size: 11px;
+    color: #777;
+    margin-top: 3px;
+}
+
+/* Drone Fleet Styles */
+.drone-status {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 12px;
+    margin-bottom: 15px;
+}
+
+.drone-card {
+    background-color: var(--light);
+    padding: 12px;
+    border-radius: 6px;
+    position: relative;
+}
+
+.status-indicator {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.active {
+    background-color: var(--success);
+}
+
+.charging {
+    background-color: var(--warning);
+}
+
+.maintenance {
+    background-color: var(--danger);
+}
+
+.drone-name {
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.drone-mission {
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.battery-bar {
+    height: 6px;
+    background-color: #eee;
+    border-radius: 3px;
+}
+
+.battery-level {
+    height: 100%;
+    background-color: var(--accent);
+    border-radius: 3px;
+}
+
+.battery-level.low {
+    background-color: var(--danger);
+}
+
+.battery-level.medium {
+    background-color: var(--warning);
+}
+
+.mission-schedule {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px;
+}
+
+.mission-item {
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-radius: 6px;
+    border-left: 4px solid var(--primary);
+}
+
+.mission-time {
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.mission-desc {
+    font-size: 12px;
+    color: #555;
+    margin-top: 3px;
+}
+
+.mission-drone {
+    font-size: 11px;
+    color: #777;
+    margin-top: 5px;
+}
+
+/* Chart Styles */
+.chart-container {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.metric {
+    background-color: var(--light);
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.metric-label {
+    font-size: 12px;
+    color: #555;
+}
+
+.metric-value {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
+/* Water Chart SVG styles */
+.water-chart-svg {
+    background-color: white;
+}
+.water-line {
+    fill: none;
+    stroke: #3498db;
+    stroke-width: 3;
+}
+.water-dots {
+    fill: #3498db;
+}
+.water-bars {
+    fill: #9b59b6;
+    opacity: 0.7;
+}
+.chart-axis {
+    stroke: #ccc;
+    stroke-width: 1;
+}
+.chart-text {
+    font-size: 10px;
+    fill: #666;
+}
+
+/* Nutrient Bars */
+.nutrient-bars {
+    margin-top: 15px;
+}
+
+.nutrient-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.nutrient-name {
+    width: 90px;
+    font-size: 13px;
+}
+
+.nutrient-progress {
+    flex-grow: 1;
+    height: 8px;
+    background-color: #eee;
+    border-radius: 4px;
+    margin: 0 10px;
+}
+
+.progress-fill {
+    height: 100%;
+    border-radius: 4px;
+}
+
+.critical {
+    background-color: var(--danger);
+}
+
+.warning {
+    background-color: var(--warning);
+}
+
+.good {
+    background-color: var(--success);
+}
+
+.nutrient-value {
+    width: 60px;
+    font-size: 13px;
+    text-align: right;
+    font-weight: 600;
+}
+
+/* Pollination Styles */
+.pollination-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.pollination-stat {
+    background-color: var(--light);
+    padding: 12px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.stat-value {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.stat-label {
+    font-size: 12px;
+    color: #666;
+}
+
+@media (max-width: 1200px) {
+    .dashboard-row {
+        flex-direction: column;
+    }
+}
