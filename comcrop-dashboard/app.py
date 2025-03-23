@@ -64,6 +64,28 @@ def water_prediction_api():
         'metrics': metrics
     })
 
+@app.route('/api/demand-forecast')
+def demand_forecast_api():
+    """API endpoint for demand forecast data."""
+    # Import the module here to avoid circular imports
+    from models.demand_forecast import generate_forecast_data, get_forecast_by_product
+    
+    # Set path to CSV data
+    csv_path = os.path.join(app.root_path, 'data', 'historical_data_random.csv')
+    
+    # Generate demand forecast data
+    svg_code, metrics = generate_forecast_data(csv_path)
+    
+    # Get product-specific forecasts
+    product_forecast_svg = get_forecast_by_product(csv_path)
+    
+    # Return the data as JSON
+    return jsonify({
+        'svg': svg_code,
+        'metrics': metrics,
+        'product_forecast_svg': product_forecast_svg
+    })
+
 if __name__ == '__main__':
     # Run setup before starting the app
     setup_app()

@@ -1,0 +1,3981 @@
+Name,Product Type,Quantity Sold,Date Sold,Product Price (SGD)
+Green Emerald Lettuce,Leafy Green,25,1/1/2020,4.0
+Ruby Red Lettuce,Leafy Green,19,1/1/2020,4.0
+Chye Sim,Leafy Green,55,3/1/2020,3.5
+Basil,Herb,8,3/1/2020,2.5
+Mizuna,Leafy Green,21,3/1/2020,3.8
+Ruby Red Lettuce,Leafy Green,21,4/1/2020,4.0
+Mint,Herb,7,4/1/2020,2.5
+Chye Sim,Leafy Green,52,4/1/2020,3.5
+Mizuna,Leafy Green,21,6/1/2020,3.8
+Green Emerald Lettuce,Leafy Green,34,6/1/2020,4.0
+Mizuna,Leafy Green,20,7/1/2020,3.8
+Basil,Herb,11,7/1/2020,2.5
+Green Emerald Lettuce,Leafy Green,31,8/1/2020,4.0
+Mint,Herb,8,8/1/2020,2.5
+Chye Sim,Leafy Green,58,8/1/2020,3.5
+Ruby Red Lettuce,Leafy Green,25,9/1/2020,4.0
+Basil,Herb,11,10/1/2020,2.5
+Mizuna,Leafy Green,18,10/1/2020,3.8
+Chye Sim,Leafy Green,66,10/1/2020,3.5
+Mint,Herb,6,10/1/2020,2.5
+Green Emerald Lettuce,Leafy Green,32,11/1/2020,4.0
+Ruby Red Lettuce,Leafy Green,23,12/1/2020,4.0
+Chye Sim,Leafy Green,48,13/1/2020,3.5
+Mint,Herb,6,14/1/2020,2.5
+Ruby Red Lettuce,Leafy Green,29,14/1/2020,4.0
+Mizuna,Leafy Green,20,15/1/2020,3.8
+Green Emerald Lettuce,Leafy Green,31,15/1/2020,4.0
+Basil,Herb,11,15/1/2020,2.5
+Mizuna,Leafy Green,15,16/1/2020,3.8
+Ruby Red Lettuce,Leafy Green,23,17/1/2020,4.0
+Green Emerald Lettuce,Leafy Green,41,17/1/2020,4.0
+Chye Sim,Leafy Green,52,17/1/2020,3.5
+Basil,Herb,8,17/1/2020,2.5
+Mint,Herb,8,18/1/2020,2.5
+Green Emerald Lettuce,Leafy Green,28,18/1/2020,4.0
+Mizuna,Leafy Green,18,18/1/2020,3.8
+Ruby Red Lettuce,Leafy Green,20,19/1/2020,4.0
+Chye Sim,Leafy Green,64,19/1/2020,3.5
+Mizuna,Leafy Green,19,20/1/2020,3.8
+Green Emerald Lettuce,Leafy Green,24,20/1/2020,4.0
+Chye Sim,Leafy Green,56,21/1/2020,3.5
+Basil,Herb,9,21/1/2020,2.5
+Ruby Red Lettuce,Leafy Green,29,21/1/2020,4.0
+Mint,Herb,9,21/1/2020,2.5
+Mizuna,Leafy Green,22,22/1/2020,3.8
+Green Emerald Lettuce,Leafy Green,36,23/1/2020,4.0
+Chye Sim,Leafy Green,47,23/1/2020,3.5
+Ruby Red Lettuce,Leafy Green,28,23/1/2020,4.0
+Green Emerald Lettuce,Leafy Green,24,24/1/2020,4.0
+Basil,Herb,11,25/1/2020,2.5
+Ruby Red Lettuce,Leafy Green,25,25/1/2020,4.0
+Mizuna,Leafy Green,21,25/1/2020,3.8
+Chye Sim,Leafy Green,61,25/1/2020,3.5
+Mizuna,Leafy Green,15,26/1/2020,3.8
+Ruby Red Lettuce,Leafy Green,22,26/1/2020,4.0
+Chye Sim,Leafy Green,52,27/1/2020,3.5
+Green Emerald Lettuce,Leafy Green,30,27/1/2020,4.0
+Green Emerald Lettuce,Leafy Green,23,28/1/2020,4.0
+Ruby Red Lettuce,Leafy Green,23,28/1/2020,4.0
+Mint,Herb,8,28/1/2020,2.5
+Basil,Herb,11,29/1/2020,2.5
+Mizuna,Leafy Green,22,29/1/2020,3.8
+Chye Sim,Leafy Green,53,29/1/2020,3.5
+Green Emerald Lettuce,Leafy Green,24,30/1/2020,4.0
+Ruby Red Lettuce,Leafy Green,27,30/1/2020,4.0
+Chye Sim,Leafy Green,60,30/1/2020,3.5
+Mizuna,Leafy Green,19,31/1/2020,3.8
+Mint,Herb,9,31/1/2020,2.5
+Chye Sim,Leafy Green,50,1/2/2020,3.5
+Basil,Herb,12,1/2/2020,2.5
+Ruby Red Lettuce,Leafy Green,22,2/2/2020,4.0
+Green Emerald Lettuce,Leafy Green,34,2/2/2020,4.0
+Mint,Herb,10,3/2/2020,2.5
+Mizuna,Leafy Green,19,3/2/2020,3.8
+Ruby Red Lettuce,Leafy Green,26,4/2/2020,4.0
+Mizuna,Leafy Green,22,4/2/2020,3.8
+Chye Sim,Leafy Green,49,5/2/2020,3.5
+Green Emerald Lettuce,Leafy Green,35,5/2/2020,4.0
+Basil,Herb,5,6/2/2020,2.5
+Mint,Herb,6,6/2/2020,2.5
+Ruby Red Lettuce,Leafy Green,18,7/2/2020,4.0
+Green Emerald Lettuce,Leafy Green,18,8/2/2020,4.0
+Mizuna,Leafy Green,16,8/2/2020,3.8
+Chye Sim,Leafy Green,44,9/2/2020,3.5
+Mizuna,Leafy Green,14,10/2/2020,3.8
+Ruby Red Lettuce,Leafy Green,13,10/2/2020,4.0
+Basil,Herb,8,11/2/2020,2.5
+Chye Sim,Leafy Green,52,11/2/2020,3.5
+Mint,Herb,7,12/2/2020,2.5
+Green Emerald Lettuce,Leafy Green,28,12/2/2020,4.0
+Ruby Red Lettuce,Leafy Green,21,13/2/2020,4.0
+Chye Sim,Leafy Green,32,13/2/2020,3.5
+Mizuna,Leafy Green,23,13/2/2020,3.8
+Basil,Herb,13,14/2/2020,2.5
+Mint,Herb,8,15/2/2020,2.5
+Green Emerald Lettuce,Leafy Green,38,15/2/2020,4.0
+Ruby Red Lettuce,Leafy Green,23,16/2/2020,4.0
+Green Emerald Lettuce,Leafy Green,36,16/2/2020,4.0
+Mizuna,Leafy Green,20,17/2/2020,3.8
+Chye Sim,Leafy Green,66,17/2/2020,3.5
+Chye Sim,Leafy Green,32,18/2/2020,3.5
+Mizuna,Leafy Green,14,19/2/2020,3.8
+Green Emerald Lettuce,Leafy Green,33,19/2/2020,4.0
+Basil,Herb,12,19/2/2020,2.5
+Mint,Herb,8,19/2/2020,2.5
+Ruby Red Lettuce,Leafy Green,28,19/2/2020,4.0
+Chye Sim,Leafy Green,61,20/2/2020,3.5
+Green Emerald Lettuce,Leafy Green,32,20/2/2020,4.0
+Mizuna,Leafy Green,21,21/2/2020,3.8
+Ruby Red Lettuce,Leafy Green,22,21/2/2020,4.0
+Chye Sim,Leafy Green,48,22/2/2020,3.5
+Ruby Red Lettuce,Leafy Green,21,22/2/2020,4.0
+Mizuna,Leafy Green,23,23/2/2020,3.8
+Basil,Herb,10,23/2/2020,2.5
+Green Emerald Lettuce,Leafy Green,28,23/2/2020,4.0
+Mint,Herb,7,23/2/2020,2.5
+Green Emerald Lettuce,Leafy Green,36,24/2/2020,4.0
+Ruby Red Lettuce,Leafy Green,24,24/2/2020,4.0
+Basil,Herb,14,25/2/2020,2.5
+Mint,Herb,6,25/2/2020,2.5
+Mizuna,Leafy Green,28,25/2/2020,3.8
+Chye Sim,Leafy Green,43,25/2/2020,3.5
+Mizuna,Leafy Green,21,26/2/2020,3.8
+Green Emerald Lettuce,Leafy Green,34,26/2/2020,4.0
+Ruby Red Lettuce,Leafy Green,23,27/2/2020,4.0
+Chye Sim,Leafy Green,46,27/2/2020,3.5
+Basil,Herb,9,28/2/2020,2.5
+Mizuna,Leafy Green,25,28/2/2020,3.8
+Ruby Red Lettuce,Leafy Green,28,28/2/2020,4.0
+Chye Sim,Leafy Green,35,29/2/2020,3.5
+Green Emerald Lettuce,Leafy Green,34,29/2/2020,4.0
+Mint,Herb,8,29/2/2020,2.5
+Mint,Herb,9,1/3/2020,2.5
+Chye Sim,Leafy Green,37,1/3/2020,3.5
+Ruby Red Lettuce,Leafy Green,28,1/3/2020,4.0
+Mizuna,Leafy Green,22,2/3/2020,3.8
+Green Emerald Lettuce,Leafy Green,33,2/3/2020,4.0
+Basil,Herb,13,3/3/2020,2.5
+Mizuna,Leafy Green,25,4/3/2020,3.8
+Ruby Red Lettuce,Leafy Green,23,4/3/2020,4.0
+Mint,Herb,8,5/3/2020,2.5
+Basil,Herb,14,5/3/2020,2.5
+Green Emerald Lettuce,Leafy Green,45,6/3/2020,4.0
+Chye Sim,Leafy Green,49,6/3/2020,3.5
+Green Emerald Lettuce,Leafy Green,33,7/3/2020,4.0
+Chye Sim,Leafy Green,35,9/3/2020,3.5
+Mizuna,Leafy Green,26,9/3/2020,3.8
+Ruby Red Lettuce,Leafy Green,23,9/3/2020,4.0
+Chye Sim,Leafy Green,55,10/3/2020,3.5
+Mizuna,Leafy Green,27,11/3/2020,3.8
+Ruby Red Lettuce,Leafy Green,31,11/3/2020,4.0
+Mint,Herb,9,12/3/2020,2.5
+Green Emerald Lettuce,Leafy Green,45,12/3/2020,4.0
+Basil,Herb,15,12/3/2020,2.5
+Basil,Herb,14,13/3/2020,2.5
+Chye Sim,Leafy Green,39,14/3/2020,3.5
+Mint,Herb,9,14/3/2020,2.5
+Mizuna,Leafy Green,26,14/3/2020,3.8
+Green Emerald Lettuce,Leafy Green,51,14/3/2020,4.0
+Ruby Red Lettuce,Leafy Green,30,15/3/2020,4.0
+Green Emerald Lettuce,Leafy Green,33,16/3/2020,4.0
+Mizuna,Leafy Green,25,16/3/2020,3.8
+Ruby Red Lettuce,Leafy Green,26,17/3/2020,4.0
+Chye Sim,Leafy Green,39,17/3/2020,3.5
+Mint,Herb,8,18/3/2020,2.5
+Mizuna,Leafy Green,29,18/3/2020,3.8
+Chye Sim,Leafy Green,52,18/3/2020,3.5
+Green Emerald Lettuce,Leafy Green,48,18/3/2020,4.0
+Ruby Red Lettuce,Leafy Green,29,19/3/2020,4.0
+Basil,Herb,11,20/3/2020,2.5
+Ruby Red Lettuce,Leafy Green,24,20/3/2020,4.0
+Green Emerald Lettuce,Leafy Green,38,20/3/2020,4.0
+Chye Sim,Leafy Green,39,20/3/2020,3.5
+Mint,Herb,10,21/3/2020,2.5
+Mizuna,Leafy Green,21,21/3/2020,3.8
+Basil,Herb,10,22/3/2020,2.5
+Ruby Red Lettuce,Leafy Green,26,22/3/2020,4.0
+Chye Sim,Leafy Green,44,23/3/2020,3.5
+Mizuna,Leafy Green,33,23/3/2020,3.8
+Green Emerald Lettuce,Leafy Green,40,23/3/2020,4.0
+Chye Sim,Leafy Green,54,24/3/2020,3.5
+Mint,Herb,9,25/3/2020,2.5
+Basil,Herb,13,25/3/2020,2.5
+Mizuna,Leafy Green,24,25/3/2020,3.8
+Green Emerald Lettuce,Leafy Green,50,25/3/2020,4.0
+Ruby Red Lettuce,Leafy Green,29,25/3/2020,4.0
+Green Emerald Lettuce,Leafy Green,39,26/3/2020,4.0
+Mizuna,Leafy Green,22,27/3/2020,3.8
+Chye Sim,Leafy Green,31,27/3/2020,3.5
+Ruby Red Lettuce,Leafy Green,24,27/3/2020,4.0
+Mizuna,Leafy Green,22,28/3/2020,3.8
+Ruby Red Lettuce,Leafy Green,34,28/3/2020,4.0
+Basil,Herb,15,29/3/2020,2.5
+Chye Sim,Leafy Green,42,29/3/2020,3.5
+Mint,Herb,8,29/3/2020,2.5
+Green Emerald Lettuce,Leafy Green,31,29/3/2020,4.0
+Green Emerald Lettuce,Leafy Green,33,30/3/2020,4.0
+Chye Sim,Leafy Green,50,31/3/2020,3.5
+Ruby Red Lettuce,Leafy Green,30,31/3/2020,4.0
+Mizuna,Leafy Green,25,31/3/2020,3.8
+Mizuna,Leafy Green,14,1/4/2020,3.8
+Green Emerald Lettuce,Leafy Green,42,2/4/2020,4.0
+Ruby Red Lettuce,Leafy Green,30,2/4/2020,4.0
+Chye Sim,Leafy Green,51,3/4/2020,3.5
+Mint,Herb,14,4/4/2020,2.5
+Basil,Herb,18,4/4/2020,2.5
+Green Emerald Lettuce,Leafy Green,52,5/4/2020,4.0
+Chye Sim,Leafy Green,47,5/4/2020,3.5
+Ruby Red Lettuce,Leafy Green,36,6/4/2020,4.0
+Mizuna,Leafy Green,23,6/4/2020,3.8
+Basil,Herb,17,7/4/2020,2.5
+Chye Sim,Leafy Green,50,8/4/2020,3.5
+Mint,Herb,10,8/4/2020,2.5
+Ruby Red Lettuce,Leafy Green,26,8/4/2020,4.0
+Green Emerald Lettuce,Leafy Green,46,8/4/2020,4.0
+Basil,Herb,12,9/4/2020,2.5
+Mizuna,Leafy Green,20,9/4/2020,3.8
+Mint,Herb,11,10/4/2020,2.5
+Chye Sim,Leafy Green,53,10/4/2020,3.5
+Green Emerald Lettuce,Leafy Green,39,11/4/2020,4.0
+Ruby Red Lettuce,Leafy Green,30,12/4/2020,4.0
+Mizuna,Leafy Green,24,12/4/2020,3.8
+Basil,Herb,16,14/4/2020,2.5
+Mint,Herb,12,14/4/2020,2.5
+Ruby Red Lettuce,Leafy Green,24,15/4/2020,4.0
+Chye Sim,Leafy Green,39,15/4/2020,3.5
+Green Emerald Lettuce,Leafy Green,40,15/4/2020,4.0
+Mizuna,Leafy Green,19,15/4/2020,3.8
+Ruby Red Lettuce,Leafy Green,27,16/4/2020,4.0
+Green Emerald Lettuce,Leafy Green,48,16/4/2020,4.0
+Basil,Herb,18,17/4/2020,2.5
+Mizuna,Leafy Green,22,17/4/2020,3.8
+Mint,Herb,8,17/4/2020,2.5
+Chye Sim,Leafy Green,41,17/4/2020,3.5
+Ruby Red Lettuce,Leafy Green,26,19/4/2020,4.0
+Chye Sim,Leafy Green,52,19/4/2020,3.5
+Mizuna,Leafy Green,23,19/4/2020,3.8
+Green Emerald Lettuce,Leafy Green,35,20/4/2020,4.0
+Mizuna,Leafy Green,25,21/4/2020,3.8
+Ruby Red Lettuce,Leafy Green,28,22/4/2020,4.0
+Green Emerald Lettuce,Leafy Green,45,22/4/2020,4.0
+Chye Sim,Leafy Green,45,22/4/2020,3.5
+Green Emerald Lettuce,Leafy Green,44,23/4/2020,4.0
+Basil,Herb,17,23/4/2020,2.5
+Mizuna,Leafy Green,19,23/4/2020,3.8
+Chye Sim,Leafy Green,50,24/4/2020,3.5
+Ruby Red Lettuce,Leafy Green,41,24/4/2020,4.0
+Mint,Herb,11,24/4/2020,2.5
+Mizuna,Leafy Green,21,25/4/2020,3.8
+Green Emerald Lettuce,Leafy Green,36,25/4/2020,4.0
+Basil,Herb,11,26/4/2020,2.5
+Ruby Red Lettuce,Leafy Green,21,26/4/2020,4.0
+Chye Sim,Leafy Green,75,26/4/2020,3.5
+Chye Sim,Leafy Green,49,27/4/2020,3.5
+Ruby Red Lettuce,Leafy Green,31,27/4/2020,4.0
+Mint,Herb,5,27/4/2020,2.5
+Green Emerald Lettuce,Leafy Green,59,27/4/2020,4.0
+Mint,Herb,2,28/4/2020,2.5
+Basil,Herb,4,28/4/2020,2.5
+Mizuna,Leafy Green,7,28/4/2020,3.8
+Mizuna,Leafy Green,10,29/4/2020,3.8
+Green Emerald Lettuce,Leafy Green,29,30/4/2020,4.0
+Ruby Red Lettuce,Leafy Green,15,30/4/2020,4.0
+Chye Sim,Leafy Green,35,30/4/2020,3.5
+Chye Sim,Leafy Green,36,1/5/2020,3.5
+Ruby Red Lettuce,Leafy Green,24,1/5/2020,4.0
+Basil,Herb,12,2/5/2020,2.5
+Mint,Herb,6,2/5/2020,2.5
+Green Emerald Lettuce,Leafy Green,22,3/5/2020,4.0
+Mizuna,Leafy Green,11,3/5/2020,3.8
+Chye Sim,Leafy Green,13,4/5/2020,3.5
+Green Emerald Lettuce,Leafy Green,40,5/5/2020,4.0
+Basil,Herb,17,5/5/2020,2.5
+Ruby Red Lettuce,Leafy Green,34,5/5/2020,4.0
+Mizuna,Leafy Green,18,6/5/2020,3.8
+Ruby Red Lettuce,Leafy Green,32,7/5/2020,4.0
+Mizuna,Leafy Green,19,7/5/2020,3.8
+Mint,Herb,9,8/5/2020,2.5
+Chye Sim,Leafy Green,67,8/5/2020,3.5
+Green Emerald Lettuce,Leafy Green,42,8/5/2020,4.0
+Green Emerald Lettuce,Leafy Green,57,10/5/2020,4.0
+Mizuna,Leafy Green,25,11/5/2020,3.8
+Mint,Herb,15,11/5/2020,2.5
+Chye Sim,Leafy Green,39,11/5/2020,3.5
+Basil,Herb,19,11/5/2020,2.5
+Ruby Red Lettuce,Leafy Green,36,12/5/2020,4.0
+Mizuna,Leafy Green,18,13/5/2020,3.8
+Green Emerald Lettuce,Leafy Green,50,13/5/2020,4.0
+Chye Sim,Leafy Green,44,13/5/2020,3.5
+Mint,Herb,13,14/5/2020,2.5
+Ruby Red Lettuce,Leafy Green,33,14/5/2020,4.0
+Basil,Herb,18,15/5/2020,2.5
+Ruby Red Lettuce,Leafy Green,37,16/5/2020,4.0
+Green Emerald Lettuce,Leafy Green,41,16/5/2020,4.0
+Chye Sim,Leafy Green,49,16/5/2020,3.5
+Mizuna,Leafy Green,19,17/5/2020,3.8
+Basil,Herb,17,18/5/2020,2.5
+Mint,Herb,13,18/5/2020,2.5
+Chye Sim,Leafy Green,55,18/5/2020,3.5
+Green Emerald Lettuce,Leafy Green,52,19/5/2020,4.0
+Mizuna,Leafy Green,18,19/5/2020,3.8
+Ruby Red Lettuce,Leafy Green,26,19/5/2020,4.0
+Green Emerald Lettuce,Leafy Green,52,20/5/2020,4.0
+Mizuna,Leafy Green,19,20/5/2020,3.8
+Ruby Red Lettuce,Leafy Green,44,20/5/2020,4.0
+Chye Sim,Leafy Green,40,21/5/2020,3.5
+Mint,Herb,12,21/5/2020,2.5
+Mizuna,Leafy Green,22,22/5/2020,3.8
+Ruby Red Lettuce,Leafy Green,22,22/5/2020,4.0
+Basil,Herb,18,22/5/2020,2.5
+Green Emerald Lettuce,Leafy Green,51,23/5/2020,4.0
+Chye Sim,Leafy Green,64,23/5/2020,3.5
+Green Emerald Lettuce,Leafy Green,54,24/5/2020,4.0
+Chye Sim,Leafy Green,51,24/5/2020,3.5
+Mizuna,Leafy Green,20,25/5/2020,3.8
+Ruby Red Lettuce,Leafy Green,33,25/5/2020,4.0
+Mint,Herb,11,26/5/2020,2.5
+Green Emerald Lettuce,Leafy Green,38,27/5/2020,4.0
+Mizuna,Leafy Green,20,27/5/2020,3.8
+Chye Sim,Leafy Green,39,27/5/2020,3.5
+Ruby Red Lettuce,Leafy Green,32,27/5/2020,4.0
+Basil,Herb,15,28/5/2020,2.5
+Ruby Red Lettuce,Leafy Green,31,28/5/2020,4.0
+Mizuna,Leafy Green,24,28/5/2020,3.8
+Green Emerald Lettuce,Leafy Green,40,28/5/2020,4.0
+Chye Sim,Leafy Green,56,29/5/2020,3.5
+Mint,Herb,10,29/5/2020,2.5
+Basil,Herb,26,30/5/2020,2.5
+Mizuna,Leafy Green,18,31/5/2020,3.8
+Ruby Red Lettuce,Leafy Green,27,31/5/2020,4.0
+Chye Sim,Leafy Green,48,31/5/2020,3.5
+Green Emerald Lettuce,Leafy Green,58,31/5/2020,4.0
+Mint,Herb,16,1/6/2020,2.5
+Mizuna,Leafy Green,18,2/6/2020,3.8
+Basil,Herb,17,2/6/2020,2.5
+Ruby Red Lettuce,Leafy Green,30,2/6/2020,4.0
+Green Emerald Lettuce,Leafy Green,45,3/6/2020,4.0
+Chye Sim,Leafy Green,54,3/6/2020,3.5
+Chye Sim,Leafy Green,46,5/6/2020,3.5
+Mizuna,Leafy Green,15,5/6/2020,3.8
+Mint,Herb,12,5/6/2020,2.5
+Basil,Herb,19,5/6/2020,2.5
+Green Emerald Lettuce,Leafy Green,38,6/6/2020,4.0
+Ruby Red Lettuce,Leafy Green,37,6/6/2020,4.0
+Ruby Red Lettuce,Leafy Green,30,7/6/2020,4.0
+Mizuna,Leafy Green,17,8/6/2020,3.8
+Chye Sim,Leafy Green,69,9/6/2020,3.5
+Green Emerald Lettuce,Leafy Green,48,9/6/2020,4.0
+Mint,Herb,11,10/6/2020,2.5
+Basil,Herb,13,11/6/2020,2.5
+Ruby Red Lettuce,Leafy Green,27,11/6/2020,4.0
+Mizuna,Leafy Green,20,11/6/2020,3.8
+Green Emerald Lettuce,Leafy Green,34,12/6/2020,4.0
+Chye Sim,Leafy Green,55,12/6/2020,3.5
+Green Emerald Lettuce,Leafy Green,48,13/6/2020,4.0
+Ruby Red Lettuce,Leafy Green,29,13/6/2020,4.0
+Chye Sim,Leafy Green,45,13/6/2020,3.5
+Basil,Herb,19,14/6/2020,2.5
+Mint,Herb,14,14/6/2020,2.5
+Mizuna,Leafy Green,20,15/6/2020,3.8
+Ruby Red Lettuce,Leafy Green,32,17/6/2020,4.0
+Basil,Herb,16,17/6/2020,2.5
+Mizuna,Leafy Green,19,18/6/2020,3.8
+Chye Sim,Leafy Green,48,18/6/2020,3.5
+Green Emerald Lettuce,Leafy Green,58,18/6/2020,4.0
+Chye Sim,Leafy Green,62,19/6/2020,3.5
+Green Emerald Lettuce,Leafy Green,45,20/6/2020,4.0
+Mint,Herb,10,20/6/2020,2.5
+Mizuna,Leafy Green,24,20/6/2020,3.8
+Ruby Red Lettuce,Leafy Green,39,20/6/2020,4.0
+Green Emerald Lettuce,Leafy Green,44,21/6/2020,4.0
+Ruby Red Lettuce,Leafy Green,46,21/6/2020,4.0
+Basil,Herb,21,22/6/2020,2.5
+Chye Sim,Leafy Green,51,22/6/2020,3.5
+Mizuna,Leafy Green,15,22/6/2020,3.8
+Mint,Herb,14,22/6/2020,2.5
+Green Emerald Lettuce,Leafy Green,52,23/6/2020,4.0
+Chye Sim,Leafy Green,45,23/6/2020,3.5
+Mizuna,Leafy Green,20,23/6/2020,3.8
+Ruby Red Lettuce,Leafy Green,38,24/6/2020,4.0
+Basil,Herb,19,25/6/2020,2.5
+Green Emerald Lettuce,Leafy Green,40,26/6/2020,4.0
+Chye Sim,Leafy Green,57,26/6/2020,3.5
+Ruby Red Lettuce,Leafy Green,37,26/6/2020,4.0
+Mizuna,Leafy Green,16,26/6/2020,3.8
+Mint,Herb,16,27/6/2020,2.5
+Ruby Red Lettuce,Leafy Green,35,27/6/2020,4.0
+Green Emerald Lettuce,Leafy Green,49,28/6/2020,4.0
+Mizuna,Leafy Green,26,28/6/2020,3.8
+Chye Sim,Leafy Green,57,28/6/2020,3.5
+Green Emerald Lettuce,Leafy Green,46,29/6/2020,4.0
+Chye Sim,Leafy Green,52,29/6/2020,3.5
+Mint,Herb,10,29/6/2020,2.5
+Mizuna,Leafy Green,14,30/6/2020,3.8
+Basil,Herb,24,30/6/2020,2.5
+Ruby Red Lettuce,Leafy Green,28,30/6/2020,4.0
+Chye Sim,Leafy Green,43,1/7/2020,3.5
+Basil,Herb,16,1/7/2020,2.5
+Ruby Red Lettuce,Leafy Green,38,2/7/2020,4.0
+Mizuna,Leafy Green,17,2/7/2020,3.8
+Green Emerald Lettuce,Leafy Green,40,3/7/2020,4.0
+Mint,Herb,12,4/7/2020,2.5
+Mizuna,Leafy Green,20,4/7/2020,3.8
+Ruby Red Lettuce,Leafy Green,39,4/7/2020,4.0
+Green Emerald Lettuce,Leafy Green,46,6/7/2020,4.0
+Chye Sim,Leafy Green,79,6/7/2020,3.5
+Basil,Herb,17,7/7/2020,2.5
+Mint,Herb,9,7/7/2020,2.5
+Green Emerald Lettuce,Leafy Green,43,8/7/2020,4.0
+Ruby Red Lettuce,Leafy Green,29,8/7/2020,4.0
+Mizuna,Leafy Green,12,9/7/2020,3.8
+Chye Sim,Leafy Green,60,9/7/2020,3.5
+Mizuna,Leafy Green,10,10/7/2020,3.8
+Mint,Herb,10,11/7/2020,2.5
+Ruby Red Lettuce,Leafy Green,23,12/7/2020,4.0
+Green Emerald Lettuce,Leafy Green,43,12/7/2020,4.0
+Basil,Herb,11,12/7/2020,2.5
+Chye Sim,Leafy Green,73,12/7/2020,3.5
+Mint,Herb,9,13/7/2020,2.5
+Green Emerald Lettuce,Leafy Green,34,14/7/2020,4.0
+Chye Sim,Leafy Green,46,14/7/2020,3.5
+Mizuna,Leafy Green,16,15/7/2020,3.8
+Ruby Red Lettuce,Leafy Green,42,15/7/2020,4.0
+Basil,Herb,31,15/7/2020,2.5
+Chye Sim,Leafy Green,53,16/7/2020,3.5
+Ruby Red Lettuce,Leafy Green,33,16/7/2020,4.0
+Green Emerald Lettuce,Leafy Green,42,16/7/2020,4.0
+Mizuna,Leafy Green,16,17/7/2020,3.8
+Chye Sim,Leafy Green,61,18/7/2020,3.5
+Ruby Red Lettuce,Leafy Green,29,18/7/2020,4.0
+Mint,Herb,10,18/7/2020,2.5
+Green Emerald Lettuce,Leafy Green,46,19/7/2020,4.0
+Basil,Herb,17,19/7/2020,2.5
+Mizuna,Leafy Green,15,19/7/2020,3.8
+Mizuna,Leafy Green,10,20/7/2020,3.8
+Green Emerald Lettuce,Leafy Green,32,20/7/2020,4.0
+Chye Sim,Leafy Green,65,20/7/2020,3.5
+Ruby Red Lettuce,Leafy Green,42,21/7/2020,4.0
+Basil,Herb,20,22/7/2020,2.5
+Green Emerald Lettuce,Leafy Green,33,22/7/2020,4.0
+Chye Sim,Leafy Green,60,22/7/2020,3.5
+Mizuna,Leafy Green,16,23/7/2020,3.8
+Ruby Red Lettuce,Leafy Green,31,23/7/2020,4.0
+Mint,Herb,13,23/7/2020,2.5
+Green Emerald Lettuce,Leafy Green,29,24/7/2020,4.0
+Ruby Red Lettuce,Leafy Green,38,24/7/2020,4.0
+Chye Sim,Leafy Green,63,24/7/2020,3.5
+Basil,Herb,18,25/7/2020,2.5
+Mint,Herb,12,25/7/2020,2.5
+Mizuna,Leafy Green,12,25/7/2020,3.8
+Ruby Red Lettuce,Leafy Green,28,26/7/2020,4.0
+Mizuna,Leafy Green,13,26/7/2020,3.8
+Chye Sim,Leafy Green,38,26/7/2020,3.5
+Green Emerald Lettuce,Leafy Green,31,27/7/2020,4.0
+Ruby Red Lettuce,Leafy Green,36,28/7/2020,4.0
+Chye Sim,Leafy Green,48,28/7/2020,3.5
+Mint,Herb,9,29/7/2020,2.5
+Green Emerald Lettuce,Leafy Green,37,29/7/2020,4.0
+Mizuna,Leafy Green,12,29/7/2020,3.8
+Green Emerald Lettuce,Leafy Green,42,30/7/2020,4.0
+Mizuna,Leafy Green,11,30/7/2020,3.8
+Basil,Herb,13,30/7/2020,2.5
+Chye Sim,Leafy Green,47,31/7/2020,3.5
+Ruby Red Lettuce,Leafy Green,36,31/7/2020,4.0
+Green Emerald Lettuce,Leafy Green,27,1/8/2020,4.0
+Chye Sim,Leafy Green,55,2/8/2020,3.5
+Mizuna,Leafy Green,17,2/8/2020,3.8
+Ruby Red Lettuce,Leafy Green,29,2/8/2020,4.0
+Mint,Herb,10,4/8/2020,2.5
+Basil,Herb,20,4/8/2020,2.5
+Green Emerald Lettuce,Leafy Green,41,4/8/2020,4.0
+Mizuna,Leafy Green,14,4/8/2020,3.8
+Mint,Herb,5,5/8/2020,2.5
+Chye Sim,Leafy Green,34,5/8/2020,3.5
+Basil,Herb,10,6/8/2020,2.5
+Ruby Red Lettuce,Leafy Green,26,6/8/2020,4.0
+Ruby Red Lettuce,Leafy Green,24,7/8/2020,4.0
+Green Emerald Lettuce,Leafy Green,22,8/8/2020,4.0
+Basil,Herb,12,9/8/2020,2.5
+Chye Sim,Leafy Green,38,9/8/2020,3.5
+Mizuna,Leafy Green,9,9/8/2020,3.8
+Mizuna,Leafy Green,14,10/8/2020,3.8
+Ruby Red Lettuce,Leafy Green,30,10/8/2020,4.0
+Green Emerald Lettuce,Leafy Green,34,10/8/2020,4.0
+Chye Sim,Leafy Green,62,11/8/2020,3.5
+Mint,Herb,8,11/8/2020,2.5
+Mizuna,Leafy Green,14,13/8/2020,3.8
+Mint,Herb,11,14/8/2020,2.5
+Chye Sim,Leafy Green,56,14/8/2020,3.5
+Ruby Red Lettuce,Leafy Green,26,14/8/2020,4.0
+Basil,Herb,19,15/8/2020,2.5
+Green Emerald Lettuce,Leafy Green,43,15/8/2020,4.0
+Mizuna,Leafy Green,14,17/8/2020,3.8
+Basil,Herb,12,17/8/2020,2.5
+Green Emerald Lettuce,Leafy Green,39,17/8/2020,4.0
+Ruby Red Lettuce,Leafy Green,24,17/8/2020,4.0
+Chye Sim,Leafy Green,59,17/8/2020,3.5
+Ruby Red Lettuce,Leafy Green,33,18/8/2020,4.0
+Green Emerald Lettuce,Leafy Green,29,19/8/2020,4.0
+Mizuna,Leafy Green,14,19/8/2020,3.8
+Chye Sim,Leafy Green,57,19/8/2020,3.5
+Mint,Herb,11,20/8/2020,2.5
+Mizuna,Leafy Green,17,21/8/2020,3.8
+Ruby Red Lettuce,Leafy Green,27,21/8/2020,4.0
+Chye Sim,Leafy Green,38,21/8/2020,3.5
+Basil,Herb,20,21/8/2020,2.5
+Green Emerald Lettuce,Leafy Green,33,21/8/2020,4.0
+Mizuna,Leafy Green,14,22/8/2020,3.8
+Green Emerald Lettuce,Leafy Green,30,22/8/2020,4.0
+Ruby Red Lettuce,Leafy Green,24,23/8/2020,4.0
+Chye Sim,Leafy Green,42,23/8/2020,3.5
+Mint,Herb,9,23/8/2020,2.5
+Chye Sim,Leafy Green,75,24/8/2020,3.5
+Green Emerald Lettuce,Leafy Green,27,25/8/2020,4.0
+Mizuna,Leafy Green,14,25/8/2020,3.8
+Ruby Red Lettuce,Leafy Green,27,25/8/2020,4.0
+Chye Sim,Leafy Green,78,26/8/2020,3.5
+Mint,Herb,13,27/8/2020,2.5
+Basil,Herb,16,27/8/2020,2.5
+Mizuna,Leafy Green,13,27/8/2020,3.8
+Green Emerald Lettuce,Leafy Green,40,27/8/2020,4.0
+Ruby Red Lettuce,Leafy Green,26,27/8/2020,4.0
+Chye Sim,Leafy Green,62,28/8/2020,3.5
+Mizuna,Leafy Green,14,29/8/2020,3.8
+Green Emerald Lettuce,Leafy Green,46,29/8/2020,4.0
+Ruby Red Lettuce,Leafy Green,39,29/8/2020,4.0
+Green Emerald Lettuce,Leafy Green,29,30/8/2020,4.0
+Mint,Herb,9,30/8/2020,2.5
+Mizuna,Leafy Green,19,30/8/2020,3.8
+Basil,Herb,20,31/8/2020,2.5
+Ruby Red Lettuce,Leafy Green,34,31/8/2020,4.0
+Chye Sim,Leafy Green,63,31/8/2020,3.5
+Mizuna,Leafy Green,13,1/9/2020,3.8
+Mint,Herb,12,1/9/2020,2.5
+Green Emerald Lettuce,Leafy Green,30,2/9/2020,4.0
+Chye Sim,Leafy Green,52,2/9/2020,3.5
+Ruby Red Lettuce,Leafy Green,17,3/9/2020,4.0
+Ruby Red Lettuce,Leafy Green,22,4/9/2020,4.0
+Basil,Herb,16,4/9/2020,2.5
+Mizuna,Leafy Green,17,4/9/2020,3.8
+Mint,Herb,9,5/9/2020,2.5
+Green Emerald Lettuce,Leafy Green,27,5/9/2020,4.0
+Chye Sim,Leafy Green,47,6/9/2020,3.5
+Basil,Herb,14,6/9/2020,2.5
+Ruby Red Lettuce,Leafy Green,31,7/9/2020,4.0
+Mizuna,Leafy Green,17,7/9/2020,3.8
+Green Emerald Lettuce,Leafy Green,31,8/9/2020,4.0
+Chye Sim,Leafy Green,46,8/9/2020,3.5
+Mizuna,Leafy Green,21,10/9/2020,3.8
+Chye Sim,Leafy Green,56,11/9/2020,3.5
+Mint,Herb,12,11/9/2020,2.5
+Basil,Herb,16,12/9/2020,2.5
+Green Emerald Lettuce,Leafy Green,31,12/9/2020,4.0
+Ruby Red Lettuce,Leafy Green,24,12/9/2020,4.0
+Mizuna,Leafy Green,19,13/9/2020,3.8
+Mint,Herb,10,13/9/2020,2.5
+Green Emerald Lettuce,Leafy Green,31,13/9/2020,4.0
+Basil,Herb,20,14/9/2020,2.5
+Chye Sim,Leafy Green,44,14/9/2020,3.5
+Ruby Red Lettuce,Leafy Green,28,14/9/2020,4.0
+Ruby Red Lettuce,Leafy Green,24,16/9/2020,4.0
+Green Emerald Lettuce,Leafy Green,38,17/9/2020,4.0
+Mint,Herb,11,17/9/2020,2.5
+Mizuna,Leafy Green,17,18/9/2020,3.8
+Chye Sim,Leafy Green,48,18/9/2020,3.5
+Ruby Red Lettuce,Leafy Green,27,19/9/2020,4.0
+Chye Sim,Leafy Green,60,19/9/2020,3.5
+Green Emerald Lettuce,Leafy Green,37,19/9/2020,4.0
+Mizuna,Leafy Green,21,20/9/2020,3.8
+Basil,Herb,16,20/9/2020,2.5
+Mizuna,Leafy Green,11,21/9/2020,3.8
+Mint,Herb,11,22/9/2020,2.5
+Ruby Red Lettuce,Leafy Green,24,22/9/2020,4.0
+Green Emerald Lettuce,Leafy Green,29,22/9/2020,4.0
+Chye Sim,Leafy Green,49,22/9/2020,3.5
+Green Emerald Lettuce,Leafy Green,34,23/9/2020,4.0
+Mizuna,Leafy Green,18,23/9/2020,3.8
+Ruby Red Lettuce,Leafy Green,34,23/9/2020,4.0
+Chye Sim,Leafy Green,55,23/9/2020,3.5
+Basil,Herb,17,24/9/2020,2.5
+Mizuna,Leafy Green,18,25/9/2020,3.8
+Ruby Red Lettuce,Leafy Green,27,25/9/2020,4.0
+Chye Sim,Leafy Green,48,26/9/2020,3.5
+Mint,Herb,13,26/9/2020,2.5
+Basil,Herb,16,26/9/2020,2.5
+Green Emerald Lettuce,Leafy Green,29,26/9/2020,4.0
+Green Emerald Lettuce,Leafy Green,21,27/9/2020,4.0
+Chye Sim,Leafy Green,56,27/9/2020,3.5
+Mizuna,Leafy Green,13,28/9/2020,3.8
+Ruby Red Lettuce,Leafy Green,29,28/9/2020,4.0
+Mizuna,Leafy Green,22,29/9/2020,3.8
+Ruby Red Lettuce,Leafy Green,23,29/9/2020,4.0
+Chye Sim,Leafy Green,70,30/9/2020,3.5
+Green Emerald Lettuce,Leafy Green,25,30/9/2020,4.0
+Mint,Herb,9,30/9/2020,2.5
+Basil,Herb,14,30/9/2020,2.5
+Chye Sim,Leafy Green,48,1/10/2020,3.5
+Ruby Red Lettuce,Leafy Green,30,2/10/2020,4.0
+Mizuna,Leafy Green,15,2/10/2020,3.8
+Green Emerald Lettuce,Leafy Green,42,2/10/2020,4.0
+Mint,Herb,9,3/10/2020,2.5
+Ruby Red Lettuce,Leafy Green,27,4/10/2020,4.0
+Basil,Herb,13,4/10/2020,2.5
+Green Emerald Lettuce,Leafy Green,46,5/10/2020,4.0
+Chye Sim,Leafy Green,41,5/10/2020,3.5
+Mint,Herb,9,5/10/2020,2.5
+Basil,Herb,15,5/10/2020,2.5
+Mizuna,Leafy Green,21,5/10/2020,3.8
+Green Emerald Lettuce,Leafy Green,41,7/10/2020,4.0
+Chye Sim,Leafy Green,50,7/10/2020,3.5
+Ruby Red Lettuce,Leafy Green,25,9/10/2020,4.0
+Mizuna,Leafy Green,19,9/10/2020,3.8
+Mizuna,Leafy Green,17,10/10/2020,3.8
+Basil,Herb,18,10/10/2020,2.5
+Chye Sim,Leafy Green,49,10/10/2020,3.5
+Mint,Herb,10,10/10/2020,2.5
+Green Emerald Lettuce,Leafy Green,36,11/10/2020,4.0
+Ruby Red Lettuce,Leafy Green,23,12/10/2020,4.0
+Ruby Red Lettuce,Leafy Green,20,13/10/2020,4.0
+Green Emerald Lettuce,Leafy Green,29,13/10/2020,4.0
+Chye Sim,Leafy Green,55,15/10/2020,3.5
+Mizuna,Leafy Green,15,15/10/2020,3.8
+Mint,Herb,10,16/10/2020,2.5
+Mizuna,Leafy Green,18,16/10/2020,3.8
+Basil,Herb,16,16/10/2020,2.5
+Chye Sim,Leafy Green,41,16/10/2020,3.5
+Green Emerald Lettuce,Leafy Green,34,16/10/2020,4.0
+Ruby Red Lettuce,Leafy Green,33,17/10/2020,4.0
+Basil,Herb,12,17/10/2020,2.5
+Chye Sim,Leafy Green,54,18/10/2020,3.5
+Mint,Herb,9,18/10/2020,2.5
+Green Emerald Lettuce,Leafy Green,34,18/10/2020,4.0
+Ruby Red Lettuce,Leafy Green,22,18/10/2020,4.0
+Mizuna,Leafy Green,23,19/10/2020,3.8
+Mizuna,Leafy Green,20,20/10/2020,3.8
+Green Emerald Lettuce,Leafy Green,43,20/10/2020,4.0
+Chye Sim,Leafy Green,57,20/10/2020,3.5
+Ruby Red Lettuce,Leafy Green,25,21/10/2020,4.0
+Basil,Herb,10,21/10/2020,2.5
+Chye Sim,Leafy Green,56,22/10/2020,3.5
+Ruby Red Lettuce,Leafy Green,25,22/10/2020,4.0
+Mizuna,Leafy Green,16,23/10/2020,3.8
+Green Emerald Lettuce,Leafy Green,25,23/10/2020,4.0
+Mint,Herb,9,24/10/2020,2.5
+Green Emerald Lettuce,Leafy Green,45,24/10/2020,4.0
+Mizuna,Leafy Green,18,24/10/2020,3.8
+Chye Sim,Leafy Green,64,24/10/2020,3.5
+Ruby Red Lettuce,Leafy Green,25,25/10/2020,4.0
+Basil,Herb,19,25/10/2020,2.5
+Green Emerald Lettuce,Leafy Green,35,26/10/2020,4.0
+Mizuna,Leafy Green,20,26/10/2020,3.8
+Chye Sim,Leafy Green,43,26/10/2020,3.5
+Ruby Red Lettuce,Leafy Green,27,26/10/2020,4.0
+Mint,Herb,9,27/10/2020,2.5
+Ruby Red Lettuce,Leafy Green,19,28/10/2020,4.0
+Chye Sim,Leafy Green,38,29/10/2020,3.5
+Mizuna,Leafy Green,12,29/10/2020,3.8
+Basil,Herb,14,29/10/2020,2.5
+Green Emerald Lettuce,Leafy Green,31,29/10/2020,4.0
+Chye Sim,Leafy Green,33,30/10/2020,3.5
+Green Emerald Lettuce,Leafy Green,29,30/10/2020,4.0
+Mint,Herb,9,30/10/2020,2.5
+Mizuna,Leafy Green,19,31/10/2020,3.8
+Ruby Red Lettuce,Leafy Green,27,31/10/2020,4.0
+Green Emerald Lettuce,Leafy Green,43,1/11/2020,4.0
+Mint,Herb,8,1/11/2020,2.5
+Mizuna,Leafy Green,22,3/11/2020,3.8
+Ruby Red Lettuce,Leafy Green,21,3/11/2020,4.0
+Chye Sim,Leafy Green,42,3/11/2020,3.5
+Basil,Herb,11,4/11/2020,2.5
+Green Emerald Lettuce,Leafy Green,39,4/11/2020,4.0
+Chye Sim,Leafy Green,41,5/11/2020,3.5
+Mizuna,Leafy Green,27,6/11/2020,3.8
+Ruby Red Lettuce,Leafy Green,35,6/11/2020,4.0
+Basil,Herb,13,6/11/2020,2.5
+Mint,Herb,6,7/11/2020,2.5
+Green Emerald Lettuce,Leafy Green,37,8/11/2020,4.0
+Mizuna,Leafy Green,19,8/11/2020,3.8
+Chye Sim,Leafy Green,42,8/11/2020,3.5
+Ruby Red Lettuce,Leafy Green,27,9/11/2020,4.0
+Basil,Herb,11,9/11/2020,2.5
+Green Emerald Lettuce,Leafy Green,50,10/11/2020,4.0
+Chye Sim,Leafy Green,60,11/11/2020,3.5
+Mizuna,Leafy Green,16,12/11/2020,3.8
+Mint,Herb,7,12/11/2020,2.5
+Ruby Red Lettuce,Leafy Green,30,12/11/2020,4.0
+Green Emerald Lettuce,Leafy Green,31,13/11/2020,4.0
+Chye Sim,Leafy Green,28,13/11/2020,3.5
+Basil,Herb,13,13/11/2020,2.5
+Ruby Red Lettuce,Leafy Green,30,15/11/2020,4.0
+Mizuna,Leafy Green,15,15/11/2020,3.8
+Mint,Herb,9,15/11/2020,2.5
+Green Emerald Lettuce,Leafy Green,39,16/11/2020,4.0
+Mizuna,Leafy Green,21,17/11/2020,3.8
+Ruby Red Lettuce,Leafy Green,23,17/11/2020,4.0
+Basil,Herb,12,17/11/2020,2.5
+Chye Sim,Leafy Green,54,17/11/2020,3.5
+Mint,Herb,5,19/11/2020,2.5
+Chye Sim,Leafy Green,29,19/11/2020,3.5
+Mizuna,Leafy Green,13,20/11/2020,3.8
+Ruby Red Lettuce,Leafy Green,19,20/11/2020,4.0
+Green Emerald Lettuce,Leafy Green,37,20/11/2020,4.0
+Ruby Red Lettuce,Leafy Green,31,21/11/2020,4.0
+Green Emerald Lettuce,Leafy Green,40,21/11/2020,4.0
+Basil,Herb,18,22/11/2020,2.5
+Chye Sim,Leafy Green,44,22/11/2020,3.5
+Mizuna,Leafy Green,37,22/11/2020,3.8
+Chye Sim,Leafy Green,49,23/11/2020,3.5
+Mizuna,Leafy Green,17,23/11/2020,3.8
+Green Emerald Lettuce,Leafy Green,35,24/11/2020,4.0
+Mint,Herb,6,24/11/2020,2.5
+Ruby Red Lettuce,Leafy Green,19,24/11/2020,4.0
+Mint,Herb,5,25/11/2020,2.5
+Ruby Red Lettuce,Leafy Green,16,25/11/2020,4.0
+Chye Sim,Leafy Green,22,25/11/2020,3.5
+Mizuna,Leafy Green,14,25/11/2020,3.8
+Green Emerald Lettuce,Leafy Green,30,26/11/2020,4.0
+Basil,Herb,11,26/11/2020,2.5
+Chye Sim,Leafy Green,37,27/11/2020,3.5
+Mizuna,Leafy Green,23,28/11/2020,3.8
+Green Emerald Lettuce,Leafy Green,42,28/11/2020,4.0
+Ruby Red Lettuce,Leafy Green,26,28/11/2020,4.0
+Mizuna,Leafy Green,22,29/11/2020,3.8
+Ruby Red Lettuce,Leafy Green,26,29/11/2020,4.0
+Mint,Herb,10,29/11/2020,2.5
+Basil,Herb,10,30/11/2020,2.5
+Green Emerald Lettuce,Leafy Green,39,30/11/2020,4.0
+Chye Sim,Leafy Green,40,30/11/2020,3.5
+Green Emerald Lettuce,Leafy Green,41,1/12/2020,4.0
+Basil,Herb,10,1/12/2020,2.5
+Ruby Red Lettuce,Leafy Green,24,1/12/2020,4.0
+Mint,Herb,8,3/12/2020,2.5
+Mizuna,Leafy Green,28,3/12/2020,3.8
+Chye Sim,Leafy Green,41,3/12/2020,3.5
+Chye Sim,Leafy Green,46,4/12/2020,3.5
+Mizuna,Leafy Green,21,4/12/2020,3.8
+Green Emerald Lettuce,Leafy Green,61,5/12/2020,4.0
+Ruby Red Lettuce,Leafy Green,27,6/12/2020,4.0
+Mizuna,Leafy Green,29,7/12/2020,3.8
+Mint,Herb,6,7/12/2020,2.5
+Basil,Herb,8,7/12/2020,2.5
+Ruby Red Lettuce,Leafy Green,30,8/12/2020,4.0
+Chye Sim,Leafy Green,55,9/12/2020,3.5
+Green Emerald Lettuce,Leafy Green,45,9/12/2020,4.0
+Mizuna,Leafy Green,27,11/12/2020,3.8
+Basil,Herb,11,11/12/2020,2.5
+Ruby Red Lettuce,Leafy Green,33,11/12/2020,4.0
+Mint,Herb,8,11/12/2020,2.5
+Green Emerald Lettuce,Leafy Green,45,12/12/2020,4.0
+Chye Sim,Leafy Green,39,12/12/2020,3.5
+Mizuna,Leafy Green,22,13/12/2020,3.8
+Ruby Red Lettuce,Leafy Green,25,14/12/2020,4.0
+Chye Sim,Leafy Green,52,15/12/2020,3.5
+Green Emerald Lettuce,Leafy Green,39,15/12/2020,4.0
+Mint,Herb,7,15/12/2020,2.5
+Chye Sim,Leafy Green,35,16/12/2020,3.5
+Basil,Herb,11,16/12/2020,2.5
+Green Emerald Lettuce,Leafy Green,49,17/12/2020,4.0
+Mizuna,Leafy Green,28,17/12/2020,3.8
+Ruby Red Lettuce,Leafy Green,28,17/12/2020,4.0
+Mizuna,Leafy Green,14,19/12/2020,3.8
+Chye Sim,Leafy Green,32,19/12/2020,3.5
+Ruby Red Lettuce,Leafy Green,12,19/12/2020,4.0
+Green Emerald Lettuce,Leafy Green,19,19/12/2020,4.0
+Mint,Herb,6,20/12/2020,2.5
+Chye Sim,Leafy Green,39,20/12/2020,3.5
+Basil,Herb,7,20/12/2020,2.5
+Mizuna,Leafy Green,18,20/12/2020,3.8
+Green Emerald Lettuce,Leafy Green,43,21/12/2020,4.0
+Ruby Red Lettuce,Leafy Green,29,21/12/2020,4.0
+Chye Sim,Leafy Green,63,22/12/2020,3.5
+Mint,Herb,7,22/12/2020,2.5
+Green Emerald Lettuce,Leafy Green,84,22/12/2020,4.0
+Ruby Red Lettuce,Leafy Green,29,22/12/2020,4.0
+Mizuna,Leafy Green,18,23/12/2020,3.8
+Ruby Red Lettuce,Leafy Green,21,24/12/2020,4.0
+Basil,Herb,9,24/12/2020,2.5
+Green Emerald Lettuce,Leafy Green,23,25/12/2020,4.0
+Mizuna,Leafy Green,11,25/12/2020,3.8
+Chye Sim,Leafy Green,27,25/12/2020,3.5
+Green Emerald Lettuce,Leafy Green,46,26/12/2020,4.0
+Basil,Herb,10,26/12/2020,2.5
+Chye Sim,Leafy Green,64,26/12/2020,3.5
+Mizuna,Leafy Green,21,26/12/2020,3.8
+Mint,Herb,6,27/12/2020,2.5
+Ruby Red Lettuce,Leafy Green,21,27/12/2020,4.0
+Ruby Red Lettuce,Leafy Green,24,28/12/2020,4.0
+Chye Sim,Leafy Green,60,28/12/2020,3.5
+Green Emerald Lettuce,Leafy Green,38,29/12/2020,4.0
+Basil,Herb,11,29/12/2020,2.5
+Mizuna,Leafy Green,25,29/12/2020,3.8
+Ruby Red Lettuce,Leafy Green,36,30/12/2020,4.0
+Mint,Herb,8,31/12/2020,2.5
+Chye Sim,Leafy Green,39,31/12/2020,3.5
+Green Emerald Lettuce,Leafy Green,41,31/12/2020,4.0
+Mizuna,Leafy Green,24,31/12/2020,3.8
+Mizuna,Leafy Green,21,1/1/2021,3.8
+Green Emerald Lettuce,Leafy Green,39,1/1/2021,4.0
+Mint,Herb,6,1/1/2021,2.5
+Basil,Herb,9,1/1/2021,2.5
+Ruby Red Lettuce,Leafy Green,25,2/1/2021,4.0
+Chye Sim,Leafy Green,55,3/1/2021,3.5
+Mizuna,Leafy Green,26,4/1/2021,3.8
+Chye Sim,Leafy Green,56,4/1/2021,3.5
+Ruby Red Lettuce,Leafy Green,24,4/1/2021,4.0
+Basil,Herb,9,5/1/2021,2.5
+Green Emerald Lettuce,Leafy Green,29,6/1/2021,4.0
+Green Emerald Lettuce,Leafy Green,29,7/1/2021,4.0
+Ruby Red Lettuce,Leafy Green,26,8/1/2021,4.0
+Mint,Herb,8,8/1/2021,2.5
+Chye Sim,Leafy Green,52,9/1/2021,3.5
+Mizuna,Leafy Green,17,9/1/2021,3.8
+Mint,Herb,7,10/1/2021,2.5
+Ruby Red Lettuce,Leafy Green,33,11/1/2021,4.0
+Green Emerald Lettuce,Leafy Green,35,11/1/2021,4.0
+Chye Sim,Leafy Green,54,12/1/2021,3.5
+Basil,Herb,8,12/1/2021,2.5
+Mizuna,Leafy Green,22,12/1/2021,3.8
+Chye Sim,Leafy Green,63,13/1/2021,3.5
+Basil,Herb,9,14/1/2021,2.5
+Mizuna,Leafy Green,19,15/1/2021,3.8
+Ruby Red Lettuce,Leafy Green,27,15/1/2021,4.0
+Green Emerald Lettuce,Leafy Green,41,15/1/2021,4.0
+Ruby Red Lettuce,Leafy Green,29,16/1/2021,4.0
+Chye Sim,Leafy Green,47,16/1/2021,3.5
+Mint,Herb,7,16/1/2021,2.5
+Mizuna,Leafy Green,19,17/1/2021,3.8
+Mint,Herb,8,17/1/2021,2.5
+Green Emerald Lettuce,Leafy Green,31,17/1/2021,4.0
+Chye Sim,Leafy Green,61,18/1/2021,3.5
+Basil,Herb,9,18/1/2021,2.5
+Mizuna,Leafy Green,20,19/1/2021,3.8
+Ruby Red Lettuce,Leafy Green,21,19/1/2021,4.0
+Green Emerald Lettuce,Leafy Green,29,19/1/2021,4.0
+Chye Sim,Leafy Green,48,20/1/2021,3.5
+Green Emerald Lettuce,Leafy Green,32,20/1/2021,4.0
+Mizuna,Leafy Green,16,20/1/2021,3.8
+Mint,Herb,5,21/1/2021,2.5
+Ruby Red Lettuce,Leafy Green,25,21/1/2021,4.0
+Basil,Herb,13,21/1/2021,2.5
+Ruby Red Lettuce,Leafy Green,30,22/1/2021,4.0
+Green Emerald Lettuce,Leafy Green,25,23/1/2021,4.0
+Mizuna,Leafy Green,21,23/1/2021,3.8
+Chye Sim,Leafy Green,52,23/1/2021,3.5
+Green Emerald Lettuce,Leafy Green,29,24/1/2021,4.0
+Mizuna,Leafy Green,18,24/1/2021,3.8
+Chye Sim,Leafy Green,53,24/1/2021,3.5
+Basil,Herb,13,25/1/2021,2.5
+Ruby Red Lettuce,Leafy Green,26,25/1/2021,4.0
+Green Emerald Lettuce,Leafy Green,28,26/1/2021,4.0
+Mizuna,Leafy Green,21,26/1/2021,3.8
+Chye Sim,Leafy Green,57,26/1/2021,3.5
+Ruby Red Lettuce,Leafy Green,30,26/1/2021,4.0
+Mizuna,Leafy Green,22,28/1/2021,3.8
+Mint,Herb,9,28/1/2021,2.5
+Ruby Red Lettuce,Leafy Green,24,28/1/2021,4.0
+Chye Sim,Leafy Green,53,28/1/2021,3.5
+Green Emerald Lettuce,Leafy Green,28,28/1/2021,4.0
+Chye Sim,Leafy Green,60,30/1/2021,3.5
+Mizuna,Leafy Green,27,30/1/2021,3.8
+Mint,Herb,9,30/1/2021,2.5
+Ruby Red Lettuce,Leafy Green,35,30/1/2021,4.0
+Basil,Herb,9,31/1/2021,2.5
+Green Emerald Lettuce,Leafy Green,34,31/1/2021,4.0
+Green Emerald Lettuce,Leafy Green,42,2/2/2021,4.0
+Chye Sim,Leafy Green,45,2/2/2021,3.5
+Basil,Herb,12,2/2/2021,2.5
+Ruby Red Lettuce,Leafy Green,23,2/2/2021,4.0
+Mint,Herb,10,3/2/2021,2.5
+Mizuna,Leafy Green,21,3/2/2021,3.8
+Green Emerald Lettuce,Leafy Green,38,5/2/2021,4.0
+Mizuna,Leafy Green,19,5/2/2021,3.8
+Chye Sim,Leafy Green,46,5/2/2021,3.5
+Mint,Herb,7,6/2/2021,2.5
+Ruby Red Lettuce,Leafy Green,26,6/2/2021,4.0
+Basil,Herb,14,6/2/2021,2.5
+Green Emerald Lettuce,Leafy Green,41,8/2/2021,4.0
+Mizuna,Leafy Green,21,8/2/2021,3.8
+Chye Sim,Leafy Green,50,8/2/2021,3.5
+Ruby Red Lettuce,Leafy Green,22,9/2/2021,4.0
+Basil,Herb,10,9/2/2021,2.5
+Mint,Herb,9,9/2/2021,2.5
+Mizuna,Leafy Green,23,10/2/2021,3.8
+Chye Sim,Leafy Green,99,10/2/2021,3.5
+Ruby Red Lettuce,Leafy Green,29,11/2/2021,4.0
+Green Emerald Lettuce,Leafy Green,37,12/2/2021,4.0
+Mizuna,Leafy Green,24,13/2/2021,3.8
+Basil,Herb,12,13/2/2021,2.5
+Chye Sim,Leafy Green,42,13/2/2021,3.5
+Green Emerald Lettuce,Leafy Green,40,14/2/2021,4.0
+Ruby Red Lettuce,Leafy Green,30,14/2/2021,4.0
+Mint,Herb,7,15/2/2021,2.5
+Green Emerald Lettuce,Leafy Green,42,15/2/2021,4.0
+Ruby Red Lettuce,Leafy Green,21,15/2/2021,4.0
+Mizuna,Leafy Green,23,16/2/2021,3.8
+Chye Sim,Leafy Green,68,16/2/2021,3.5
+Mizuna,Leafy Green,18,17/2/2021,3.8
+Green Emerald Lettuce,Leafy Green,46,17/2/2021,4.0
+Ruby Red Lettuce,Leafy Green,21,18/2/2021,4.0
+Chye Sim,Leafy Green,47,18/2/2021,3.5
+Ruby Red Lettuce,Leafy Green,27,19/2/2021,4.0
+Basil,Herb,12,19/2/2021,2.5
+Green Emerald Lettuce,Leafy Green,37,19/2/2021,4.0
+Mint,Herb,10,19/2/2021,2.5
+Chye Sim,Leafy Green,47,19/2/2021,3.5
+Mint,Herb,6,20/2/2021,2.5
+Mizuna,Leafy Green,26,20/2/2021,3.8
+Green Emerald Lettuce,Leafy Green,36,21/2/2021,4.0
+Basil,Herb,12,21/2/2021,2.5
+Chye Sim,Leafy Green,36,22/2/2021,3.5
+Mizuna,Leafy Green,21,22/2/2021,3.8
+Ruby Red Lettuce,Leafy Green,28,22/2/2021,4.0
+Mizuna,Leafy Green,30,23/2/2021,3.8
+Ruby Red Lettuce,Leafy Green,30,23/2/2021,4.0
+Green Emerald Lettuce,Leafy Green,39,23/2/2021,4.0
+Basil,Herb,10,23/2/2021,2.5
+Mint,Herb,7,24/2/2021,2.5
+Chye Sim,Leafy Green,40,24/2/2021,3.5
+Chye Sim,Leafy Green,45,25/2/2021,3.5
+Mizuna,Leafy Green,20,25/2/2021,3.8
+Ruby Red Lettuce,Leafy Green,24,26/2/2021,4.0
+Green Emerald Lettuce,Leafy Green,38,26/2/2021,4.0
+Mizuna,Leafy Green,21,27/2/2021,3.8
+Mint,Herb,10,27/2/2021,2.5
+Green Emerald Lettuce,Leafy Green,34,28/2/2021,4.0
+Chye Sim,Leafy Green,60,28/2/2021,3.5
+Ruby Red Lettuce,Leafy Green,23,28/2/2021,4.0
+Basil,Herb,13,28/2/2021,2.5
+Mizuna,Leafy Green,32,1/3/2021,3.8
+Ruby Red Lettuce,Leafy Green,31,2/3/2021,4.0
+Green Emerald Lettuce,Leafy Green,43,2/3/2021,4.0
+Chye Sim,Leafy Green,51,3/3/2021,3.5
+Mint,Herb,10,4/3/2021,2.5
+Basil,Herb,13,4/3/2021,2.5
+Chye Sim,Leafy Green,45,5/3/2021,3.5
+Green Emerald Lettuce,Leafy Green,48,5/3/2021,4.0
+Mizuna,Leafy Green,24,5/3/2021,3.8
+Ruby Red Lettuce,Leafy Green,27,5/3/2021,4.0
+Mint,Herb,9,6/3/2021,2.5
+Ruby Red Lettuce,Leafy Green,28,7/3/2021,4.0
+Mizuna,Leafy Green,17,7/3/2021,3.8
+Green Emerald Lettuce,Leafy Green,44,7/3/2021,4.0
+Basil,Herb,13,7/3/2021,2.5
+Chye Sim,Leafy Green,41,9/3/2021,3.5
+Basil,Herb,11,10/3/2021,2.5
+Chye Sim,Leafy Green,61,10/3/2021,3.5
+Ruby Red Lettuce,Leafy Green,34,11/3/2021,4.0
+Mizuna,Leafy Green,24,11/3/2021,3.8
+Green Emerald Lettuce,Leafy Green,40,11/3/2021,4.0
+Mint,Herb,11,12/3/2021,2.5
+Basil,Herb,12,13/3/2021,2.5
+Mint,Herb,6,13/3/2021,2.5
+Green Emerald Lettuce,Leafy Green,40,13/3/2021,4.0
+Mizuna,Leafy Green,21,14/3/2021,3.8
+Chye Sim,Leafy Green,38,14/3/2021,3.5
+Ruby Red Lettuce,Leafy Green,22,14/3/2021,4.0
+Green Emerald Lettuce,Leafy Green,46,16/3/2021,4.0
+Chye Sim,Leafy Green,29,17/3/2021,3.5
+Basil,Herb,14,17/3/2021,2.5
+Mizuna,Leafy Green,25,17/3/2021,3.8
+Ruby Red Lettuce,Leafy Green,20,17/3/2021,4.0
+Mizuna,Leafy Green,21,18/3/2021,3.8
+Chye Sim,Leafy Green,48,18/3/2021,3.5
+Ruby Red Lettuce,Leafy Green,24,18/3/2021,4.0
+Mint,Herb,10,18/3/2021,2.5
+Green Emerald Lettuce,Leafy Green,39,19/3/2021,4.0
+Ruby Red Lettuce,Leafy Green,25,20/3/2021,4.0
+Chye Sim,Leafy Green,41,20/3/2021,3.5
+Green Emerald Lettuce,Leafy Green,52,20/3/2021,4.0
+Mizuna,Leafy Green,20,21/3/2021,3.8
+Basil,Herb,11,21/3/2021,2.5
+Chye Sim,Leafy Green,41,22/3/2021,3.5
+Mizuna,Leafy Green,16,22/3/2021,3.8
+Green Emerald Lettuce,Leafy Green,41,22/3/2021,4.0
+Mint,Herb,8,23/3/2021,2.5
+Ruby Red Lettuce,Leafy Green,26,23/3/2021,4.0
+Mizuna,Leafy Green,20,24/3/2021,3.8
+Ruby Red Lettuce,Leafy Green,25,24/3/2021,4.0
+Mint,Herb,8,25/3/2021,2.5
+Green Emerald Lettuce,Leafy Green,47,25/3/2021,4.0
+Chye Sim,Leafy Green,54,25/3/2021,3.5
+Chye Sim,Leafy Green,49,26/3/2021,3.5
+Ruby Red Lettuce,Leafy Green,28,26/3/2021,4.0
+Mizuna,Leafy Green,16,27/3/2021,3.8
+Green Emerald Lettuce,Leafy Green,38,27/3/2021,4.0
+Green Emerald Lettuce,Leafy Green,44,28/3/2021,4.0
+Basil,Herb,16,28/3/2021,2.5
+Mizuna,Leafy Green,17,29/3/2021,3.8
+Chye Sim,Leafy Green,42,29/3/2021,3.5
+Ruby Red Lettuce,Leafy Green,19,29/3/2021,4.0
+Green Emerald Lettuce,Leafy Green,35,30/3/2021,4.0
+Mint,Herb,9,30/3/2021,2.5
+Basil,Herb,14,30/3/2021,2.5
+Chye Sim,Leafy Green,34,31/3/2021,3.5
+Ruby Red Lettuce,Leafy Green,35,31/3/2021,4.0
+Mizuna,Leafy Green,28,31/3/2021,3.8
+Ruby Red Lettuce,Leafy Green,32,1/4/2021,4.0
+Mizuna,Leafy Green,24,1/4/2021,3.8
+Green Emerald Lettuce,Leafy Green,50,1/4/2021,4.0
+Chye Sim,Leafy Green,56,2/4/2021,3.5
+Basil,Herb,13,3/4/2021,2.5
+Chye Sim,Leafy Green,52,4/4/2021,3.5
+Mint,Herb,11,4/4/2021,2.5
+Ruby Red Lettuce,Leafy Green,27,4/4/2021,4.0
+Green Emerald Lettuce,Leafy Green,39,5/4/2021,4.0
+Mizuna,Leafy Green,26,6/4/2021,3.8
+Mint,Herb,11,7/4/2021,2.5
+Basil,Herb,16,7/4/2021,2.5
+Mizuna,Leafy Green,19,8/4/2021,3.8
+Green Emerald Lettuce,Leafy Green,47,8/4/2021,4.0
+Chye Sim,Leafy Green,37,9/4/2021,3.5
+Ruby Red Lettuce,Leafy Green,39,9/4/2021,4.0
+Mizuna,Leafy Green,29,10/4/2021,3.8
+Chye Sim,Leafy Green,47,10/4/2021,3.5
+Basil,Herb,15,11/4/2021,2.5
+Green Emerald Lettuce,Leafy Green,54,11/4/2021,4.0
+Mint,Herb,10,12/4/2021,2.5
+Ruby Red Lettuce,Leafy Green,29,12/4/2021,4.0
+Chye Sim,Leafy Green,51,13/4/2021,3.5
+Green Emerald Lettuce,Leafy Green,57,13/4/2021,4.0
+Basil,Herb,11,14/4/2021,2.5
+Ruby Red Lettuce,Leafy Green,38,14/4/2021,4.0
+Mint,Herb,9,14/4/2021,2.5
+Mizuna,Leafy Green,18,15/4/2021,3.8
+Chye Sim,Leafy Green,50,17/4/2021,3.5
+Ruby Red Lettuce,Leafy Green,26,17/4/2021,4.0
+Mizuna,Leafy Green,16,17/4/2021,3.8
+Green Emerald Lettuce,Leafy Green,42,18/4/2021,4.0
+Chye Sim,Leafy Green,49,19/4/2021,3.5
+Mizuna,Leafy Green,21,19/4/2021,3.8
+Ruby Red Lettuce,Leafy Green,39,19/4/2021,4.0
+Green Emerald Lettuce,Leafy Green,44,19/4/2021,4.0
+Basil,Herb,19,20/4/2021,2.5
+Mint,Herb,10,20/4/2021,2.5
+Mizuna,Leafy Green,25,21/4/2021,3.8
+Chye Sim,Leafy Green,39,21/4/2021,3.5
+Green Emerald Lettuce,Leafy Green,43,21/4/2021,4.0
+Basil,Herb,19,22/4/2021,2.5
+Ruby Red Lettuce,Leafy Green,30,22/4/2021,4.0
+Chye Sim,Leafy Green,53,23/4/2021,3.5
+Mizuna,Leafy Green,28,23/4/2021,3.8
+Mint,Herb,14,23/4/2021,2.5
+Green Emerald Lettuce,Leafy Green,50,24/4/2021,4.0
+Ruby Red Lettuce,Leafy Green,25,24/4/2021,4.0
+Green Emerald Lettuce,Leafy Green,34,25/4/2021,4.0
+Mizuna,Leafy Green,19,25/4/2021,3.8
+Chye Sim,Leafy Green,46,26/4/2021,3.5
+Mint,Herb,12,26/4/2021,2.5
+Ruby Red Lettuce,Leafy Green,26,26/4/2021,4.0
+Basil,Herb,13,26/4/2021,2.5
+Mizuna,Leafy Green,27,27/4/2021,3.8
+Chye Sim,Leafy Green,49,27/4/2021,3.5
+Ruby Red Lettuce,Leafy Green,9,28/4/2021,4.0
+Green Emerald Lettuce,Leafy Green,14,28/4/2021,4.0
+Mint,Herb,4,29/4/2021,2.5
+Green Emerald Lettuce,Leafy Green,14,29/4/2021,4.0
+Mizuna,Leafy Green,14,30/4/2021,3.8
+Chye Sim,Leafy Green,32,30/4/2021,3.5
+Ruby Red Lettuce,Leafy Green,19,30/4/2021,4.0
+Basil,Herb,9,30/4/2021,2.5
+Green Emerald Lettuce,Leafy Green,44,1/5/2021,4.0
+Basil,Herb,15,1/5/2021,2.5
+Mint,Herb,8,2/5/2021,2.5
+Mizuna,Leafy Green,14,2/5/2021,3.8
+Ruby Red Lettuce,Leafy Green,12,3/5/2021,4.0
+Chye Sim,Leafy Green,27,3/5/2021,3.5
+Green Emerald Lettuce,Leafy Green,15,4/5/2021,4.0
+Mizuna,Leafy Green,7,4/5/2021,3.8
+Chye Sim,Leafy Green,9,4/5/2021,3.5
+Basil,Herb,18,5/5/2021,2.5
+Ruby Red Lettuce,Leafy Green,38,6/5/2021,4.0
+Mizuna,Leafy Green,11,7/5/2021,3.8
+Green Emerald Lettuce,Leafy Green,41,8/5/2021,4.0
+Mint,Herb,14,8/5/2021,2.5
+Mint,Herb,12,9/5/2021,2.5
+Chye Sim,Leafy Green,54,9/5/2021,3.5
+Ruby Red Lettuce,Leafy Green,31,9/5/2021,4.0
+Chye Sim,Leafy Green,34,10/5/2021,3.5
+Green Emerald Lettuce,Leafy Green,43,11/5/2021,4.0
+Ruby Red Lettuce,Leafy Green,23,12/5/2021,4.0
+Mizuna,Leafy Green,24,12/5/2021,3.8
+Basil,Herb,17,12/5/2021,2.5
+Ruby Red Lettuce,Leafy Green,33,14/5/2021,4.0
+Mint,Herb,9,14/5/2021,2.5
+Chye Sim,Leafy Green,47,14/5/2021,3.5
+Basil,Herb,17,14/5/2021,2.5
+Green Emerald Lettuce,Leafy Green,44,14/5/2021,4.0
+Mizuna,Leafy Green,19,15/5/2021,3.8
+Ruby Red Lettuce,Leafy Green,37,16/5/2021,4.0
+Mizuna,Leafy Green,24,16/5/2021,3.8
+Chye Sim,Leafy Green,41,16/5/2021,3.5
+Green Emerald Lettuce,Leafy Green,47,17/5/2021,4.0
+Chye Sim,Leafy Green,41,18/5/2021,3.5
+Ruby Red Lettuce,Leafy Green,37,18/5/2021,4.0
+Green Emerald Lettuce,Leafy Green,48,19/5/2021,4.0
+Mizuna,Leafy Green,15,19/5/2021,3.8
+Basil,Herb,25,19/5/2021,2.5
+Mint,Herb,14,20/5/2021,2.5
+Chye Sim,Leafy Green,55,20/5/2021,3.5
+Ruby Red Lettuce,Leafy Green,29,21/5/2021,4.0
+Mizuna,Leafy Green,22,21/5/2021,3.8
+Green Emerald Lettuce,Leafy Green,46,21/5/2021,4.0
+Chye Sim,Leafy Green,44,22/5/2021,3.5
+Ruby Red Lettuce,Leafy Green,32,22/5/2021,4.0
+Green Emerald Lettuce,Leafy Green,56,22/5/2021,4.0
+Basil,Herb,16,23/5/2021,2.5
+Mizuna,Leafy Green,16,23/5/2021,3.8
+Mint,Herb,9,23/5/2021,2.5
+Chye Sim,Leafy Green,53,24/5/2021,3.5
+Mint,Herb,13,25/5/2021,2.5
+Mizuna,Leafy Green,16,25/5/2021,3.8
+Green Emerald Lettuce,Leafy Green,47,25/5/2021,4.0
+Ruby Red Lettuce,Leafy Green,33,25/5/2021,4.0
+Basil,Herb,16,26/5/2021,2.5
+Mizuna,Leafy Green,27,27/5/2021,3.8
+Green Emerald Lettuce,Leafy Green,47,27/5/2021,4.0
+Chye Sim,Leafy Green,47,27/5/2021,3.5
+Ruby Red Lettuce,Leafy Green,39,27/5/2021,4.0
+Green Emerald Lettuce,Leafy Green,32,28/5/2021,4.0
+Ruby Red Lettuce,Leafy Green,37,28/5/2021,4.0
+Basil,Herb,19,29/5/2021,2.5
+Mizuna,Leafy Green,17,29/5/2021,3.8
+Chye Sim,Leafy Green,55,29/5/2021,3.5
+Mizuna,Leafy Green,22,30/5/2021,3.8
+Ruby Red Lettuce,Leafy Green,33,30/5/2021,4.0
+Mint,Herb,10,30/5/2021,2.5
+Chye Sim,Leafy Green,51,31/5/2021,3.5
+Green Emerald Lettuce,Leafy Green,56,31/5/2021,4.0
+Mizuna,Leafy Green,21,1/6/2021,3.8
+Green Emerald Lettuce,Leafy Green,40,2/6/2021,4.0
+Chye Sim,Leafy Green,51,3/6/2021,3.5
+Ruby Red Lettuce,Leafy Green,36,3/6/2021,4.0
+Basil,Herb,14,4/6/2021,2.5
+Mint,Herb,11,4/6/2021,2.5
+Chye Sim,Leafy Green,57,5/6/2021,3.5
+Basil,Herb,18,5/6/2021,2.5
+Ruby Red Lettuce,Leafy Green,39,5/6/2021,4.0
+Mint,Herb,13,5/6/2021,2.5
+Mizuna,Leafy Green,23,5/6/2021,3.8
+Green Emerald Lettuce,Leafy Green,32,6/6/2021,4.0
+Chye Sim,Leafy Green,54,7/6/2021,3.5
+Ruby Red Lettuce,Leafy Green,34,7/6/2021,4.0
+Green Emerald Lettuce,Leafy Green,58,8/6/2021,4.0
+Mizuna,Leafy Green,22,8/6/2021,3.8
+Mint,Herb,12,9/6/2021,2.5
+Basil,Herb,16,10/6/2021,2.5
+Green Emerald Lettuce,Leafy Green,53,10/6/2021,4.0
+Chye Sim,Leafy Green,57,11/6/2021,3.5
+Mizuna,Leafy Green,19,11/6/2021,3.8
+Ruby Red Lettuce,Leafy Green,33,11/6/2021,4.0
+Mint,Herb,11,14/6/2021,2.5
+Basil,Herb,14,14/6/2021,2.5
+Ruby Red Lettuce,Leafy Green,35,14/6/2021,4.0
+Green Emerald Lettuce,Leafy Green,39,15/6/2021,4.0
+Mizuna,Leafy Green,19,15/6/2021,3.8
+Chye Sim,Leafy Green,64,15/6/2021,3.5
+Green Emerald Lettuce,Leafy Green,55,16/6/2021,4.0
+Basil,Herb,21,17/6/2021,2.5
+Ruby Red Lettuce,Leafy Green,32,17/6/2021,4.0
+Chye Sim,Leafy Green,61,18/6/2021,3.5
+Mizuna,Leafy Green,21,18/6/2021,3.8
+Mizuna,Leafy Green,20,19/6/2021,3.8
+Mint,Herb,15,19/6/2021,2.5
+Green Emerald Lettuce,Leafy Green,54,19/6/2021,4.0
+Chye Sim,Leafy Green,57,19/6/2021,3.5
+Ruby Red Lettuce,Leafy Green,28,20/6/2021,4.0
+Basil,Herb,25,21/6/2021,2.5
+Green Emerald Lettuce,Leafy Green,43,22/6/2021,4.0
+Ruby Red Lettuce,Leafy Green,26,22/6/2021,4.0
+Chye Sim,Leafy Green,61,22/6/2021,3.5
+Mizuna,Leafy Green,17,22/6/2021,3.8
+Green Emerald Lettuce,Leafy Green,29,23/6/2021,4.0
+Ruby Red Lettuce,Leafy Green,44,23/6/2021,4.0
+Chye Sim,Leafy Green,63,24/6/2021,3.5
+Mint,Herb,11,24/6/2021,2.5
+Mizuna,Leafy Green,16,24/6/2021,3.8
+Ruby Red Lettuce,Leafy Green,28,25/6/2021,4.0
+Mint,Herb,12,25/6/2021,2.5
+Green Emerald Lettuce,Leafy Green,56,25/6/2021,4.0
+Mizuna,Leafy Green,17,25/6/2021,3.8
+Basil,Herb,14,26/6/2021,2.5
+Chye Sim,Leafy Green,30,26/6/2021,3.5
+Green Emerald Lettuce,Leafy Green,22,27/6/2021,4.0
+Chye Sim,Leafy Green,35,27/6/2021,3.5
+Ruby Red Lettuce,Leafy Green,19,27/6/2021,4.0
+Mizuna,Leafy Green,10,28/6/2021,3.8
+Mint,Herb,7,29/6/2021,2.5
+Chye Sim,Leafy Green,35,29/6/2021,3.5
+Mizuna,Leafy Green,11,29/6/2021,3.8
+Ruby Red Lettuce,Leafy Green,16,29/6/2021,4.0
+Basil,Herb,10,30/6/2021,2.5
+Green Emerald Lettuce,Leafy Green,20,30/6/2021,4.0
+Chye Sim,Leafy Green,49,2/7/2021,3.5
+Mint,Herb,9,2/7/2021,2.5
+Green Emerald Lettuce,Leafy Green,37,2/7/2021,4.0
+Ruby Red Lettuce,Leafy Green,35,2/7/2021,4.0
+Mizuna,Leafy Green,11,3/7/2021,3.8
+Basil,Herb,18,4/7/2021,2.5
+Chye Sim,Leafy Green,66,5/7/2021,3.5
+Green Emerald Lettuce,Leafy Green,53,5/7/2021,4.0
+Mint,Herb,14,6/7/2021,2.5
+Mizuna,Leafy Green,15,6/7/2021,3.8
+Ruby Red Lettuce,Leafy Green,28,6/7/2021,4.0
+Mizuna,Leafy Green,23,7/7/2021,3.8
+Basil,Herb,15,7/7/2021,2.5
+Green Emerald Lettuce,Leafy Green,33,9/7/2021,4.0
+Basil,Herb,17,9/7/2021,2.5
+Mint,Herb,15,9/7/2021,2.5
+Ruby Red Lettuce,Leafy Green,29,9/7/2021,4.0
+Chye Sim,Leafy Green,43,9/7/2021,3.5
+Green Emerald Lettuce,Leafy Green,45,10/7/2021,4.0
+Mizuna,Leafy Green,12,11/7/2021,3.8
+Ruby Red Lettuce,Leafy Green,25,11/7/2021,4.0
+Chye Sim,Leafy Green,68,12/7/2021,3.5
+Chye Sim,Leafy Green,54,13/7/2021,3.5
+Basil,Herb,20,14/7/2021,2.5
+Ruby Red Lettuce,Leafy Green,43,14/7/2021,4.0
+Mizuna,Leafy Green,19,14/7/2021,3.8
+Green Emerald Lettuce,Leafy Green,47,15/7/2021,4.0
+Mint,Herb,13,15/7/2021,2.5
+Mizuna,Leafy Green,18,16/7/2021,3.8
+Ruby Red Lettuce,Leafy Green,26,16/7/2021,4.0
+Chye Sim,Leafy Green,63,16/7/2021,3.5
+Basil,Herb,18,17/7/2021,2.5
+Green Emerald Lettuce,Leafy Green,39,17/7/2021,4.0
+Mint,Herb,14,17/7/2021,2.5
+Green Emerald Lettuce,Leafy Green,35,18/7/2021,4.0
+Chye Sim,Leafy Green,61,18/7/2021,3.5
+Mizuna,Leafy Green,14,18/7/2021,3.8
+Ruby Red Lettuce,Leafy Green,31,18/7/2021,4.0
+Mizuna,Leafy Green,17,20/7/2021,3.8
+Ruby Red Lettuce,Leafy Green,28,20/7/2021,4.0
+Green Emerald Lettuce,Leafy Green,38,21/7/2021,4.0
+Chye Sim,Leafy Green,70,21/7/2021,3.5
+Basil,Herb,13,22/7/2021,2.5
+Mint,Herb,12,22/7/2021,2.5
+Green Emerald Lettuce,Leafy Green,37,23/7/2021,4.0
+Mizuna,Leafy Green,19,23/7/2021,3.8
+Ruby Red Lettuce,Leafy Green,40,23/7/2021,4.0
+Chye Sim,Leafy Green,55,23/7/2021,3.5
+Green Emerald Lettuce,Leafy Green,41,24/7/2021,4.0
+Mizuna,Leafy Green,16,24/7/2021,3.8
+Chye Sim,Leafy Green,52,25/7/2021,3.5
+Ruby Red Lettuce,Leafy Green,33,25/7/2021,4.0
+Mizuna,Leafy Green,15,26/7/2021,3.8
+Ruby Red Lettuce,Leafy Green,36,26/7/2021,4.0
+Chye Sim,Leafy Green,61,27/7/2021,3.5
+Basil,Herb,20,27/7/2021,2.5
+Mint,Herb,11,27/7/2021,2.5
+Green Emerald Lettuce,Leafy Green,47,27/7/2021,4.0
+Mizuna,Leafy Green,15,28/7/2021,3.8
+Green Emerald Lettuce,Leafy Green,54,28/7/2021,4.0
+Chye Sim,Leafy Green,70,28/7/2021,3.5
+Basil,Herb,21,29/7/2021,2.5
+Ruby Red Lettuce,Leafy Green,27,29/7/2021,4.0
+Chye Sim,Leafy Green,59,30/7/2021,3.5
+Ruby Red Lettuce,Leafy Green,34,30/7/2021,4.0
+Mizuna,Leafy Green,12,30/7/2021,3.8
+Green Emerald Lettuce,Leafy Green,39,31/7/2021,4.0
+Mint,Herb,13,31/7/2021,2.5
+Ruby Red Lettuce,Leafy Green,30,1/8/2021,4.0
+Mizuna,Leafy Green,18,1/8/2021,3.8
+Mint,Herb,12,1/8/2021,2.5
+Basil,Herb,19,1/8/2021,2.5
+Green Emerald Lettuce,Leafy Green,26,2/8/2021,4.0
+Chye Sim,Leafy Green,59,3/8/2021,3.5
+Chye Sim,Leafy Green,66,4/8/2021,3.5
+Green Emerald Lettuce,Leafy Green,41,4/8/2021,4.0
+Mizuna,Leafy Green,14,5/8/2021,3.8
+Ruby Red Lettuce,Leafy Green,33,6/8/2021,4.0
+Mint,Herb,14,7/8/2021,2.5
+Ruby Red Lettuce,Leafy Green,33,7/8/2021,4.0
+Basil,Herb,20,7/8/2021,2.5
+Mizuna,Leafy Green,16,8/8/2021,3.8
+Green Emerald Lettuce,Leafy Green,32,8/8/2021,4.0
+Mint,Herb,12,9/8/2021,2.5
+Basil,Herb,16,9/8/2021,2.5
+Chye Sim,Leafy Green,68,9/8/2021,3.5
+Ruby Red Lettuce,Leafy Green,38,11/8/2021,4.0
+Green Emerald Lettuce,Leafy Green,24,11/8/2021,4.0
+Mizuna,Leafy Green,16,12/8/2021,3.8
+Chye Sim,Leafy Green,56,12/8/2021,3.5
+Mizuna,Leafy Green,14,13/8/2021,3.8
+Mint,Herb,12,13/8/2021,2.5
+Chye Sim,Leafy Green,55,14/8/2021,3.5
+Ruby Red Lettuce,Leafy Green,28,15/8/2021,4.0
+Green Emerald Lettuce,Leafy Green,40,15/8/2021,4.0
+Green Emerald Lettuce,Leafy Green,54,16/8/2021,4.0
+Chye Sim,Leafy Green,47,16/8/2021,3.5
+Basil,Herb,15,16/8/2021,2.5
+Ruby Red Lettuce,Leafy Green,28,17/8/2021,4.0
+Mizuna,Leafy Green,15,17/8/2021,3.8
+Basil,Herb,16,18/8/2021,2.5
+Green Emerald Lettuce,Leafy Green,32,18/8/2021,4.0
+Mizuna,Leafy Green,13,18/8/2021,3.8
+Chye Sim,Leafy Green,59,19/8/2021,3.5
+Ruby Red Lettuce,Leafy Green,27,19/8/2021,4.0
+Mint,Herb,13,19/8/2021,2.5
+Green Emerald Lettuce,Leafy Green,44,20/8/2021,4.0
+Ruby Red Lettuce,Leafy Green,29,20/8/2021,4.0
+Chye Sim,Leafy Green,52,20/8/2021,3.5
+Mizuna,Leafy Green,16,21/8/2021,3.8
+Green Emerald Lettuce,Leafy Green,36,22/8/2021,4.0
+Ruby Red Lettuce,Leafy Green,28,22/8/2021,4.0
+Mizuna,Leafy Green,16,22/8/2021,3.8
+Basil,Herb,16,23/8/2021,2.5
+Mint,Herb,8,23/8/2021,2.5
+Chye Sim,Leafy Green,53,23/8/2021,3.5
+Chye Sim,Leafy Green,72,24/8/2021,3.5
+Ruby Red Lettuce,Leafy Green,33,24/8/2021,4.0
+Mizuna,Leafy Green,19,25/8/2021,3.8
+Green Emerald Lettuce,Leafy Green,39,25/8/2021,4.0
+Basil,Herb,14,25/8/2021,2.5
+Green Emerald Lettuce,Leafy Green,41,26/8/2021,4.0
+Mizuna,Leafy Green,18,27/8/2021,3.8
+Mint,Herb,10,27/8/2021,2.5
+Ruby Red Lettuce,Leafy Green,34,27/8/2021,4.0
+Chye Sim,Leafy Green,75,27/8/2021,3.5
+Chye Sim,Leafy Green,60,28/8/2021,3.5
+Mizuna,Leafy Green,16,28/8/2021,3.8
+Green Emerald Lettuce,Leafy Green,36,28/8/2021,4.0
+Ruby Red Lettuce,Leafy Green,28,28/8/2021,4.0
+Basil,Herb,19,29/8/2021,2.5
+Green Emerald Lettuce,Leafy Green,35,30/8/2021,4.0
+Mizuna,Leafy Green,16,31/8/2021,3.8
+Mint,Herb,12,31/8/2021,2.5
+Ruby Red Lettuce,Leafy Green,23,31/8/2021,4.0
+Chye Sim,Leafy Green,54,31/8/2021,3.5
+Chye Sim,Leafy Green,45,1/9/2021,3.5
+Basil,Herb,14,1/9/2021,2.5
+Mizuna,Leafy Green,22,1/9/2021,3.8
+Green Emerald Lettuce,Leafy Green,32,2/9/2021,4.0
+Mint,Herb,12,3/9/2021,2.5
+Ruby Red Lettuce,Leafy Green,29,3/9/2021,4.0
+Ruby Red Lettuce,Leafy Green,26,4/9/2021,4.0
+Mizuna,Leafy Green,16,4/9/2021,3.8
+Green Emerald Lettuce,Leafy Green,37,4/9/2021,4.0
+Chye Sim,Leafy Green,62,5/9/2021,3.5
+Basil,Herb,18,6/9/2021,2.5
+Chye Sim,Leafy Green,69,7/9/2021,3.5
+Green Emerald Lettuce,Leafy Green,27,7/9/2021,4.0
+Mizuna,Leafy Green,17,8/9/2021,3.8
+Mint,Herb,10,8/9/2021,2.5
+Ruby Red Lettuce,Leafy Green,26,9/9/2021,4.0
+Mint,Herb,12,9/9/2021,2.5
+Mizuna,Leafy Green,15,10/9/2021,3.8
+Chye Sim,Leafy Green,66,10/9/2021,3.5
+Green Emerald Lettuce,Leafy Green,20,10/9/2021,4.0
+Ruby Red Lettuce,Leafy Green,29,12/9/2021,4.0
+Basil,Herb,14,12/9/2021,2.5
+Chye Sim,Leafy Green,55,13/9/2021,3.5
+Green Emerald Lettuce,Leafy Green,30,14/9/2021,4.0
+Mint,Herb,13,14/9/2021,2.5
+Mizuna,Leafy Green,17,14/9/2021,3.8
+Ruby Red Lettuce,Leafy Green,33,15/9/2021,4.0
+Mizuna,Leafy Green,15,16/9/2021,3.8
+Basil,Herb,20,16/9/2021,2.5
+Green Emerald Lettuce,Leafy Green,32,17/9/2021,4.0
+Chye Sim,Leafy Green,69,18/9/2021,3.5
+Ruby Red Lettuce,Leafy Green,19,18/9/2021,4.0
+Basil,Herb,18,18/9/2021,2.5
+Mint,Herb,10,19/9/2021,2.5
+Chye Sim,Leafy Green,51,19/9/2021,3.5
+Green Emerald Lettuce,Leafy Green,25,19/9/2021,4.0
+Mizuna,Leafy Green,18,20/9/2021,3.8
+Ruby Red Lettuce,Leafy Green,16,20/9/2021,4.0
+Chye Sim,Leafy Green,57,21/9/2021,3.5
+Ruby Red Lettuce,Leafy Green,33,21/9/2021,4.0
+Green Emerald Lettuce,Leafy Green,29,21/9/2021,4.0
+Mizuna,Leafy Green,20,21/9/2021,3.8
+Basil,Herb,16,22/9/2021,2.5
+Mint,Herb,10,23/9/2021,2.5
+Chye Sim,Leafy Green,54,23/9/2021,3.5
+Green Emerald Lettuce,Leafy Green,31,23/9/2021,4.0
+Mizuna,Leafy Green,13,24/9/2021,3.8
+Ruby Red Lettuce,Leafy Green,19,24/9/2021,4.0
+Green Emerald Lettuce,Leafy Green,35,25/9/2021,4.0
+Mizuna,Leafy Green,14,26/9/2021,3.8
+Mint,Herb,11,26/9/2021,2.5
+Ruby Red Lettuce,Leafy Green,24,26/9/2021,4.0
+Chye Sim,Leafy Green,56,26/9/2021,3.5
+Basil,Herb,23,27/9/2021,2.5
+Ruby Red Lettuce,Leafy Green,20,27/9/2021,4.0
+Green Emerald Lettuce,Leafy Green,33,27/9/2021,4.0
+Basil,Herb,15,28/9/2021,2.5
+Chye Sim,Leafy Green,55,28/9/2021,3.5
+Mint,Herb,9,28/9/2021,2.5
+Mizuna,Leafy Green,23,28/9/2021,3.8
+Ruby Red Lettuce,Leafy Green,20,29/9/2021,4.0
+Chye Sim,Leafy Green,53,29/9/2021,3.5
+Green Emerald Lettuce,Leafy Green,25,30/9/2021,4.0
+Mizuna,Leafy Green,17,30/9/2021,3.8
+Mizuna,Leafy Green,24,1/10/2021,3.8
+Mint,Herb,10,1/10/2021,2.5
+Basil,Herb,14,2/10/2021,2.5
+Chye Sim,Leafy Green,63,2/10/2021,3.5
+Ruby Red Lettuce,Leafy Green,20,3/10/2021,4.0
+Green Emerald Lettuce,Leafy Green,47,3/10/2021,4.0
+Green Emerald Lettuce,Leafy Green,39,4/10/2021,4.0
+Mizuna,Leafy Green,23,5/10/2021,3.8
+Basil,Herb,12,5/10/2021,2.5
+Ruby Red Lettuce,Leafy Green,19,5/10/2021,4.0
+Chye Sim,Leafy Green,47,6/10/2021,3.5
+Green Emerald Lettuce,Leafy Green,41,7/10/2021,4.0
+Mint,Herb,15,7/10/2021,2.5
+Ruby Red Lettuce,Leafy Green,26,9/10/2021,4.0
+Basil,Herb,13,9/10/2021,2.5
+Mint,Herb,11,9/10/2021,2.5
+Mizuna,Leafy Green,18,9/10/2021,3.8
+Chye Sim,Leafy Green,49,9/10/2021,3.5
+Mizuna,Leafy Green,17,11/10/2021,3.8
+Chye Sim,Leafy Green,54,11/10/2021,3.5
+Ruby Red Lettuce,Leafy Green,22,12/10/2021,4.0
+Green Emerald Lettuce,Leafy Green,40,12/10/2021,4.0
+Green Emerald Lettuce,Leafy Green,33,13/10/2021,4.0
+Mizuna,Leafy Green,19,14/10/2021,3.8
+Chye Sim,Leafy Green,39,14/10/2021,3.5
+Mint,Herb,8,14/10/2021,2.5
+Ruby Red Lettuce,Leafy Green,21,15/10/2021,4.0
+Basil,Herb,14,16/10/2021,2.5
+Green Emerald Lettuce,Leafy Green,30,16/10/2021,4.0
+Mizuna,Leafy Green,19,17/10/2021,3.8
+Chye Sim,Leafy Green,40,17/10/2021,3.5
+Mint,Herb,11,17/10/2021,2.5
+Ruby Red Lettuce,Leafy Green,27,17/10/2021,4.0
+Mizuna,Leafy Green,23,18/10/2021,3.8
+Ruby Red Lettuce,Leafy Green,24,18/10/2021,4.0
+Basil,Herb,14,18/10/2021,2.5
+Chye Sim,Leafy Green,53,19/10/2021,3.5
+Green Emerald Lettuce,Leafy Green,29,19/10/2021,4.0
+Chye Sim,Leafy Green,42,20/10/2021,3.5
+Ruby Red Lettuce,Leafy Green,26,21/10/2021,4.0
+Green Emerald Lettuce,Leafy Green,22,21/10/2021,4.0
+Mizuna,Leafy Green,22,21/10/2021,3.8
+Ruby Red Lettuce,Leafy Green,31,22/10/2021,4.0
+Mint,Herb,9,22/10/2021,2.5
+Green Emerald Lettuce,Leafy Green,45,22/10/2021,4.0
+Mizuna,Leafy Green,22,23/10/2021,3.8
+Chye Sim,Leafy Green,45,23/10/2021,3.5
+Basil,Herb,12,24/10/2021,2.5
+Ruby Red Lettuce,Leafy Green,20,24/10/2021,4.0
+Mizuna,Leafy Green,23,24/10/2021,3.8
+Chye Sim,Leafy Green,53,25/10/2021,3.5
+Green Emerald Lettuce,Leafy Green,32,25/10/2021,4.0
+Mint,Herb,11,26/10/2021,2.5
+Chye Sim,Leafy Green,54,26/10/2021,3.5
+Green Emerald Lettuce,Leafy Green,35,26/10/2021,4.0
+Mizuna,Leafy Green,22,26/10/2021,3.8
+Basil,Herb,13,27/10/2021,2.5
+Ruby Red Lettuce,Leafy Green,24,27/10/2021,4.0
+Mizuna,Leafy Green,20,28/10/2021,3.8
+Chye Sim,Leafy Green,50,28/10/2021,3.5
+Green Emerald Lettuce,Leafy Green,33,28/10/2021,4.0
+Ruby Red Lettuce,Leafy Green,24,29/10/2021,4.0
+Chye Sim,Leafy Green,62,30/10/2021,3.5
+Green Emerald Lettuce,Leafy Green,38,30/10/2021,4.0
+Mint,Herb,10,30/10/2021,2.5
+Ruby Red Lettuce,Leafy Green,25,31/10/2021,4.0
+Mizuna,Leafy Green,17,31/10/2021,3.8
+Basil,Herb,15,31/10/2021,2.5
+Chye Sim,Leafy Green,44,1/11/2021,3.5
+Basil,Herb,13,1/11/2021,2.5
+Mint,Herb,12,1/11/2021,2.5
+Mizuna,Leafy Green,31,2/11/2021,3.8
+Ruby Red Lettuce,Leafy Green,28,2/11/2021,4.0
+Green Emerald Lettuce,Leafy Green,39,3/11/2021,4.0
+Mizuna,Leafy Green,27,4/11/2021,3.8
+Ruby Red Lettuce,Leafy Green,26,4/11/2021,4.0
+Green Emerald Lettuce,Leafy Green,44,5/11/2021,4.0
+Chye Sim,Leafy Green,34,6/11/2021,3.5
+Chye Sim,Leafy Green,44,7/11/2021,3.5
+Green Emerald Lettuce,Leafy Green,31,8/11/2021,4.0
+Basil,Herb,16,8/11/2021,2.5
+Ruby Red Lettuce,Leafy Green,22,8/11/2021,4.0
+Mizuna,Leafy Green,26,8/11/2021,3.8
+Mint,Herb,9,8/11/2021,2.5
+Basil,Herb,10,9/11/2021,2.5
+Ruby Red Lettuce,Leafy Green,30,10/11/2021,4.0
+Mizuna,Leafy Green,23,10/11/2021,3.8
+Chye Sim,Leafy Green,37,11/11/2021,3.5
+Mint,Herb,8,11/11/2021,2.5
+Green Emerald Lettuce,Leafy Green,28,12/11/2021,4.0
+Chye Sim,Leafy Green,40,13/11/2021,3.5
+Basil,Herb,11,14/11/2021,2.5
+Green Emerald Lettuce,Leafy Green,27,15/11/2021,4.0
+Mizuna,Leafy Green,26,15/11/2021,3.8
+Ruby Red Lettuce,Leafy Green,28,15/11/2021,4.0
+Ruby Red Lettuce,Leafy Green,29,16/11/2021,4.0
+Mint,Herb,11,16/11/2021,2.5
+Mint,Herb,9,17/11/2021,2.5
+Green Emerald Lettuce,Leafy Green,49,17/11/2021,4.0
+Chye Sim,Leafy Green,52,18/11/2021,3.5
+Basil,Herb,11,18/11/2021,2.5
+Mizuna,Leafy Green,21,18/11/2021,3.8
+Green Emerald Lettuce,Leafy Green,19,19/11/2021,4.0
+Mizuna,Leafy Green,10,19/11/2021,3.8
+Ruby Red Lettuce,Leafy Green,13,19/11/2021,4.0
+Chye Sim,Leafy Green,50,20/11/2021,3.5
+Mint,Herb,11,21/11/2021,2.5
+Mizuna,Leafy Green,22,21/11/2021,3.8
+Green Emerald Lettuce,Leafy Green,62,21/11/2021,4.0
+Chye Sim,Leafy Green,55,21/11/2021,3.5
+Ruby Red Lettuce,Leafy Green,33,22/11/2021,4.0
+Basil,Herb,12,22/11/2021,2.5
+Green Emerald Lettuce,Leafy Green,27,24/11/2021,4.0
+Mizuna,Leafy Green,15,24/11/2021,3.8
+Chye Sim,Leafy Green,29,24/11/2021,3.5
+Ruby Red Lettuce,Leafy Green,25,24/11/2021,4.0
+Ruby Red Lettuce,Leafy Green,13,25/11/2021,4.0
+Green Emerald Lettuce,Leafy Green,38,26/11/2021,4.0
+Mizuna,Leafy Green,22,26/11/2021,3.8
+Chye Sim,Leafy Green,49,26/11/2021,3.5
+Mint,Herb,9,27/11/2021,2.5
+Basil,Herb,12,27/11/2021,2.5
+Green Emerald Lettuce,Leafy Green,45,27/11/2021,4.0
+Mizuna,Leafy Green,24,27/11/2021,3.8
+Chye Sim,Leafy Green,51,28/11/2021,3.5
+Ruby Red Lettuce,Leafy Green,31,28/11/2021,4.0
+Chye Sim,Leafy Green,42,29/11/2021,3.5
+Ruby Red Lettuce,Leafy Green,27,29/11/2021,4.0
+Mizuna,Leafy Green,23,29/11/2021,3.8
+Mint,Herb,8,29/11/2021,2.5
+Basil,Herb,12,30/11/2021,2.5
+Green Emerald Lettuce,Leafy Green,52,30/11/2021,4.0
+Green Emerald Lettuce,Leafy Green,45,1/12/2021,4.0
+Mint,Herb,7,2/12/2021,2.5
+Mizuna,Leafy Green,26,2/12/2021,3.8
+Chye Sim,Leafy Green,45,2/12/2021,3.5
+Ruby Red Lettuce,Leafy Green,25,3/12/2021,4.0
+Basil,Herb,7,4/12/2021,2.5
+Green Emerald Lettuce,Leafy Green,44,5/12/2021,4.0
+Chye Sim,Leafy Green,54,5/12/2021,3.5
+Ruby Red Lettuce,Leafy Green,23,5/12/2021,4.0
+Mizuna,Leafy Green,28,5/12/2021,3.8
+Mint,Herb,7,7/12/2021,2.5
+Green Emerald Lettuce,Leafy Green,35,7/12/2021,4.0
+Mizuna,Leafy Green,21,8/12/2021,3.8
+Ruby Red Lettuce,Leafy Green,17,8/12/2021,4.0
+Basil,Herb,13,8/12/2021,2.5
+Chye Sim,Leafy Green,69,9/12/2021,3.5
+Mizuna,Leafy Green,24,10/12/2021,3.8
+Ruby Red Lettuce,Leafy Green,30,10/12/2021,4.0
+Chye Sim,Leafy Green,61,11/12/2021,3.5
+Mint,Herb,8,11/12/2021,2.5
+Green Emerald Lettuce,Leafy Green,37,12/12/2021,4.0
+Basil,Herb,9,12/12/2021,2.5
+Mint,Herb,7,14/12/2021,2.5
+Mizuna,Leafy Green,27,14/12/2021,3.8
+Chye Sim,Leafy Green,50,14/12/2021,3.5
+Green Emerald Lettuce,Leafy Green,40,15/12/2021,4.0
+Basil,Herb,9,15/12/2021,2.5
+Ruby Red Lettuce,Leafy Green,35,15/12/2021,4.0
+Ruby Red Lettuce,Leafy Green,36,16/12/2021,4.0
+Chye Sim,Leafy Green,39,16/12/2021,3.5
+Green Emerald Lettuce,Leafy Green,42,17/12/2021,4.0
+Mizuna,Leafy Green,18,17/12/2021,3.8
+Mint,Herb,7,17/12/2021,2.5
+Green Emerald Lettuce,Leafy Green,46,18/12/2021,4.0
+Chye Sim,Leafy Green,53,18/12/2021,3.5
+Basil,Herb,5,19/12/2021,2.5
+Ruby Red Lettuce,Leafy Green,15,19/12/2021,4.0
+Mizuna,Leafy Green,11,19/12/2021,3.8
+Green Emerald Lettuce,Leafy Green,31,20/12/2021,4.0
+Mint,Herb,7,21/12/2021,2.5
+Mizuna,Leafy Green,29,21/12/2021,3.8
+Ruby Red Lettuce,Leafy Green,30,21/12/2021,4.0
+Chye Sim,Leafy Green,37,21/12/2021,3.5
+Chye Sim,Leafy Green,65,22/12/2021,3.5
+Mizuna,Leafy Green,22,22/12/2021,3.8
+Basil,Herb,15,22/12/2021,2.5
+Green Emerald Lettuce,Leafy Green,53,23/12/2021,4.0
+Ruby Red Lettuce,Leafy Green,32,23/12/2021,4.0
+Chye Sim,Leafy Green,36,24/12/2021,3.5
+Ruby Red Lettuce,Leafy Green,19,24/12/2021,4.0
+Green Emerald Lettuce,Leafy Green,21,25/12/2021,4.0
+Mizuna,Leafy Green,11,25/12/2021,3.8
+Mint,Herb,3,25/12/2021,2.5
+Mizuna,Leafy Green,20,26/12/2021,3.8
+Chye Sim,Leafy Green,47,27/12/2021,3.5
+Basil,Herb,6,27/12/2021,2.5
+Green Emerald Lettuce,Leafy Green,44,27/12/2021,4.0
+Ruby Red Lettuce,Leafy Green,29,27/12/2021,4.0
+Mizuna,Leafy Green,26,28/12/2021,3.8
+Chye Sim,Leafy Green,37,29/12/2021,3.5
+Green Emerald Lettuce,Leafy Green,36,29/12/2021,4.0
+Ruby Red Lettuce,Leafy Green,31,29/12/2021,4.0
+Basil,Herb,6,30/12/2021,2.5
+Ruby Red Lettuce,Leafy Green,37,30/12/2021,4.0
+Mint,Herb,3,30/12/2021,2.5
+Mizuna,Leafy Green,22,31/12/2021,3.8
+Chye Sim,Leafy Green,56,31/12/2021,3.5
+Green Emerald Lettuce,Leafy Green,28,31/12/2021,4.0
+Ruby Red Lettuce,Leafy Green,23,1/1/2022,4.0
+Mizuna,Leafy Green,16,1/1/2022,3.8
+Green Emerald Lettuce,Leafy Green,32,2/1/2022,4.0
+Mint,Herb,8,2/1/2022,2.5
+Basil,Herb,8,3/1/2022,2.5
+Chye Sim,Leafy Green,57,3/1/2022,3.5
+Chye Sim,Leafy Green,64,4/1/2022,3.5
+Mizuna,Leafy Green,17,5/1/2022,3.8
+Green Emerald Lettuce,Leafy Green,34,6/1/2022,4.0
+Ruby Red Lettuce,Leafy Green,29,6/1/2022,4.0
+Basil,Herb,12,6/1/2022,2.5
+Mizuna,Leafy Green,23,7/1/2022,3.8
+Ruby Red Lettuce,Leafy Green,34,7/1/2022,4.0
+Mint,Herb,7,8/1/2022,2.5
+Chye Sim,Leafy Green,38,8/1/2022,3.5
+Green Emerald Lettuce,Leafy Green,33,8/1/2022,4.0
+Mint,Herb,7,9/1/2022,2.5
+Chye Sim,Leafy Green,46,11/1/2022,3.5
+Ruby Red Lettuce,Leafy Green,29,11/1/2022,4.0
+Green Emerald Lettuce,Leafy Green,26,12/1/2022,4.0
+Mizuna,Leafy Green,19,12/1/2022,3.8
+Basil,Herb,9,12/1/2022,2.5
+Ruby Red Lettuce,Leafy Green,26,13/1/2022,4.0
+Mizuna,Leafy Green,17,13/1/2022,3.8
+Green Emerald Lettuce,Leafy Green,36,13/1/2022,4.0
+Basil,Herb,12,15/1/2022,2.5
+Chye Sim,Leafy Green,58,15/1/2022,3.5
+Mint,Herb,7,16/1/2022,2.5
+Green Emerald Lettuce,Leafy Green,30,16/1/2022,4.0
+Ruby Red Lettuce,Leafy Green,27,16/1/2022,4.0
+Mizuna,Leafy Green,15,17/1/2022,3.8
+Chye Sim,Leafy Green,79,17/1/2022,3.5
+Basil,Herb,13,17/1/2022,2.5
+Mint,Herb,7,18/1/2022,2.5
+Chye Sim,Leafy Green,57,18/1/2022,3.5
+Mizuna,Leafy Green,20,19/1/2022,3.8
+Green Emerald Lettuce,Leafy Green,38,19/1/2022,4.0
+Ruby Red Lettuce,Leafy Green,19,19/1/2022,4.0
+Green Emerald Lettuce,Leafy Green,38,20/1/2022,4.0
+Ruby Red Lettuce,Leafy Green,33,21/1/2022,4.0
+Chye Sim,Leafy Green,49,21/1/2022,3.5
+Mizuna,Leafy Green,27,21/1/2022,3.8
+Basil,Herb,14,21/1/2022,2.5
+Ruby Red Lettuce,Leafy Green,25,22/1/2022,4.0
+Mizuna,Leafy Green,15,22/1/2022,3.8
+Chye Sim,Leafy Green,51,22/1/2022,3.5
+Mint,Herb,10,23/1/2022,2.5
+Green Emerald Lettuce,Leafy Green,31,23/1/2022,4.0
+Green Emerald Lettuce,Leafy Green,40,24/1/2022,4.0
+Mizuna,Leafy Green,18,25/1/2022,3.8
+Chye Sim,Leafy Green,68,25/1/2022,3.5
+Ruby Red Lettuce,Leafy Green,24,25/1/2022,4.0
+Green Emerald Lettuce,Leafy Green,32,26/1/2022,4.0
+Mizuna,Leafy Green,25,26/1/2022,3.8
+Ruby Red Lettuce,Leafy Green,42,27/1/2022,4.0
+Chye Sim,Leafy Green,52,27/1/2022,3.5
+Mint,Herb,7,28/1/2022,2.5
+Chye Sim,Leafy Green,51,28/1/2022,3.5
+Mizuna,Leafy Green,21,28/1/2022,3.8
+Ruby Red Lettuce,Leafy Green,27,28/1/2022,4.0
+Basil,Herb,10,28/1/2022,2.5
+Green Emerald Lettuce,Leafy Green,35,29/1/2022,4.0
+Basil,Herb,11,30/1/2022,2.5
+Chye Sim,Leafy Green,50,30/1/2022,3.5
+Green Emerald Lettuce,Leafy Green,37,30/1/2022,4.0
+Mizuna,Leafy Green,19,30/1/2022,3.8
+Mint,Herb,8,30/1/2022,2.5
+Ruby Red Lettuce,Leafy Green,24,31/1/2022,4.0
+Chye Sim,Leafy Green,59,1/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,21,1/2/2022,4.0
+Mizuna,Leafy Green,17,3/2/2022,3.8
+Mint,Herb,9,3/2/2022,2.5
+Green Emerald Lettuce,Leafy Green,32,3/2/2022,4.0
+Basil,Herb,11,4/2/2022,2.5
+Chye Sim,Leafy Green,46,4/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,21,4/2/2022,4.0
+Mizuna,Leafy Green,19,5/2/2022,3.8
+Green Emerald Lettuce,Leafy Green,44,6/2/2022,4.0
+Green Emerald Lettuce,Leafy Green,31,7/2/2022,4.0
+Basil,Herb,10,7/2/2022,2.5
+Mint,Herb,10,8/2/2022,2.5
+Mizuna,Leafy Green,25,8/2/2022,3.8
+Ruby Red Lettuce,Leafy Green,28,9/2/2022,4.0
+Mint,Herb,9,9/2/2022,2.5
+Chye Sim,Leafy Green,47,9/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,20,10/2/2022,4.0
+Basil,Herb,12,11/2/2022,2.5
+Chye Sim,Leafy Green,64,11/2/2022,3.5
+Mizuna,Leafy Green,22,12/2/2022,3.8
+Green Emerald Lettuce,Leafy Green,37,12/2/2022,4.0
+Mizuna,Leafy Green,25,13/2/2022,3.8
+Green Emerald Lettuce,Leafy Green,37,13/2/2022,4.0
+Basil,Herb,12,13/2/2022,2.5
+Chye Sim,Leafy Green,39,13/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,30,13/2/2022,4.0
+Mint,Herb,8,14/2/2022,2.5
+Green Emerald Lettuce,Leafy Green,36,15/2/2022,4.0
+Mizuna,Leafy Green,21,15/2/2022,3.8
+Chye Sim,Leafy Green,44,16/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,30,16/2/2022,4.0
+Mizuna,Leafy Green,24,17/2/2022,3.8
+Basil,Herb,7,17/2/2022,2.5
+Chye Sim,Leafy Green,46,18/2/2022,3.5
+Green Emerald Lettuce,Leafy Green,37,18/2/2022,4.0
+Ruby Red Lettuce,Leafy Green,26,18/2/2022,4.0
+Chye Sim,Leafy Green,41,19/2/2022,3.5
+Mint,Herb,9,19/2/2022,2.5
+Ruby Red Lettuce,Leafy Green,21,19/2/2022,4.0
+Mizuna,Leafy Green,27,20/2/2022,3.8
+Green Emerald Lettuce,Leafy Green,33,20/2/2022,4.0
+Green Emerald Lettuce,Leafy Green,38,21/2/2022,4.0
+Mizuna,Leafy Green,21,21/2/2022,3.8
+Chye Sim,Leafy Green,55,21/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,23,21/2/2022,4.0
+Mint,Herb,8,21/2/2022,2.5
+Basil,Herb,12,22/2/2022,2.5
+Mint,Herb,10,23/2/2022,2.5
+Mizuna,Leafy Green,19,23/2/2022,3.8
+Chye Sim,Leafy Green,52,23/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,26,23/2/2022,4.0
+Basil,Herb,9,24/2/2022,2.5
+Green Emerald Lettuce,Leafy Green,30,24/2/2022,4.0
+Chye Sim,Leafy Green,52,25/2/2022,3.5
+Ruby Red Lettuce,Leafy Green,19,26/2/2022,4.0
+Basil,Herb,11,26/2/2022,2.5
+Mizuna,Leafy Green,25,26/2/2022,3.8
+Green Emerald Lettuce,Leafy Green,36,26/2/2022,4.0
+Chye Sim,Leafy Green,46,27/2/2022,3.5
+Green Emerald Lettuce,Leafy Green,46,27/2/2022,4.0
+Ruby Red Lettuce,Leafy Green,25,27/2/2022,4.0
+Mizuna,Leafy Green,26,28/2/2022,3.8
+Mint,Herb,9,28/2/2022,2.5
+Chye Sim,Leafy Green,35,1/3/2022,3.5
+Mizuna,Leafy Green,16,1/3/2022,3.8
+Green Emerald Lettuce,Leafy Green,26,2/3/2022,4.0
+Ruby Red Lettuce,Leafy Green,20,2/3/2022,4.0
+Mint,Herb,10,2/3/2022,2.5
+Basil,Herb,11,3/3/2022,2.5
+Green Emerald Lettuce,Leafy Green,48,5/3/2022,4.0
+Mint,Herb,8,5/3/2022,2.5
+Mizuna,Leafy Green,22,5/3/2022,3.8
+Ruby Red Lettuce,Leafy Green,30,6/3/2022,4.0
+Chye Sim,Leafy Green,51,6/3/2022,3.5
+Mizuna,Leafy Green,19,7/3/2022,3.8
+Ruby Red Lettuce,Leafy Green,37,7/3/2022,4.0
+Green Emerald Lettuce,Leafy Green,34,7/3/2022,4.0
+Basil,Herb,13,7/3/2022,2.5
+Chye Sim,Leafy Green,37,8/3/2022,3.5
+Basil,Herb,13,9/3/2022,2.5
+Chye Sim,Leafy Green,53,10/3/2022,3.5
+Ruby Red Lettuce,Leafy Green,26,10/3/2022,4.0
+Mizuna,Leafy Green,30,10/3/2022,3.8
+Mint,Herb,10,12/3/2022,2.5
+Green Emerald Lettuce,Leafy Green,27,12/3/2022,4.0
+Green Emerald Lettuce,Leafy Green,42,13/3/2022,4.0
+Chye Sim,Leafy Green,51,13/3/2022,3.5
+Ruby Red Lettuce,Leafy Green,24,13/3/2022,4.0
+Mint,Herb,8,14/3/2022,2.5
+Basil,Herb,12,15/3/2022,2.5
+Mizuna,Leafy Green,21,15/3/2022,3.8
+Ruby Red Lettuce,Leafy Green,27,16/3/2022,4.0
+Green Emerald Lettuce,Leafy Green,50,16/3/2022,4.0
+Chye Sim,Leafy Green,61,16/3/2022,3.5
+Mizuna,Leafy Green,22,17/3/2022,3.8
+Ruby Red Lettuce,Leafy Green,29,18/3/2022,4.0
+Mizuna,Leafy Green,27,19/3/2022,3.8
+Green Emerald Lettuce,Leafy Green,36,19/3/2022,4.0
+Basil,Herb,11,19/3/2022,2.5
+Chye Sim,Leafy Green,43,19/3/2022,3.5
+Ruby Red Lettuce,Leafy Green,23,20/3/2022,4.0
+Green Emerald Lettuce,Leafy Green,44,20/3/2022,4.0
+Mint,Herb,11,20/3/2022,2.5
+Chye Sim,Leafy Green,45,21/3/2022,3.5
+Mizuna,Leafy Green,23,21/3/2022,3.8
+Ruby Red Lettuce,Leafy Green,29,22/3/2022,4.0
+Green Emerald Lettuce,Leafy Green,50,22/3/2022,4.0
+Chye Sim,Leafy Green,40,22/3/2022,3.5
+Mint,Herb,11,23/3/2022,2.5
+Mizuna,Leafy Green,32,23/3/2022,3.8
+Mizuna,Leafy Green,20,24/3/2022,3.8
+Basil,Herb,12,24/3/2022,2.5
+Green Emerald Lettuce,Leafy Green,49,24/3/2022,4.0
+Ruby Red Lettuce,Leafy Green,30,24/3/2022,4.0
+Chye Sim,Leafy Green,43,25/3/2022,3.5
+Mizuna,Leafy Green,26,26/3/2022,3.8
+Ruby Red Lettuce,Leafy Green,31,27/3/2022,4.0
+Chye Sim,Leafy Green,47,27/3/2022,3.5
+Green Emerald Lettuce,Leafy Green,50,27/3/2022,4.0
+Basil,Herb,10,28/3/2022,2.5
+Mint,Herb,7,28/3/2022,2.5
+Ruby Red Lettuce,Leafy Green,26,28/3/2022,4.0
+Mizuna,Leafy Green,21,28/3/2022,3.8
+Green Emerald Lettuce,Leafy Green,40,28/3/2022,4.0
+Chye Sim,Leafy Green,35,29/3/2022,3.5
+Mint,Herb,9,29/3/2022,2.5
+Mizuna,Leafy Green,20,30/3/2022,3.8
+Basil,Herb,14,31/3/2022,2.5
+Green Emerald Lettuce,Leafy Green,40,31/3/2022,4.0
+Ruby Red Lettuce,Leafy Green,30,31/3/2022,4.0
+Chye Sim,Leafy Green,39,31/3/2022,3.5
+Mizuna,Leafy Green,19,1/4/2022,3.8
+Mint,Herb,13,1/4/2022,2.5
+Chye Sim,Leafy Green,48,2/4/2022,3.5
+Basil,Herb,14,2/4/2022,2.5
+Green Emerald Lettuce,Leafy Green,27,3/4/2022,4.0
+Ruby Red Lettuce,Leafy Green,20,3/4/2022,4.0
+Chye Sim,Leafy Green,49,4/4/2022,3.5
+Ruby Red Lettuce,Leafy Green,23,4/4/2022,4.0
+Mizuna,Leafy Green,21,6/4/2022,3.8
+Green Emerald Lettuce,Leafy Green,38,6/4/2022,4.0
+Basil,Herb,10,6/4/2022,2.5
+Mint,Herb,11,6/4/2022,2.5
+Ruby Red Lettuce,Leafy Green,29,7/4/2022,4.0
+Green Emerald Lettuce,Leafy Green,38,8/4/2022,4.0
+Mizuna,Leafy Green,26,8/4/2022,3.8
+Chye Sim,Leafy Green,43,8/4/2022,3.5
+Basil,Herb,13,9/4/2022,2.5
+Ruby Red Lettuce,Leafy Green,30,10/4/2022,4.0
+Mizuna,Leafy Green,22,10/4/2022,3.8
+Green Emerald Lettuce,Leafy Green,34,12/4/2022,4.0
+Mint,Herb,10,12/4/2022,2.5
+Chye Sim,Leafy Green,43,12/4/2022,3.5
+Mizuna,Leafy Green,26,13/4/2022,3.8
+Ruby Red Lettuce,Leafy Green,22,13/4/2022,4.0
+Green Emerald Lettuce,Leafy Green,41,13/4/2022,4.0
+Basil,Herb,14,14/4/2022,2.5
+Chye Sim,Leafy Green,45,15/4/2022,3.5
+Green Emerald Lettuce,Leafy Green,41,16/4/2022,4.0
+Chye Sim,Leafy Green,41,16/4/2022,3.5
+Mint,Herb,15,16/4/2022,2.5
+Mizuna,Leafy Green,25,17/4/2022,3.8
+Ruby Red Lettuce,Leafy Green,34,17/4/2022,4.0
+Basil,Herb,14,19/4/2022,2.5
+Ruby Red Lettuce,Leafy Green,26,19/4/2022,4.0
+Mizuna,Leafy Green,20,19/4/2022,3.8
+Mint,Herb,8,20/4/2022,2.5
+Green Emerald Lettuce,Leafy Green,42,20/4/2022,4.0
+Chye Sim,Leafy Green,49,20/4/2022,3.5
+Chye Sim,Leafy Green,48,21/4/2022,3.5
+Green Emerald Lettuce,Leafy Green,40,22/4/2022,4.0
+Basil,Herb,13,22/4/2022,2.5
+Mizuna,Leafy Green,24,22/4/2022,3.8
+Ruby Red Lettuce,Leafy Green,28,22/4/2022,4.0
+Mint,Herb,12,22/4/2022,2.5
+Green Emerald Lettuce,Leafy Green,47,23/4/2022,4.0
+Ruby Red Lettuce,Leafy Green,38,23/4/2022,4.0
+Mizuna,Leafy Green,20,23/4/2022,3.8
+Chye Sim,Leafy Green,63,23/4/2022,3.5
+Green Emerald Lettuce,Leafy Green,44,25/4/2022,4.0
+Mizuna,Leafy Green,24,25/4/2022,3.8
+Mint,Herb,13,26/4/2022,2.5
+Ruby Red Lettuce,Leafy Green,36,26/4/2022,4.0
+Chye Sim,Leafy Green,42,26/4/2022,3.5
+Green Emerald Lettuce,Leafy Green,35,27/4/2022,4.0
+Basil,Herb,18,27/4/2022,2.5
+Mizuna,Leafy Green,7,28/4/2022,3.8
+Ruby Red Lettuce,Leafy Green,8,28/4/2022,4.0
+Chye Sim,Leafy Green,12,28/4/2022,3.5
+Basil,Herb,3,28/4/2022,2.5
+Mizuna,Leafy Green,10,29/4/2022,3.8
+Green Emerald Lettuce,Leafy Green,24,29/4/2022,4.0
+Ruby Red Lettuce,Leafy Green,12,29/4/2022,4.0
+Chye Sim,Leafy Green,17,29/4/2022,3.5
+Mint,Herb,4,29/4/2022,2.5
+Chye Sim,Leafy Green,48,1/5/2022,3.5
+Basil,Herb,12,1/5/2022,2.5
+Ruby Red Lettuce,Leafy Green,23,1/5/2022,4.0
+Green Emerald Lettuce,Leafy Green,26,2/5/2022,4.0
+Mint,Herb,7,2/5/2022,2.5
+Mizuna,Leafy Green,8,3/5/2022,3.8
+Chye Sim,Leafy Green,14,4/5/2022,3.5
+Green Emerald Lettuce,Leafy Green,47,5/5/2022,4.0
+Mizuna,Leafy Green,20,5/5/2022,3.8
+Ruby Red Lettuce,Leafy Green,26,6/5/2022,4.0
+Mint,Herb,9,6/5/2022,2.5
+Ruby Red Lettuce,Leafy Green,34,7/5/2022,4.0
+Mizuna,Leafy Green,25,8/5/2022,3.8
+Green Emerald Lettuce,Leafy Green,44,8/5/2022,4.0
+Basil,Herb,19,8/5/2022,2.5
+Basil,Herb,24,9/5/2022,2.5
+Chye Sim,Leafy Green,53,9/5/2022,3.5
+Mint,Herb,12,10/5/2022,2.5
+Green Emerald Lettuce,Leafy Green,53,10/5/2022,4.0
+Chye Sim,Leafy Green,53,11/5/2022,3.5
+Ruby Red Lettuce,Leafy Green,32,11/5/2022,4.0
+Mizuna,Leafy Green,22,11/5/2022,3.8
+Chye Sim,Leafy Green,48,14/5/2022,3.5
+Ruby Red Lettuce,Leafy Green,40,15/5/2022,4.0
+Mint,Herb,11,15/5/2022,2.5
+Green Emerald Lettuce,Leafy Green,42,15/5/2022,4.0
+Mizuna,Leafy Green,18,15/5/2022,3.8
+Chye Sim,Leafy Green,50,16/5/2022,3.5
+Basil,Herb,24,16/5/2022,2.5
+Green Emerald Lettuce,Leafy Green,48,16/5/2022,4.0
+Basil,Herb,19,17/5/2022,2.5
+Ruby Red Lettuce,Leafy Green,41,17/5/2022,4.0
+Mizuna,Leafy Green,20,17/5/2022,3.8
+Green Emerald Lettuce,Leafy Green,45,18/5/2022,4.0
+Mizuna,Leafy Green,18,19/5/2022,3.8
+Ruby Red Lettuce,Leafy Green,39,19/5/2022,4.0
+Chye Sim,Leafy Green,56,19/5/2022,3.5
+Mint,Herb,8,20/5/2022,2.5
+Green Emerald Lettuce,Leafy Green,47,20/5/2022,4.0
+Chye Sim,Leafy Green,35,21/5/2022,3.5
+Mizuna,Leafy Green,23,21/5/2022,3.8
+Ruby Red Lettuce,Leafy Green,30,21/5/2022,4.0
+Mint,Herb,13,22/5/2022,2.5
+Green Emerald Lettuce,Leafy Green,50,22/5/2022,4.0
+Mizuna,Leafy Green,22,22/5/2022,3.8
+Ruby Red Lettuce,Leafy Green,32,22/5/2022,4.0
+Chye Sim,Leafy Green,64,23/5/2022,3.5
+Chye Sim,Leafy Green,35,24/5/2022,3.5
+Basil,Herb,18,24/5/2022,2.5
+Mizuna,Leafy Green,18,24/5/2022,3.8
+Basil,Herb,12,25/5/2022,2.5
+Ruby Red Lettuce,Leafy Green,24,25/5/2022,4.0
+Green Emerald Lettuce,Leafy Green,45,25/5/2022,4.0
+Mizuna,Leafy Green,19,26/5/2022,3.8
+Ruby Red Lettuce,Leafy Green,30,26/5/2022,4.0
+Chye Sim,Leafy Green,63,26/5/2022,3.5
+Green Emerald Lettuce,Leafy Green,48,27/5/2022,4.0
+Mint,Herb,9,28/5/2022,2.5
+Chye Sim,Leafy Green,54,28/5/2022,3.5
+Green Emerald Lettuce,Leafy Green,49,28/5/2022,4.0
+Mizuna,Leafy Green,15,29/5/2022,3.8
+Ruby Red Lettuce,Leafy Green,36,29/5/2022,4.0
+Chye Sim,Leafy Green,44,30/5/2022,3.5
+Ruby Red Lettuce,Leafy Green,43,30/5/2022,4.0
+Green Emerald Lettuce,Leafy Green,43,30/5/2022,4.0
+Mint,Herb,12,31/5/2022,2.5
+Basil,Herb,15,31/5/2022,2.5
+Mizuna,Leafy Green,15,31/5/2022,3.8
+Mizuna,Leafy Green,19,1/6/2022,3.8
+Mint,Herb,11,1/6/2022,2.5
+Ruby Red Lettuce,Leafy Green,37,1/6/2022,4.0
+Chye Sim,Leafy Green,77,2/6/2022,3.5
+Green Emerald Lettuce,Leafy Green,52,2/6/2022,4.0
+Basil,Herb,20,3/6/2022,2.5
+Green Emerald Lettuce,Leafy Green,40,4/6/2022,4.0
+Ruby Red Lettuce,Leafy Green,38,5/6/2022,4.0
+Chye Sim,Leafy Green,47,6/6/2022,3.5
+Mizuna,Leafy Green,17,6/6/2022,3.8
+Green Emerald Lettuce,Leafy Green,31,7/6/2022,4.0
+Mizuna,Leafy Green,21,7/6/2022,3.8
+Mint,Herb,10,8/6/2022,2.5
+Basil,Herb,18,8/6/2022,2.5
+Ruby Red Lettuce,Leafy Green,42,9/6/2022,4.0
+Chye Sim,Leafy Green,35,9/6/2022,3.5
+Mint,Herb,11,9/6/2022,2.5
+Green Emerald Lettuce,Leafy Green,49,10/6/2022,4.0
+Basil,Herb,19,11/6/2022,2.5
+Chye Sim,Leafy Green,57,11/6/2022,3.5
+Mizuna,Leafy Green,19,12/6/2022,3.8
+Ruby Red Lettuce,Leafy Green,37,12/6/2022,4.0
+Green Emerald Lettuce,Leafy Green,40,14/6/2022,4.0
+Ruby Red Lettuce,Leafy Green,34,14/6/2022,4.0
+Mizuna,Leafy Green,20,15/6/2022,3.8
+Chye Sim,Leafy Green,69,15/6/2022,3.5
+Ruby Red Lettuce,Leafy Green,30,16/6/2022,4.0
+Basil,Herb,20,16/6/2022,2.5
+Mizuna,Leafy Green,16,16/6/2022,3.8
+Mint,Herb,13,16/6/2022,2.5
+Chye Sim,Leafy Green,74,18/6/2022,3.5
+Green Emerald Lettuce,Leafy Green,42,18/6/2022,4.0
+Mint,Herb,14,19/6/2022,2.5
+Chye Sim,Leafy Green,43,19/6/2022,3.5
+Green Emerald Lettuce,Leafy Green,41,20/6/2022,4.0
+Ruby Red Lettuce,Leafy Green,36,20/6/2022,4.0
+Mizuna,Leafy Green,18,20/6/2022,3.8
+Basil,Herb,20,20/6/2022,2.5
+Basil,Herb,24,21/6/2022,2.5
+Chye Sim,Leafy Green,53,21/6/2022,3.5
+Green Emerald Lettuce,Leafy Green,48,22/6/2022,4.0
+Mint,Herb,14,22/6/2022,2.5
+Ruby Red Lettuce,Leafy Green,34,22/6/2022,4.0
+Mizuna,Leafy Green,15,22/6/2022,3.8
+Green Emerald Lettuce,Leafy Green,28,23/6/2022,4.0
+Mizuna,Leafy Green,18,23/6/2022,3.8
+Ruby Red Lettuce,Leafy Green,43,24/6/2022,4.0
+Chye Sim,Leafy Green,55,24/6/2022,3.5
+Chye Sim,Leafy Green,49,25/6/2022,3.5
+Green Emerald Lettuce,Leafy Green,61,25/6/2022,4.0
+Ruby Red Lettuce,Leafy Green,33,26/6/2022,4.0
+Mizuna,Leafy Green,21,26/6/2022,3.8
+Basil,Herb,17,27/6/2022,2.5
+Green Emerald Lettuce,Leafy Green,48,27/6/2022,4.0
+Ruby Red Lettuce,Leafy Green,37,27/6/2022,4.0
+Mint,Herb,14,27/6/2022,2.5
+Mizuna,Leafy Green,20,28/6/2022,3.8
+Basil,Herb,21,28/6/2022,2.5
+Chye Sim,Leafy Green,72,28/6/2022,3.5
+Mint,Herb,12,28/6/2022,2.5
+Green Emerald Lettuce,Leafy Green,44,29/6/2022,4.0
+Chye Sim,Leafy Green,43,29/6/2022,3.5
+Ruby Red Lettuce,Leafy Green,35,30/6/2022,4.0
+Mizuna,Leafy Green,10,30/6/2022,3.8
+Mint,Herb,13,1/7/2022,2.5
+Green Emerald Lettuce,Leafy Green,41,2/7/2022,4.0
+Mizuna,Leafy Green,20,2/7/2022,3.8
+Ruby Red Lettuce,Leafy Green,34,2/7/2022,4.0
+Chye Sim,Leafy Green,50,2/7/2022,3.5
+Basil,Herb,17,4/7/2022,2.5
+Mizuna,Leafy Green,16,4/7/2022,3.8
+Green Emerald Lettuce,Leafy Green,40,6/7/2022,4.0
+Ruby Red Lettuce,Leafy Green,29,6/7/2022,4.0
+Chye Sim,Leafy Green,59,6/7/2022,3.5
+Mizuna,Leafy Green,15,7/7/2022,3.8
+Ruby Red Lettuce,Leafy Green,28,7/7/2022,4.0
+Basil,Herb,18,8/7/2022,2.5
+Green Emerald Lettuce,Leafy Green,41,8/7/2022,4.0
+Mint,Herb,13,8/7/2022,2.5
+Chye Sim,Leafy Green,62,9/7/2022,3.5
+Basil,Herb,18,9/7/2022,2.5
+Mint,Herb,15,9/7/2022,2.5
+Chye Sim,Leafy Green,63,10/7/2022,3.5
+Mizuna,Leafy Green,16,12/7/2022,3.8
+Ruby Red Lettuce,Leafy Green,21,12/7/2022,4.0
+Green Emerald Lettuce,Leafy Green,28,12/7/2022,4.0
+Mint,Herb,10,13/7/2022,2.5
+Ruby Red Lettuce,Leafy Green,36,14/7/2022,4.0
+Basil,Herb,30,15/7/2022,2.5
+Chye Sim,Leafy Green,70,15/7/2022,3.5
+Mizuna,Leafy Green,13,15/7/2022,3.8
+Green Emerald Lettuce,Leafy Green,43,15/7/2022,4.0
+Mizuna,Leafy Green,16,16/7/2022,3.8
+Ruby Red Lettuce,Leafy Green,31,16/7/2022,4.0
+Basil,Herb,15,17/7/2022,2.5
+Chye Sim,Leafy Green,71,17/7/2022,3.5
+Green Emerald Lettuce,Leafy Green,29,17/7/2022,4.0
+Ruby Red Lettuce,Leafy Green,30,18/7/2022,4.0
+Mint,Herb,6,18/7/2022,2.5
+Chye Sim,Leafy Green,63,18/7/2022,3.5
+Mizuna,Leafy Green,17,19/7/2022,3.8
+Green Emerald Lettuce,Leafy Green,36,19/7/2022,4.0
+Ruby Red Lettuce,Leafy Green,36,20/7/2022,4.0
+Mizuna,Leafy Green,20,20/7/2022,3.8
+Chye Sim,Leafy Green,76,20/7/2022,3.5
+Green Emerald Lettuce,Leafy Green,43,21/7/2022,4.0
+Ruby Red Lettuce,Leafy Green,35,22/7/2022,4.0
+Chye Sim,Leafy Green,59,22/7/2022,3.5
+Mizuna,Leafy Green,22,22/7/2022,3.8
+Basil,Herb,23,22/7/2022,2.5
+Green Emerald Lettuce,Leafy Green,47,23/7/2022,4.0
+Mint,Herb,12,23/7/2022,2.5
+Chye Sim,Leafy Green,47,24/7/2022,3.5
+Green Emerald Lettuce,Leafy Green,29,24/7/2022,4.0
+Ruby Red Lettuce,Leafy Green,23,24/7/2022,4.0
+Mizuna,Leafy Green,18,25/7/2022,3.8
+Chye Sim,Leafy Green,59,26/7/2022,3.5
+Mizuna,Leafy Green,15,26/7/2022,3.8
+Green Emerald Lettuce,Leafy Green,21,26/7/2022,4.0
+Ruby Red Lettuce,Leafy Green,28,26/7/2022,4.0
+Mint,Herb,10,27/7/2022,2.5
+Mizuna,Leafy Green,17,28/7/2022,3.8
+Basil,Herb,19,28/7/2022,2.5
+Chye Sim,Leafy Green,58,28/7/2022,3.5
+Mint,Herb,10,29/7/2022,2.5
+Green Emerald Lettuce,Leafy Green,44,29/7/2022,4.0
+Basil,Herb,20,29/7/2022,2.5
+Ruby Red Lettuce,Leafy Green,27,29/7/2022,4.0
+Mizuna,Leafy Green,12,30/7/2022,3.8
+Chye Sim,Leafy Green,57,31/7/2022,3.5
+Green Emerald Lettuce,Leafy Green,50,31/7/2022,4.0
+Ruby Red Lettuce,Leafy Green,28,31/7/2022,4.0
+Chye Sim,Leafy Green,57,2/8/2022,3.5
+Ruby Red Lettuce,Leafy Green,35,2/8/2022,4.0
+Green Emerald Lettuce,Leafy Green,29,3/8/2022,4.0
+Basil,Herb,16,3/8/2022,2.5
+Mizuna,Leafy Green,16,3/8/2022,3.8
+Chye Sim,Leafy Green,71,4/8/2022,3.5
+Mint,Herb,10,4/8/2022,2.5
+Mizuna,Leafy Green,19,5/8/2022,3.8
+Green Emerald Lettuce,Leafy Green,23,5/8/2022,4.0
+Ruby Red Lettuce,Leafy Green,36,5/8/2022,4.0
+Basil,Herb,18,6/8/2022,2.5
+Green Emerald Lettuce,Leafy Green,33,7/8/2022,4.0
+Chye Sim,Leafy Green,63,7/8/2022,3.5
+Mint,Herb,10,8/8/2022,2.5
+Ruby Red Lettuce,Leafy Green,33,9/8/2022,4.0
+Mizuna,Leafy Green,12,9/8/2022,3.8
+Basil,Herb,14,10/8/2022,2.5
+Ruby Red Lettuce,Leafy Green,29,10/8/2022,4.0
+Chye Sim,Leafy Green,67,12/8/2022,3.5
+Mint,Herb,6,12/8/2022,2.5
+Mizuna,Leafy Green,12,12/8/2022,3.8
+Green Emerald Lettuce,Leafy Green,27,12/8/2022,4.0
+Green Emerald Lettuce,Leafy Green,32,13/8/2022,4.0
+Mizuna,Leafy Green,16,14/8/2022,3.8
+Ruby Red Lettuce,Leafy Green,32,14/8/2022,4.0
+Mint,Herb,10,14/8/2022,2.5
+Basil,Herb,17,14/8/2022,2.5
+Chye Sim,Leafy Green,70,15/8/2022,3.5
+Ruby Red Lettuce,Leafy Green,26,16/8/2022,4.0
+Chye Sim,Leafy Green,56,17/8/2022,3.5
+Mizuna,Leafy Green,18,17/8/2022,3.8
+Green Emerald Lettuce,Leafy Green,38,17/8/2022,4.0
+Green Emerald Lettuce,Leafy Green,34,18/8/2022,4.0
+Mizuna,Leafy Green,15,18/8/2022,3.8
+Chye Sim,Leafy Green,61,18/8/2022,3.5
+Mint,Herb,15,19/8/2022,2.5
+Ruby Red Lettuce,Leafy Green,28,19/8/2022,4.0
+Basil,Herb,19,20/8/2022,2.5
+Chye Sim,Leafy Green,58,20/8/2022,3.5
+Mizuna,Leafy Green,14,21/8/2022,3.8
+Ruby Red Lettuce,Leafy Green,32,21/8/2022,4.0
+Green Emerald Lettuce,Leafy Green,40,21/8/2022,4.0
+Green Emerald Lettuce,Leafy Green,39,22/8/2022,4.0
+Mizuna,Leafy Green,20,22/8/2022,3.8
+Mint,Herb,14,22/8/2022,2.5
+Ruby Red Lettuce,Leafy Green,34,23/8/2022,4.0
+Basil,Herb,14,23/8/2022,2.5
+Chye Sim,Leafy Green,68,23/8/2022,3.5
+Green Emerald Lettuce,Leafy Green,39,24/8/2022,4.0
+Chye Sim,Leafy Green,58,25/8/2022,3.5
+Ruby Red Lettuce,Leafy Green,30,25/8/2022,4.0
+Mizuna,Leafy Green,13,25/8/2022,3.8
+Basil,Herb,20,26/8/2022,2.5
+Chye Sim,Leafy Green,40,26/8/2022,3.5
+Mizuna,Leafy Green,18,26/8/2022,3.8
+Ruby Red Lettuce,Leafy Green,30,27/8/2022,4.0
+Green Emerald Lettuce,Leafy Green,35,27/8/2022,4.0
+Mint,Herb,11,28/8/2022,2.5
+Green Emerald Lettuce,Leafy Green,28,28/8/2022,4.0
+Chye Sim,Leafy Green,62,28/8/2022,3.5
+Ruby Red Lettuce,Leafy Green,31,29/8/2022,4.0
+Mizuna,Leafy Green,12,29/8/2022,3.8
+Mizuna,Leafy Green,16,30/8/2022,3.8
+Chye Sim,Leafy Green,72,30/8/2022,3.5
+Basil,Herb,15,30/8/2022,2.5
+Green Emerald Lettuce,Leafy Green,40,30/8/2022,4.0
+Mint,Herb,11,30/8/2022,2.5
+Ruby Red Lettuce,Leafy Green,30,30/8/2022,4.0
+Chye Sim,Leafy Green,54,2/9/2022,3.5
+Mizuna,Leafy Green,15,3/9/2022,3.8
+Ruby Red Lettuce,Leafy Green,26,3/9/2022,4.0
+Mint,Herb,10,3/9/2022,2.5
+Green Emerald Lettuce,Leafy Green,29,3/9/2022,4.0
+Basil,Herb,14,4/9/2022,2.5
+Green Emerald Lettuce,Leafy Green,23,4/9/2022,4.0
+Mizuna,Leafy Green,18,5/9/2022,3.8
+Chye Sim,Leafy Green,59,5/9/2022,3.5
+Mint,Herb,10,5/9/2022,2.5
+Ruby Red Lettuce,Leafy Green,33,6/9/2022,4.0
+Basil,Herb,16,7/9/2022,2.5
+Mizuna,Leafy Green,18,7/9/2022,3.8
+Ruby Red Lettuce,Leafy Green,21,8/9/2022,4.0
+Mint,Herb,11,9/9/2022,2.5
+Basil,Herb,13,9/9/2022,2.5
+Green Emerald Lettuce,Leafy Green,32,9/9/2022,4.0
+Chye Sim,Leafy Green,48,9/9/2022,3.5
+Mizuna,Leafy Green,20,10/9/2022,3.8
+Green Emerald Lettuce,Leafy Green,39,10/9/2022,4.0
+Chye Sim,Leafy Green,68,12/9/2022,3.5
+Ruby Red Lettuce,Leafy Green,20,12/9/2022,4.0
+Ruby Red Lettuce,Leafy Green,28,14/9/2022,4.0
+Chye Sim,Leafy Green,62,15/9/2022,3.5
+Mizuna,Leafy Green,21,15/9/2022,3.8
+Green Emerald Lettuce,Leafy Green,30,15/9/2022,4.0
+Mint,Herb,12,16/9/2022,2.5
+Chye Sim,Leafy Green,56,16/9/2022,3.5
+Basil,Herb,21,16/9/2022,2.5
+Green Emerald Lettuce,Leafy Green,35,16/9/2022,4.0
+Mizuna,Leafy Green,16,17/9/2022,3.8
+Mint,Herb,7,17/9/2022,2.5
+Ruby Red Lettuce,Leafy Green,26,17/9/2022,4.0
+Ruby Red Lettuce,Leafy Green,25,19/9/2022,4.0
+Chye Sim,Leafy Green,60,19/9/2022,3.5
+Basil,Herb,12,19/9/2022,2.5
+Green Emerald Lettuce,Leafy Green,27,20/9/2022,4.0
+Mizuna,Leafy Green,14,20/9/2022,3.8
+Mizuna,Leafy Green,15,21/9/2022,3.8
+Chye Sim,Leafy Green,59,21/9/2022,3.5
+Ruby Red Lettuce,Leafy Green,29,21/9/2022,4.0
+Green Emerald Lettuce,Leafy Green,31,22/9/2022,4.0
+Basil,Herb,18,22/9/2022,2.5
+Green Emerald Lettuce,Leafy Green,29,23/9/2022,4.0
+Mint,Herb,12,23/9/2022,2.5
+Mizuna,Leafy Green,17,23/9/2022,3.8
+Chye Sim,Leafy Green,66,24/9/2022,3.5
+Ruby Red Lettuce,Leafy Green,24,24/9/2022,4.0
+Ruby Red Lettuce,Leafy Green,33,26/9/2022,4.0
+Mizuna,Leafy Green,20,26/9/2022,3.8
+Chye Sim,Leafy Green,61,26/9/2022,3.5
+Mint,Herb,8,26/9/2022,2.5
+Green Emerald Lettuce,Leafy Green,33,26/9/2022,4.0
+Basil,Herb,20,27/9/2022,2.5
+Mint,Herb,10,28/9/2022,2.5
+Ruby Red Lettuce,Leafy Green,21,28/9/2022,4.0
+Green Emerald Lettuce,Leafy Green,39,28/9/2022,4.0
+Mizuna,Leafy Green,18,28/9/2022,3.8
+Chye Sim,Leafy Green,51,28/9/2022,3.5
+Basil,Herb,18,29/9/2022,2.5
+Ruby Red Lettuce,Leafy Green,24,30/9/2022,4.0
+Chye Sim,Leafy Green,50,30/9/2022,3.5
+Mizuna,Leafy Green,17,30/9/2022,3.8
+Green Emerald Lettuce,Leafy Green,34,30/9/2022,4.0
+Mizuna,Leafy Green,17,1/10/2022,3.8
+Green Emerald Lettuce,Leafy Green,36,1/10/2022,4.0
+Ruby Red Lettuce,Leafy Green,24,1/10/2022,4.0
+Chye Sim,Leafy Green,50,1/10/2022,3.5
+Mint,Herb,10,2/10/2022,2.5
+Basil,Herb,12,4/10/2022,2.5
+Ruby Red Lettuce,Leafy Green,26,4/10/2022,4.0
+Chye Sim,Leafy Green,51,4/10/2022,3.5
+Basil,Herb,15,5/10/2022,2.5
+Green Emerald Lettuce,Leafy Green,36,5/10/2022,4.0
+Mizuna,Leafy Green,9,6/10/2022,3.8
+Chye Sim,Leafy Green,21,7/10/2022,3.5
+Mint,Herb,6,7/10/2022,2.5
+Ruby Red Lettuce,Leafy Green,10,7/10/2022,4.0
+Green Emerald Lettuce,Leafy Green,21,8/10/2022,4.0
+Mizuna,Leafy Green,13,9/10/2022,3.8
+Green Emerald Lettuce,Leafy Green,21,10/10/2022,4.0
+Basil,Herb,10,10/10/2022,2.5
+Mizuna,Leafy Green,10,11/10/2022,3.8
+Chye Sim,Leafy Green,30,11/10/2022,3.5
+Ruby Red Lettuce,Leafy Green,11,11/10/2022,4.0
+Mint,Herb,10,12/10/2022,2.5
+Chye Sim,Leafy Green,47,14/10/2022,3.5
+Ruby Red Lettuce,Leafy Green,16,14/10/2022,4.0
+Basil,Herb,10,14/10/2022,2.5
+Mint,Herb,11,14/10/2022,2.5
+Mizuna,Leafy Green,15,14/10/2022,3.8
+Green Emerald Lettuce,Leafy Green,35,15/10/2022,4.0
+Ruby Red Lettuce,Leafy Green,20,16/10/2022,4.0
+Mizuna,Leafy Green,9,17/10/2022,3.8
+Green Emerald Lettuce,Leafy Green,25,17/10/2022,4.0
+Chye Sim,Leafy Green,28,17/10/2022,3.5
+Mint,Herb,8,17/10/2022,2.5
+Ruby Red Lettuce,Leafy Green,22,19/10/2022,4.0
+Green Emerald Lettuce,Leafy Green,34,19/10/2022,4.0
+Mizuna,Leafy Green,21,19/10/2022,3.8
+Chye Sim,Leafy Green,48,19/10/2022,3.5
+Ruby Red Lettuce,Leafy Green,20,20/10/2022,4.0
+Basil,Herb,17,20/10/2022,2.5
+Green Emerald Lettuce,Leafy Green,29,20/10/2022,4.0
+Chye Sim,Leafy Green,44,20/10/2022,3.5
+Mizuna,Leafy Green,16,21/10/2022,3.8
+Mint,Herb,10,21/10/2022,2.5
+Basil,Herb,13,21/10/2022,2.5
+Mizuna,Leafy Green,23,22/10/2022,3.8
+Ruby Red Lettuce,Leafy Green,22,22/10/2022,4.0
+Chye Sim,Leafy Green,52,23/10/2022,3.5
+Green Emerald Lettuce,Leafy Green,37,23/10/2022,4.0
+Green Emerald Lettuce,Leafy Green,33,24/10/2022,4.0
+Ruby Red Lettuce,Leafy Green,18,24/10/2022,4.0
+Chye Sim,Leafy Green,54,25/10/2022,3.5
+Mizuna,Leafy Green,18,25/10/2022,3.8
+Mint,Herb,8,25/10/2022,2.5
+Basil,Herb,11,26/10/2022,2.5
+Green Emerald Lettuce,Leafy Green,31,26/10/2022,4.0
+Mizuna,Leafy Green,17,26/10/2022,3.8
+Ruby Red Lettuce,Leafy Green,26,26/10/2022,4.0
+Chye Sim,Leafy Green,49,26/10/2022,3.5
+Mizuna,Leafy Green,17,28/10/2022,3.8
+Green Emerald Lettuce,Leafy Green,43,28/10/2022,4.0
+Chye Sim,Leafy Green,48,28/10/2022,3.5
+Ruby Red Lettuce,Leafy Green,27,29/10/2022,4.0
+Green Emerald Lettuce,Leafy Green,47,30/10/2022,4.0
+Basil,Herb,11,30/10/2022,2.5
+Chye Sim,Leafy Green,65,30/10/2022,3.5
+Mint,Herb,11,30/10/2022,2.5
+Ruby Red Lettuce,Leafy Green,22,31/10/2022,4.0
+Mizuna,Leafy Green,24,31/10/2022,3.8
+Mint,Herb,8,2/11/2022,2.5
+Basil,Herb,15,2/11/2022,2.5
+Chye Sim,Leafy Green,54,2/11/2022,3.5
+Mizuna,Leafy Green,20,3/11/2022,3.8
+Green Emerald Lettuce,Leafy Green,31,3/11/2022,4.0
+Ruby Red Lettuce,Leafy Green,25,3/11/2022,4.0
+Chye Sim,Leafy Green,42,4/11/2022,3.5
+Ruby Red Lettuce,Leafy Green,28,4/11/2022,4.0
+Basil,Herb,15,5/11/2022,2.5
+Mizuna,Leafy Green,21,6/11/2022,3.8
+Green Emerald Lettuce,Leafy Green,34,6/11/2022,4.0
+Ruby Red Lettuce,Leafy Green,30,7/11/2022,4.0
+Green Emerald Lettuce,Leafy Green,44,7/11/2022,4.0
+Mizuna,Leafy Green,19,8/11/2022,3.8
+Chye Sim,Leafy Green,25,8/11/2022,3.5
+Mint,Herb,9,8/11/2022,2.5
+Mizuna,Leafy Green,22,10/11/2022,3.8
+Green Emerald Lettuce,Leafy Green,35,10/11/2022,4.0
+Chye Sim,Leafy Green,46,11/11/2022,3.5
+Basil,Herb,13,11/11/2022,2.5
+Ruby Red Lettuce,Leafy Green,24,11/11/2022,4.0
+Mint,Herb,10,12/11/2022,2.5
+Basil,Herb,10,13/11/2022,2.5
+Mint,Herb,8,13/11/2022,2.5
+Ruby Red Lettuce,Leafy Green,23,13/11/2022,4.0
+Mizuna,Leafy Green,23,14/11/2022,3.8
+Green Emerald Lettuce,Leafy Green,33,14/11/2022,4.0
+Chye Sim,Leafy Green,48,15/11/2022,3.5
+Mizuna,Leafy Green,27,16/11/2022,3.8
+Ruby Red Lettuce,Leafy Green,28,18/11/2022,4.0
+Chye Sim,Leafy Green,50,18/11/2022,3.5
+Green Emerald Lettuce,Leafy Green,38,18/11/2022,4.0
+Basil,Herb,7,19/11/2022,2.5
+Chye Sim,Leafy Green,30,19/11/2022,3.5
+Green Emerald Lettuce,Leafy Green,37,20/11/2022,4.0
+Mint,Herb,9,20/11/2022,2.5
+Ruby Red Lettuce,Leafy Green,17,20/11/2022,4.0
+Mizuna,Leafy Green,18,20/11/2022,3.8
+Basil,Herb,14,21/11/2022,2.5
+Ruby Red Lettuce,Leafy Green,26,21/11/2022,4.0
+Mizuna,Leafy Green,19,21/11/2022,3.8
+Chye Sim,Leafy Green,39,21/11/2022,3.5
+Mint,Herb,11,22/11/2022,2.5
+Green Emerald Lettuce,Leafy Green,57,22/11/2022,4.0
+Chye Sim,Leafy Green,50,23/11/2022,3.5
+Mizuna,Leafy Green,26,23/11/2022,3.8
+Green Emerald Lettuce,Leafy Green,29,24/11/2022,4.0
+Ruby Red Lettuce,Leafy Green,22,24/11/2022,4.0
+Mint,Herb,3,25/11/2022,2.5
+Green Emerald Lettuce,Leafy Green,29,25/11/2022,4.0
+Ruby Red Lettuce,Leafy Green,11,25/11/2022,4.0
+Chye Sim,Leafy Green,31,25/11/2022,3.5
+Mizuna,Leafy Green,20,26/11/2022,3.8
+Basil,Herb,10,26/11/2022,2.5
+Mizuna,Leafy Green,20,27/11/2022,3.8
+Green Emerald Lettuce,Leafy Green,49,28/11/2022,4.0
+Ruby Red Lettuce,Leafy Green,31,28/11/2022,4.0
+Chye Sim,Leafy Green,36,28/11/2022,3.5
+Green Emerald Lettuce,Leafy Green,43,29/11/2022,4.0
+Ruby Red Lettuce,Leafy Green,30,29/11/2022,4.0
+Chye Sim,Leafy Green,46,29/11/2022,3.5
+Mizuna,Leafy Green,22,29/11/2022,3.8
+Mint,Herb,7,29/11/2022,2.5
+Basil,Herb,15,30/11/2022,2.5
+Ruby Red Lettuce,Leafy Green,30,1/12/2022,4.0
+Mizuna,Leafy Green,23,3/12/2022,3.8
+Green Emerald Lettuce,Leafy Green,37,3/12/2022,4.0
+Mint,Herb,6,3/12/2022,2.5
+Chye Sim,Leafy Green,48,3/12/2022,3.5
+Basil,Herb,11,4/12/2022,2.5
+Ruby Red Lettuce,Leafy Green,36,4/12/2022,4.0
+Green Emerald Lettuce,Leafy Green,35,5/12/2022,4.0
+Mint,Herb,6,5/12/2022,2.5
+Chye Sim,Leafy Green,58,6/12/2022,3.5
+Mizuna,Leafy Green,20,6/12/2022,3.8
+Basil,Herb,10,6/12/2022,2.5
+Mizuna,Leafy Green,21,7/12/2022,3.8
+Ruby Red Lettuce,Leafy Green,32,7/12/2022,4.0
+Green Emerald Lettuce,Leafy Green,45,8/12/2022,4.0
+Basil,Herb,13,9/12/2022,2.5
+Chye Sim,Leafy Green,55,9/12/2022,3.5
+Mizuna,Leafy Green,17,10/12/2022,3.8
+Ruby Red Lettuce,Leafy Green,32,10/12/2022,4.0
+Mint,Herb,8,11/12/2022,2.5
+Chye Sim,Leafy Green,65,12/12/2022,3.5
+Green Emerald Lettuce,Leafy Green,38,12/12/2022,4.0
+Mizuna,Leafy Green,25,13/12/2022,3.8
+Basil,Herb,12,13/12/2022,2.5
+Chye Sim,Leafy Green,48,13/12/2022,3.5
+Green Emerald Lettuce,Leafy Green,53,14/12/2022,4.0
+Mint,Herb,8,14/12/2022,2.5
+Ruby Red Lettuce,Leafy Green,32,15/12/2022,4.0
+Ruby Red Lettuce,Leafy Green,31,16/12/2022,4.0
+Chye Sim,Leafy Green,53,16/12/2022,3.5
+Mizuna,Leafy Green,23,17/12/2022,3.8
+Green Emerald Lettuce,Leafy Green,47,17/12/2022,4.0
+Mint,Herb,8,17/12/2022,2.5
+Green Emerald Lettuce,Leafy Green,46,18/12/2022,4.0
+Basil,Herb,9,18/12/2022,2.5
+Ruby Red Lettuce,Leafy Green,14,19/12/2022,4.0
+Chye Sim,Leafy Green,20,19/12/2022,3.5
+Mizuna,Leafy Green,15,19/12/2022,3.8
+Mizuna,Leafy Green,17,20/12/2022,3.8
+Ruby Red Lettuce,Leafy Green,26,20/12/2022,4.0
+Green Emerald Lettuce,Leafy Green,35,21/12/2022,4.0
+Mint,Herb,6,21/12/2022,2.5
+Chye Sim,Leafy Green,49,21/12/2022,3.5
+Green Emerald Lettuce,Leafy Green,65,22/12/2022,4.0
+Mizuna,Leafy Green,20,22/12/2022,3.8
+Chye Sim,Leafy Green,68,22/12/2022,3.5
+Ruby Red Lettuce,Leafy Green,35,23/12/2022,4.0
+Basil,Herb,7,23/12/2022,2.5
+Green Emerald Lettuce,Leafy Green,33,24/12/2022,4.0
+Chye Sim,Leafy Green,43,24/12/2022,3.5
+Mizuna,Leafy Green,10,25/12/2022,3.8
+Ruby Red Lettuce,Leafy Green,15,25/12/2022,4.0
+Mint,Herb,4,25/12/2022,2.5
+Mizuna,Leafy Green,30,26/12/2022,3.8
+Ruby Red Lettuce,Leafy Green,25,26/12/2022,4.0
+Basil,Herb,9,26/12/2022,2.5
+Chye Sim,Leafy Green,43,27/12/2022,3.5
+Green Emerald Lettuce,Leafy Green,39,27/12/2022,4.0
+Ruby Red Lettuce,Leafy Green,20,28/12/2022,4.0
+Mint,Herb,6,29/12/2022,2.5
+Mizuna,Leafy Green,25,29/12/2022,3.8
+Green Emerald Lettuce,Leafy Green,44,29/12/2022,4.0
+Chye Sim,Leafy Green,53,29/12/2022,3.5
+Green Emerald Lettuce,Leafy Green,31,30/12/2022,4.0
+Chye Sim,Leafy Green,35,30/12/2022,3.5
+Basil,Herb,11,30/12/2022,2.5
+Mizuna,Leafy Green,21,31/12/2022,3.8
+Ruby Red Lettuce,Leafy Green,34,31/12/2022,4.0
+Chye Sim,Leafy Green,60,1/1/2023,3.5
+Basil,Herb,14,1/1/2023,2.5
+Mizuna,Leafy Green,19,1/1/2023,3.8
+Ruby Red Lettuce,Leafy Green,29,2/1/2023,4.0
+Green Emerald Lettuce,Leafy Green,35,3/1/2023,4.0
+Mint,Herb,7,4/1/2023,2.5
+Chye Sim,Leafy Green,68,4/1/2023,3.5
+Ruby Red Lettuce,Leafy Green,23,4/1/2023,4.0
+Mizuna,Leafy Green,23,5/1/2023,3.8
+Green Emerald Lettuce,Leafy Green,35,6/1/2023,4.0
+Chye Sim,Leafy Green,40,7/1/2023,3.5
+Mint,Herb,6,8/1/2023,2.5
+Basil,Herb,13,8/1/2023,2.5
+Mizuna,Leafy Green,18,9/1/2023,3.8
+Ruby Red Lettuce,Leafy Green,27,9/1/2023,4.0
+Green Emerald Lettuce,Leafy Green,31,9/1/2023,4.0
+Green Emerald Lettuce,Leafy Green,32,10/1/2023,4.0
+Chye Sim,Leafy Green,44,10/1/2023,3.5
+Mint,Herb,7,11/1/2023,2.5
+Mizuna,Leafy Green,22,12/1/2023,3.8
+Basil,Herb,8,12/1/2023,2.5
+Ruby Red Lettuce,Leafy Green,32,12/1/2023,4.0
+Green Emerald Lettuce,Leafy Green,35,13/1/2023,4.0
+Basil,Herb,11,13/1/2023,2.5
+Mizuna,Leafy Green,16,14/1/2023,3.8
+Ruby Red Lettuce,Leafy Green,35,15/1/2023,4.0
+Mint,Herb,7,15/1/2023,2.5
+Chye Sim,Leafy Green,40,15/1/2023,3.5
+Mizuna,Leafy Green,20,16/1/2023,3.8
+Chye Sim,Leafy Green,49,16/1/2023,3.5
+Green Emerald Lettuce,Leafy Green,23,17/1/2023,4.0
+Mint,Herb,7,17/1/2023,2.5
+Ruby Red Lettuce,Leafy Green,22,17/1/2023,4.0
+Green Emerald Lettuce,Leafy Green,35,18/1/2023,4.0
+Mizuna,Leafy Green,21,19/1/2023,3.8
+Basil,Herb,9,19/1/2023,2.5
+Chye Sim,Leafy Green,52,19/1/2023,3.5
+Ruby Red Lettuce,Leafy Green,31,19/1/2023,4.0
+Chye Sim,Leafy Green,45,20/1/2023,3.5
+Green Emerald Lettuce,Leafy Green,37,20/1/2023,4.0
+Ruby Red Lettuce,Leafy Green,32,21/1/2023,4.0
+Mint,Herb,6,21/1/2023,2.5
+Mizuna,Leafy Green,20,21/1/2023,3.8
+Basil,Herb,10,22/1/2023,2.5
+Green Emerald Lettuce,Leafy Green,31,22/1/2023,4.0
+Ruby Red Lettuce,Leafy Green,20,22/1/2023,4.0
+Mizuna,Leafy Green,20,23/1/2023,3.8
+Chye Sim,Leafy Green,45,23/1/2023,3.5
+Ruby Red Lettuce,Leafy Green,27,24/1/2023,4.0
+Chye Sim,Leafy Green,46,24/1/2023,3.5
+Green Emerald Lettuce,Leafy Green,29,25/1/2023,4.0
+Mint,Herb,8,25/1/2023,2.5
+Mizuna,Leafy Green,20,25/1/2023,3.8
+Ruby Red Lettuce,Leafy Green,34,26/1/2023,4.0
+Chye Sim,Leafy Green,53,26/1/2023,3.5
+Basil,Herb,10,27/1/2023,2.5
+Green Emerald Lettuce,Leafy Green,23,27/1/2023,4.0
+Mizuna,Leafy Green,24,27/1/2023,3.8
+Chye Sim,Leafy Green,60,28/1/2023,3.5
+Green Emerald Lettuce,Leafy Green,34,28/1/2023,4.0
+Mizuna,Leafy Green,18,29/1/2023,3.8
+Ruby Red Lettuce,Leafy Green,20,29/1/2023,4.0
+Basil,Herb,9,30/1/2023,2.5
+Chye Sim,Leafy Green,45,30/1/2023,3.5
+Green Emerald Lettuce,Leafy Green,34,31/1/2023,4.0
+Ruby Red Lettuce,Leafy Green,24,31/1/2023,4.0
+Mint,Herb,8,31/1/2023,2.5
+Mizuna,Leafy Green,15,31/1/2023,3.8
+Ruby Red Lettuce,Leafy Green,26,1/2/2023,4.0
+Mizuna,Leafy Green,18,1/2/2023,3.8
+Basil,Herb,10,1/2/2023,2.5
+Chye Sim,Leafy Green,46,1/2/2023,3.5
+Green Emerald Lettuce,Leafy Green,32,1/2/2023,4.0
+Mint,Herb,10,4/2/2023,2.5
+Chye Sim,Leafy Green,51,4/2/2023,3.5
+Ruby Red Lettuce,Leafy Green,24,4/2/2023,4.0
+Green Emerald Lettuce,Leafy Green,43,5/2/2023,4.0
+Basil,Herb,9,6/2/2023,2.5
+Mizuna,Leafy Green,26,6/2/2023,3.8
+Ruby Red Lettuce,Leafy Green,27,7/2/2023,4.0
+Mizuna,Leafy Green,17,7/2/2023,3.8
+Mint,Herb,7,7/2/2023,2.5
+Chye Sim,Leafy Green,59,8/2/2023,3.5
+Green Emerald Lettuce,Leafy Green,50,9/2/2023,4.0
+Green Emerald Lettuce,Leafy Green,34,10/2/2023,4.0
+Chye Sim,Leafy Green,88,10/2/2023,3.5
+Basil,Herb,16,11/2/2023,2.5
+Ruby Red Lettuce,Leafy Green,30,11/2/2023,4.0
+Mint,Herb,8,12/2/2023,2.5
+Mizuna,Leafy Green,26,12/2/2023,3.8
+Mint,Herb,9,13/2/2023,2.5
+Green Emerald Lettuce,Leafy Green,34,13/2/2023,4.0
+Chye Sim,Leafy Green,51,14/2/2023,3.5
+Mizuna,Leafy Green,21,14/2/2023,3.8
+Ruby Red Lettuce,Leafy Green,21,14/2/2023,4.0
+Chye Sim,Leafy Green,59,15/2/2023,3.5
+Green Emerald Lettuce,Leafy Green,42,15/2/2023,4.0
+Ruby Red Lettuce,Leafy Green,19,15/2/2023,4.0
+Basil,Herb,13,16/2/2023,2.5
+Mizuna,Leafy Green,19,16/2/2023,3.8
+Mizuna,Leafy Green,23,17/2/2023,3.8
+Green Emerald Lettuce,Leafy Green,35,18/2/2023,4.0
+Ruby Red Lettuce,Leafy Green,22,18/2/2023,4.0
+Mint,Herb,9,18/2/2023,2.5
+Chye Sim,Leafy Green,49,18/2/2023,3.5
+Chye Sim,Leafy Green,40,19/2/2023,3.5
+Green Emerald Lettuce,Leafy Green,39,19/2/2023,4.0
+Basil,Herb,10,19/2/2023,2.5
+Ruby Red Lettuce,Leafy Green,28,20/2/2023,4.0
+Mizuna,Leafy Green,22,20/2/2023,3.8
+Basil,Herb,9,21/2/2023,2.5
+Green Emerald Lettuce,Leafy Green,36,21/2/2023,4.0
+Ruby Red Lettuce,Leafy Green,25,21/2/2023,4.0
+Chye Sim,Leafy Green,54,21/2/2023,3.5
+Mizuna,Leafy Green,21,21/2/2023,3.8
+Mint,Herb,6,22/2/2023,2.5
+Mizuna,Leafy Green,26,23/2/2023,3.8
+Chye Sim,Leafy Green,55,23/2/2023,3.5
+Mint,Herb,8,23/2/2023,2.5
+Green Emerald Lettuce,Leafy Green,25,24/2/2023,4.0
+Ruby Red Lettuce,Leafy Green,27,24/2/2023,4.0
+Basil,Herb,13,25/2/2023,2.5
+Chye Sim,Leafy Green,48,25/2/2023,3.5
+Green Emerald Lettuce,Leafy Green,38,26/2/2023,4.0
+Basil,Herb,13,26/2/2023,2.5
+Mizuna,Leafy Green,22,26/2/2023,3.8
+Ruby Red Lettuce,Leafy Green,20,26/2/2023,4.0
+Mint,Herb,7,27/2/2023,2.5
+Mizuna,Leafy Green,18,27/2/2023,3.8
+Ruby Red Lettuce,Leafy Green,26,27/2/2023,4.0
+Green Emerald Lettuce,Leafy Green,30,28/2/2023,4.0
+Chye Sim,Leafy Green,48,28/2/2023,3.5
+Green Emerald Lettuce,Leafy Green,33,1/3/2023,4.0
+Mint,Herb,11,1/3/2023,2.5
+Mizuna,Leafy Green,25,1/3/2023,3.8
+Chye Sim,Leafy Green,43,3/3/2023,3.5
+Ruby Red Lettuce,Leafy Green,21,3/3/2023,4.0
+Basil,Herb,12,4/3/2023,2.5
+Chye Sim,Leafy Green,64,5/3/2023,3.5
+Green Emerald Lettuce,Leafy Green,35,6/3/2023,4.0
+Ruby Red Lettuce,Leafy Green,24,6/3/2023,4.0
+Mizuna,Leafy Green,21,6/3/2023,3.8
+Mint,Herb,9,7/3/2023,2.5
+Basil,Herb,13,7/3/2023,2.5
+Chye Sim,Leafy Green,48,7/3/2023,3.5
+Ruby Red Lettuce,Leafy Green,24,8/3/2023,4.0
+Green Emerald Lettuce,Leafy Green,46,8/3/2023,4.0
+Mizuna,Leafy Green,22,9/3/2023,3.8
+Mizuna,Leafy Green,18,10/3/2023,3.8
+Basil,Herb,17,10/3/2023,2.5
+Chye Sim,Leafy Green,45,10/3/2023,3.5
+Mint,Herb,9,11/3/2023,2.5
+Green Emerald Lettuce,Leafy Green,52,11/3/2023,4.0
+Ruby Red Lettuce,Leafy Green,30,12/3/2023,4.0
+Mizuna,Leafy Green,22,14/3/2023,3.8
+Mint,Herb,11,14/3/2023,2.5
+Chye Sim,Leafy Green,49,14/3/2023,3.5
+Green Emerald Lettuce,Leafy Green,30,14/3/2023,4.0
+Ruby Red Lettuce,Leafy Green,31,15/3/2023,4.0
+Basil,Herb,11,16/3/2023,2.5
+Mizuna,Leafy Green,21,16/3/2023,3.8
+Basil,Herb,15,17/3/2023,2.5
+Mint,Herb,11,17/3/2023,2.5
+Chye Sim,Leafy Green,45,17/3/2023,3.5
+Green Emerald Lettuce,Leafy Green,29,17/3/2023,4.0
+Ruby Red Lettuce,Leafy Green,22,17/3/2023,4.0
+Green Emerald Lettuce,Leafy Green,48,18/3/2023,4.0
+Ruby Red Lettuce,Leafy Green,26,18/3/2023,4.0
+Mizuna,Leafy Green,23,19/3/2023,3.8
+Chye Sim,Leafy Green,47,19/3/2023,3.5
+Green Emerald Lettuce,Leafy Green,43,20/3/2023,4.0
+Chye Sim,Leafy Green,48,21/3/2023,3.5
+Ruby Red Lettuce,Leafy Green,24,21/3/2023,4.0
+Mizuna,Leafy Green,21,21/3/2023,3.8
+Chye Sim,Leafy Green,60,22/3/2023,3.5
+Ruby Red Lettuce,Leafy Green,20,22/3/2023,4.0
+Green Emerald Lettuce,Leafy Green,37,22/3/2023,4.0
+Mizuna,Leafy Green,26,23/3/2023,3.8
+Green Emerald Lettuce,Leafy Green,44,24/3/2023,4.0
+Chye Sim,Leafy Green,39,24/3/2023,3.5
+Basil,Herb,10,24/3/2023,2.5
+Mint,Herb,6,24/3/2023,2.5
+Mizuna,Leafy Green,25,24/3/2023,3.8
+Ruby Red Lettuce,Leafy Green,28,25/3/2023,4.0
+Chye Sim,Leafy Green,48,26/3/2023,3.5
+Green Emerald Lettuce,Leafy Green,23,26/3/2023,4.0
+Mizuna,Leafy Green,23,26/3/2023,3.8
+Ruby Red Lettuce,Leafy Green,27,27/3/2023,4.0
+Mint,Herb,6,28/3/2023,2.5
+Basil,Herb,9,28/3/2023,2.5
+Mizuna,Leafy Green,25,28/3/2023,3.8
+Ruby Red Lettuce,Leafy Green,35,29/3/2023,4.0
+Chye Sim,Leafy Green,41,29/3/2023,3.5
+Mint,Herb,7,29/3/2023,2.5
+Green Emerald Lettuce,Leafy Green,37,29/3/2023,4.0
+Chye Sim,Leafy Green,44,30/3/2023,3.5
+Basil,Herb,16,30/3/2023,2.5
+Green Emerald Lettuce,Leafy Green,46,30/3/2023,4.0
+Mizuna,Leafy Green,20,31/3/2023,3.8
+Ruby Red Lettuce,Leafy Green,30,31/3/2023,4.0
+Ruby Red Lettuce,Leafy Green,23,1/4/2023,4.0
+Basil,Herb,14,2/4/2023,2.5
+Chye Sim,Leafy Green,39,2/4/2023,3.5
+Mizuna,Leafy Green,23,3/4/2023,3.8
+Green Emerald Lettuce,Leafy Green,42,3/4/2023,4.0
+Mint,Herb,10,3/4/2023,2.5
+Chye Sim,Leafy Green,46,4/4/2023,3.5
+Ruby Red Lettuce,Leafy Green,30,5/4/2023,4.0
+Green Emerald Lettuce,Leafy Green,44,6/4/2023,4.0
+Mizuna,Leafy Green,20,6/4/2023,3.8
+Green Emerald Lettuce,Leafy Green,48,7/4/2023,4.0
+Mizuna,Leafy Green,25,7/4/2023,3.8
+Chye Sim,Leafy Green,56,7/4/2023,3.5
+Mint,Herb,9,8/4/2023,2.5
+Basil,Herb,17,8/4/2023,2.5
+Ruby Red Lettuce,Leafy Green,29,9/4/2023,4.0
+Mizuna,Leafy Green,25,10/4/2023,3.8
+Green Emerald Lettuce,Leafy Green,46,10/4/2023,4.0
+Mint,Herb,10,11/4/2023,2.5
+Ruby Red Lettuce,Leafy Green,22,11/4/2023,4.0
+Basil,Herb,12,11/4/2023,2.5
+Chye Sim,Leafy Green,41,12/4/2023,3.5
+Basil,Herb,17,13/4/2023,2.5
+Chye Sim,Leafy Green,40,13/4/2023,3.5
+Ruby Red Lettuce,Leafy Green,25,13/4/2023,4.0
+Mint,Herb,8,14/4/2023,2.5
+Green Emerald Lettuce,Leafy Green,40,14/4/2023,4.0
+Mizuna,Leafy Green,21,15/4/2023,3.8
+Mizuna,Leafy Green,19,16/4/2023,3.8
+Chye Sim,Leafy Green,44,16/4/2023,3.5
+Mint,Herb,10,17/4/2023,2.5
+Green Emerald Lettuce,Leafy Green,47,17/4/2023,4.0
+Basil,Herb,18,18/4/2023,2.5
+Ruby Red Lettuce,Leafy Green,30,18/4/2023,4.0
+Ruby Red Lettuce,Leafy Green,26,19/4/2023,4.0
+Chye Sim,Leafy Green,55,19/4/2023,3.5
+Green Emerald Lettuce,Leafy Green,51,20/4/2023,4.0
+Mizuna,Leafy Green,23,20/4/2023,3.8
+Chye Sim,Leafy Green,32,21/4/2023,3.5
+Mizuna,Leafy Green,21,21/4/2023,3.8
+Ruby Red Lettuce,Leafy Green,20,21/4/2023,4.0
+Green Emerald Lettuce,Leafy Green,50,22/4/2023,4.0
+Basil,Herb,14,22/4/2023,2.5
+Mint,Herb,11,23/4/2023,2.5
+Chye Sim,Leafy Green,44,23/4/2023,3.5
+Mizuna,Leafy Green,21,23/4/2023,3.8
+Green Emerald Lettuce,Leafy Green,45,24/4/2023,4.0
+Ruby Red Lettuce,Leafy Green,32,24/4/2023,4.0
+Green Emerald Lettuce,Leafy Green,51,25/4/2023,4.0
+Mint,Herb,9,25/4/2023,2.5
+Ruby Red Lettuce,Leafy Green,36,25/4/2023,4.0
+Mizuna,Leafy Green,23,26/4/2023,3.8
+Chye Sim,Leafy Green,50,26/4/2023,3.5
+Ruby Red Lettuce,Leafy Green,31,27/4/2023,4.0
+Basil,Herb,14,27/4/2023,2.5
+Green Emerald Lettuce,Leafy Green,13,28/4/2023,4.0
+Mizuna,Leafy Green,9,28/4/2023,3.8
+Chye Sim,Leafy Green,16,28/4/2023,3.5
+Chye Sim,Leafy Green,20,29/4/2023,3.5
+Mizuna,Leafy Green,11,29/4/2023,3.8
+Basil,Herb,8,30/4/2023,2.5
+Ruby Red Lettuce,Leafy Green,15,30/4/2023,4.0
+Green Emerald Lettuce,Leafy Green,36,30/4/2023,4.0
+Mint,Herb,8,30/4/2023,2.5
+Basil,Herb,14,1/5/2023,2.5
+Chye Sim,Leafy Green,45,1/5/2023,3.5
+Mint,Herb,7,2/5/2023,2.5
+Green Emerald Lettuce,Leafy Green,32,2/5/2023,4.0
+Mizuna,Leafy Green,12,2/5/2023,3.8
+Ruby Red Lettuce,Leafy Green,12,3/5/2023,4.0
+Chye Sim,Leafy Green,16,4/5/2023,3.5
+Ruby Red Lettuce,Leafy Green,40,6/5/2023,4.0
+Green Emerald Lettuce,Leafy Green,49,6/5/2023,4.0
+Mizuna,Leafy Green,19,6/5/2023,3.8
+Basil,Herb,22,6/5/2023,2.5
+Ruby Red Lettuce,Leafy Green,27,7/5/2023,4.0
+Mint,Herb,10,8/5/2023,2.5
+Green Emerald Lettuce,Leafy Green,50,8/5/2023,4.0
+Mizuna,Leafy Green,20,9/5/2023,3.8
+Chye Sim,Leafy Green,44,9/5/2023,3.5
+Green Emerald Lettuce,Leafy Green,44,10/5/2023,4.0
+Ruby Red Lettuce,Leafy Green,35,10/5/2023,4.0
+Mizuna,Leafy Green,20,11/5/2023,3.8
+Mint,Herb,13,11/5/2023,2.5
+Basil,Herb,20,12/5/2023,2.5
+Chye Sim,Leafy Green,56,12/5/2023,3.5
+Green Emerald Lettuce,Leafy Green,43,13/5/2023,4.0
+Mizuna,Leafy Green,26,13/5/2023,3.8
+Ruby Red Lettuce,Leafy Green,38,13/5/2023,4.0
+Chye Sim,Leafy Green,38,13/5/2023,3.5
+Mint,Herb,8,14/5/2023,2.5
+Mizuna,Leafy Green,24,16/5/2023,3.8
+Green Emerald Lettuce,Leafy Green,54,16/5/2023,4.0
+Chye Sim,Leafy Green,53,16/5/2023,3.5
+Basil,Herb,18,16/5/2023,2.5
+Ruby Red Lettuce,Leafy Green,30,17/5/2023,4.0
+Basil,Herb,16,17/5/2023,2.5
+Chye Sim,Leafy Green,55,18/5/2023,3.5
+Ruby Red Lettuce,Leafy Green,33,18/5/2023,4.0
+Green Emerald Lettuce,Leafy Green,55,19/5/2023,4.0
+Mizuna,Leafy Green,16,19/5/2023,3.8
+Mint,Herb,12,20/5/2023,2.5
+Mizuna,Leafy Green,20,20/5/2023,3.8
+Ruby Red Lettuce,Leafy Green,32,20/5/2023,4.0
+Chye Sim,Leafy Green,49,20/5/2023,3.5
+Green Emerald Lettuce,Leafy Green,47,21/5/2023,4.0
+Mizuna,Leafy Green,25,22/5/2023,3.8
+Ruby Red Lettuce,Leafy Green,28,22/5/2023,4.0
+Green Emerald Lettuce,Leafy Green,51,23/5/2023,4.0
+Mint,Herb,14,23/5/2023,2.5
+Chye Sim,Leafy Green,39,23/5/2023,3.5
+Basil,Herb,21,24/5/2023,2.5
+Mizuna,Leafy Green,22,24/5/2023,3.8
+Green Emerald Lettuce,Leafy Green,38,25/5/2023,4.0
+Chye Sim,Leafy Green,42,25/5/2023,3.5
+Basil,Herb,15,25/5/2023,2.5
+Ruby Red Lettuce,Leafy Green,29,25/5/2023,4.0
+Green Emerald Lettuce,Leafy Green,53,26/5/2023,4.0
+Ruby Red Lettuce,Leafy Green,23,26/5/2023,4.0
+Mizuna,Leafy Green,21,27/5/2023,3.8
+Chye Sim,Leafy Green,54,27/5/2023,3.5
+Mint,Herb,10,27/5/2023,2.5
+Ruby Red Lettuce,Leafy Green,38,28/5/2023,4.0
+Chye Sim,Leafy Green,46,28/5/2023,3.5
+Green Emerald Lettuce,Leafy Green,53,29/5/2023,4.0
+Mizuna,Leafy Green,26,29/5/2023,3.8
+Basil,Herb,22,29/5/2023,2.5
+Mizuna,Leafy Green,23,30/5/2023,3.8
+Green Emerald Lettuce,Leafy Green,39,31/5/2023,4.0
+Chye Sim,Leafy Green,55,31/5/2023,3.5
+Ruby Red Lettuce,Leafy Green,25,31/5/2023,4.0
+Mint,Herb,13,31/5/2023,2.5
+Green Emerald Lettuce,Leafy Green,29,1/6/2023,4.0
+Chye Sim,Leafy Green,73,2/6/2023,3.5
+Basil,Herb,17,2/6/2023,2.5
+Ruby Red Lettuce,Leafy Green,36,2/6/2023,4.0
+Mint,Herb,12,3/6/2023,2.5
+Mizuna,Leafy Green,16,3/6/2023,3.8
+Ruby Red Lettuce,Leafy Green,29,4/6/2023,4.0
+Basil,Herb,19,5/6/2023,2.5
+Mint,Herb,12,6/6/2023,2.5
+Green Emerald Lettuce,Leafy Green,42,6/6/2023,4.0
+Mizuna,Leafy Green,15,6/6/2023,3.8
+Chye Sim,Leafy Green,53,6/6/2023,3.5
+Green Emerald Lettuce,Leafy Green,41,7/6/2023,4.0
+Mizuna,Leafy Green,13,8/6/2023,3.8
+Chye Sim,Leafy Green,49,8/6/2023,3.5
+Ruby Red Lettuce,Leafy Green,47,8/6/2023,4.0
+Basil,Herb,18,10/6/2023,2.5
+Mizuna,Leafy Green,19,12/6/2023,3.8
+Green Emerald Lettuce,Leafy Green,35,12/6/2023,4.0
+Chye Sim,Leafy Green,60,12/6/2023,3.5
+Ruby Red Lettuce,Leafy Green,35,12/6/2023,4.0
+Mint,Herb,12,12/6/2023,2.5
+Chye Sim,Leafy Green,67,13/6/2023,3.5
+Ruby Red Lettuce,Leafy Green,34,14/6/2023,4.0
+Green Emerald Lettuce,Leafy Green,50,14/6/2023,4.0
+Mizuna,Leafy Green,17,14/6/2023,3.8
+Mint,Herb,14,14/6/2023,2.5
+Chye Sim,Leafy Green,54,16/6/2023,3.5
+Green Emerald Lettuce,Leafy Green,43,16/6/2023,4.0
+Basil,Herb,16,16/6/2023,2.5
+Mizuna,Leafy Green,15,17/6/2023,3.8
+Mint,Herb,15,17/6/2023,2.5
+Ruby Red Lettuce,Leafy Green,34,18/6/2023,4.0
+Green Emerald Lettuce,Leafy Green,55,19/6/2023,4.0
+Chye Sim,Leafy Green,67,19/6/2023,3.5
+Basil,Herb,18,20/6/2023,2.5
+Mizuna,Leafy Green,21,20/6/2023,3.8
+Ruby Red Lettuce,Leafy Green,44,20/6/2023,4.0
+Ruby Red Lettuce,Leafy Green,37,21/6/2023,4.0
+Green Emerald Lettuce,Leafy Green,59,21/6/2023,4.0
+Chye Sim,Leafy Green,71,21/6/2023,3.5
+Mizuna,Leafy Green,16,22/6/2023,3.8
+Ruby Red Lettuce,Leafy Green,40,23/6/2023,4.0
+Mint,Herb,12,23/6/2023,2.5
+Chye Sim,Leafy Green,47,23/6/2023,3.5
+Green Emerald Lettuce,Leafy Green,42,24/6/2023,4.0
+Mizuna,Leafy Green,18,24/6/2023,3.8
+Basil,Herb,15,24/6/2023,2.5
+Ruby Red Lettuce,Leafy Green,38,25/6/2023,4.0
+Basil,Herb,19,25/6/2023,2.5
+Green Emerald Lettuce,Leafy Green,41,25/6/2023,4.0
+Mint,Herb,9,26/6/2023,2.5
+Chye Sim,Leafy Green,46,26/6/2023,3.5
+Mizuna,Leafy Green,21,26/6/2023,3.8
+Chye Sim,Leafy Green,65,27/6/2023,3.5
+Green Emerald Lettuce,Leafy Green,45,27/6/2023,4.0
+Ruby Red Lettuce,Leafy Green,39,28/6/2023,4.0
+Mizuna,Leafy Green,17,28/6/2023,3.8
+Mint,Herb,10,29/6/2023,2.5
+Chye Sim,Leafy Green,67,30/6/2023,3.5
+Mizuna,Leafy Green,18,30/6/2023,3.8
+Green Emerald Lettuce,Leafy Green,43,30/6/2023,4.0
+Ruby Red Lettuce,Leafy Green,36,30/6/2023,4.0
+Basil,Herb,16,30/6/2023,2.5
+Basil,Herb,24,1/7/2023,2.5
+Ruby Red Lettuce,Leafy Green,23,1/7/2023,4.0
+Mint,Herb,13,1/7/2023,2.5
+Chye Sim,Leafy Green,57,1/7/2023,3.5
+Mizuna,Leafy Green,13,3/7/2023,3.8
+Green Emerald Lettuce,Leafy Green,40,3/7/2023,4.0
+Green Emerald Lettuce,Leafy Green,38,4/7/2023,4.0
+Chye Sim,Leafy Green,61,4/7/2023,3.5
+Ruby Red Lettuce,Leafy Green,31,4/7/2023,4.0
+Mizuna,Leafy Green,15,6/7/2023,3.8
+Mizuna,Leafy Green,18,7/7/2023,3.8
+Basil,Herb,25,7/7/2023,2.5
+Green Emerald Lettuce,Leafy Green,48,8/7/2023,4.0
+Mint,Herb,11,8/7/2023,2.5
+Chye Sim,Leafy Green,57,8/7/2023,3.5
+Ruby Red Lettuce,Leafy Green,34,9/7/2023,4.0
+Basil,Herb,25,10/7/2023,2.5
+Mint,Herb,13,11/7/2023,2.5
+Chye Sim,Leafy Green,43,11/7/2023,3.5
+Ruby Red Lettuce,Leafy Green,36,12/7/2023,4.0
+Mizuna,Leafy Green,18,12/7/2023,3.8
+Green Emerald Lettuce,Leafy Green,36,12/7/2023,4.0
+Ruby Red Lettuce,Leafy Green,45,13/7/2023,4.0
+Green Emerald Lettuce,Leafy Green,54,13/7/2023,4.0
+Chye Sim,Leafy Green,56,13/7/2023,3.5
+Mizuna,Leafy Green,16,14/7/2023,3.8
+Basil,Herb,22,14/7/2023,2.5
+Mint,Herb,12,16/7/2023,2.5
+Green Emerald Lettuce,Leafy Green,42,16/7/2023,4.0
+Chye Sim,Leafy Green,58,17/7/2023,3.5
+Mint,Herb,9,17/7/2023,2.5
+Mizuna,Leafy Green,19,17/7/2023,3.8
+Ruby Red Lettuce,Leafy Green,36,17/7/2023,4.0
+Chye Sim,Leafy Green,69,18/7/2023,3.5
+Mizuna,Leafy Green,14,19/7/2023,3.8
+Green Emerald Lettuce,Leafy Green,39,19/7/2023,4.0
+Ruby Red Lettuce,Leafy Green,27,19/7/2023,4.0
+Green Emerald Lettuce,Leafy Green,39,20/7/2023,4.0
+Basil,Herb,19,20/7/2023,2.5
+Ruby Red Lettuce,Leafy Green,34,20/7/2023,4.0
+Basil,Herb,15,21/7/2023,2.5
+Mizuna,Leafy Green,12,21/7/2023,3.8
+Chye Sim,Leafy Green,58,21/7/2023,3.5
+Mint,Herb,11,22/7/2023,2.5
+Chye Sim,Leafy Green,55,22/7/2023,3.5
+Green Emerald Lettuce,Leafy Green,44,23/7/2023,4.0
+Mizuna,Leafy Green,13,23/7/2023,3.8
+Ruby Red Lettuce,Leafy Green,22,23/7/2023,4.0
+Ruby Red Lettuce,Leafy Green,31,24/7/2023,4.0
+Chye Sim,Leafy Green,54,24/7/2023,3.5
+Green Emerald Lettuce,Leafy Green,26,25/7/2023,4.0
+Mizuna,Leafy Green,17,25/7/2023,3.8
+Green Emerald Lettuce,Leafy Green,40,26/7/2023,4.0
+Mizuna,Leafy Green,16,26/7/2023,3.8
+Chye Sim,Leafy Green,53,27/7/2023,3.5
+Mint,Herb,10,27/7/2023,2.5
+Ruby Red Lettuce,Leafy Green,30,27/7/2023,4.0
+Basil,Herb,24,28/7/2023,2.5
+Ruby Red Lettuce,Leafy Green,37,28/7/2023,4.0
+Chye Sim,Leafy Green,47,29/7/2023,3.5
+Green Emerald Lettuce,Leafy Green,48,29/7/2023,4.0
+Mizuna,Leafy Green,15,29/7/2023,3.8
+Basil,Herb,17,30/7/2023,2.5
+Chye Sim,Leafy Green,67,30/7/2023,3.5
+Mizuna,Leafy Green,16,30/7/2023,3.8
+Ruby Red Lettuce,Leafy Green,27,30/7/2023,4.0
+Green Emerald Lettuce,Leafy Green,39,31/7/2023,4.0
+Mint,Herb,13,31/7/2023,2.5
+Ruby Red Lettuce,Leafy Green,26,1/8/2023,4.0
+Green Emerald Lettuce,Leafy Green,35,1/8/2023,4.0
+Mizuna,Leafy Green,10,2/8/2023,3.8
+Mint,Herb,10,2/8/2023,2.5
+Chye Sim,Leafy Green,53,2/8/2023,3.5
+Basil,Herb,14,3/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,28,4/8/2023,4.0
+Green Emerald Lettuce,Leafy Green,37,4/8/2023,4.0
+Chye Sim,Leafy Green,55,4/8/2023,3.5
+Mizuna,Leafy Green,19,4/8/2023,3.8
+Mint,Herb,12,7/8/2023,2.5
+Basil,Herb,20,8/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,26,8/8/2023,4.0
+Green Emerald Lettuce,Leafy Green,22,8/8/2023,4.0
+Chye Sim,Leafy Green,76,8/8/2023,3.5
+Mizuna,Leafy Green,15,9/8/2023,3.8
+Basil,Herb,15,9/8/2023,2.5
+Mint,Herb,14,9/8/2023,2.5
+Green Emerald Lettuce,Leafy Green,22,10/8/2023,4.0
+Mizuna,Leafy Green,17,11/8/2023,3.8
+Ruby Red Lettuce,Leafy Green,35,11/8/2023,4.0
+Chye Sim,Leafy Green,54,12/8/2023,3.5
+Mizuna,Leafy Green,26,13/8/2023,3.8
+Green Emerald Lettuce,Leafy Green,32,14/8/2023,4.0
+Chye Sim,Leafy Green,52,14/8/2023,3.5
+Mint,Herb,14,15/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,32,15/8/2023,4.0
+Basil,Herb,15,16/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,24,16/8/2023,4.0
+Mizuna,Leafy Green,11,16/8/2023,3.8
+Chye Sim,Leafy Green,60,16/8/2023,3.5
+Green Emerald Lettuce,Leafy Green,34,17/8/2023,4.0
+Chye Sim,Leafy Green,52,18/8/2023,3.5
+Mizuna,Leafy Green,15,18/8/2023,3.8
+Mint,Herb,8,18/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,24,19/8/2023,4.0
+Green Emerald Lettuce,Leafy Green,16,19/8/2023,4.0
+Basil,Herb,13,20/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,14,20/8/2023,4.0
+Mizuna,Leafy Green,11,21/8/2023,3.8
+Green Emerald Lettuce,Leafy Green,26,21/8/2023,4.0
+Mint,Herb,9,21/8/2023,2.5
+Chye Sim,Leafy Green,44,21/8/2023,3.5
+Chye Sim,Leafy Green,40,22/8/2023,3.5
+Green Emerald Lettuce,Leafy Green,27,23/8/2023,4.0
+Mizuna,Leafy Green,12,23/8/2023,3.8
+Ruby Red Lettuce,Leafy Green,23,23/8/2023,4.0
+Basil,Herb,16,24/8/2023,2.5
+Green Emerald Lettuce,Leafy Green,42,25/8/2023,4.0
+Chye Sim,Leafy Green,64,25/8/2023,3.5
+Mizuna,Leafy Green,14,25/8/2023,3.8
+Ruby Red Lettuce,Leafy Green,32,25/8/2023,4.0
+Chye Sim,Leafy Green,54,26/8/2023,3.5
+Basil,Herb,17,27/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,25,27/8/2023,4.0
+Mizuna,Leafy Green,15,27/8/2023,3.8
+Green Emerald Lettuce,Leafy Green,33,27/8/2023,4.0
+Green Emerald Lettuce,Leafy Green,34,28/8/2023,4.0
+Mint,Herb,12,28/8/2023,2.5
+Ruby Red Lettuce,Leafy Green,23,28/8/2023,4.0
+Mizuna,Leafy Green,13,29/8/2023,3.8
+Chye Sim,Leafy Green,68,29/8/2023,3.5
+Chye Sim,Leafy Green,60,30/8/2023,3.5
+Green Emerald Lettuce,Leafy Green,35,30/8/2023,4.0
+Ruby Red Lettuce,Leafy Green,25,30/8/2023,4.0
+Mint,Herb,13,31/8/2023,2.5
+Basil,Herb,20,31/8/2023,2.5
+Mizuna,Leafy Green,18,31/8/2023,3.8
+Basil,Herb,11,1/9/2023,2.5
+Mint,Herb,13,1/9/2023,2.5
+Mizuna,Leafy Green,22,2/9/2023,3.8
+Green Emerald Lettuce,Leafy Green,32,3/9/2023,4.0
+Chye Sim,Leafy Green,49,3/9/2023,3.5
+Ruby Red Lettuce,Leafy Green,23,3/9/2023,4.0
+Green Emerald Lettuce,Leafy Green,26,4/9/2023,4.0
+Mizuna,Leafy Green,19,4/9/2023,3.8
+Ruby Red Lettuce,Leafy Green,29,5/9/2023,4.0
+Chye Sim,Leafy Green,59,6/9/2023,3.5
+Ruby Red Lettuce,Leafy Green,27,7/9/2023,4.0
+Green Emerald Lettuce,Leafy Green,32,8/9/2023,4.0
+Mint,Herb,10,8/9/2023,2.5
+Basil,Herb,15,8/9/2023,2.5
+Mizuna,Leafy Green,19,8/9/2023,3.8
+Chye Sim,Leafy Green,56,9/9/2023,3.5
+Basil,Herb,11,9/9/2023,2.5
+Mint,Herb,12,9/9/2023,2.5
+Ruby Red Lettuce,Leafy Green,31,10/9/2023,4.0
+Mizuna,Leafy Green,13,10/9/2023,3.8
+Green Emerald Lettuce,Leafy Green,17,11/9/2023,4.0
+Chye Sim,Leafy Green,49,12/9/2023,3.5
+Basil,Herb,17,13/9/2023,2.5
+Ruby Red Lettuce,Leafy Green,24,14/9/2023,4.0
+Mizuna,Leafy Green,15,14/9/2023,3.8
+Chye Sim,Leafy Green,58,14/9/2023,3.5
+Green Emerald Lettuce,Leafy Green,28,14/9/2023,4.0
+Mint,Herb,11,15/9/2023,2.5
+Mizuna,Leafy Green,16,16/9/2023,3.8
+Green Emerald Lettuce,Leafy Green,26,16/9/2023,4.0
+Ruby Red Lettuce,Leafy Green,27,16/9/2023,4.0
+Chye Sim,Leafy Green,59,17/9/2023,3.5
+Green Emerald Lettuce,Leafy Green,38,19/9/2023,4.0
+Basil,Herb,12,19/9/2023,2.5
+Mizuna,Leafy Green,15,19/9/2023,3.8
+Ruby Red Lettuce,Leafy Green,19,19/9/2023,4.0
+Chye Sim,Leafy Green,58,19/9/2023,3.5
+Mint,Herb,10,20/9/2023,2.5
+Ruby Red Lettuce,Leafy Green,27,21/9/2023,4.0
+Chye Sim,Leafy Green,59,21/9/2023,3.5
+Green Emerald Lettuce,Leafy Green,37,22/9/2023,4.0
+Mizuna,Leafy Green,14,22/9/2023,3.8
+Ruby Red Lettuce,Leafy Green,30,23/9/2023,4.0
+Chye Sim,Leafy Green,70,23/9/2023,3.5
+Green Emerald Lettuce,Leafy Green,30,23/9/2023,4.0
+Mint,Herb,13,24/9/2023,2.5
+Mizuna,Leafy Green,19,24/9/2023,3.8
+Basil,Herb,19,24/9/2023,2.5
+Mizuna,Leafy Green,16,25/9/2023,3.8
+Chye Sim,Leafy Green,56,25/9/2023,3.5
+Mint,Herb,12,25/9/2023,2.5
+Green Emerald Lettuce,Leafy Green,39,26/9/2023,4.0
+Ruby Red Lettuce,Leafy Green,24,26/9/2023,4.0
+Basil,Herb,20,26/9/2023,2.5
+Green Emerald Lettuce,Leafy Green,27,27/9/2023,4.0
+Chye Sim,Leafy Green,68,27/9/2023,3.5
+Mizuna,Leafy Green,19,27/9/2023,3.8
+Ruby Red Lettuce,Leafy Green,32,28/9/2023,4.0
+Mizuna,Leafy Green,16,29/9/2023,3.8
+Chye Sim,Leafy Green,50,29/9/2023,3.5
+Basil,Herb,17,29/9/2023,2.5
+Green Emerald Lettuce,Leafy Green,37,30/9/2023,4.0
+Ruby Red Lettuce,Leafy Green,28,30/9/2023,4.0
+Mint,Herb,10,30/9/2023,2.5
+Mizuna,Leafy Green,23,1/10/2023,3.8
+Chye Sim,Leafy Green,40,2/10/2023,3.5
+Basil,Herb,11,2/10/2023,2.5
+Ruby Red Lettuce,Leafy Green,21,3/10/2023,4.0
+Green Emerald Lettuce,Leafy Green,32,3/10/2023,4.0
+Ruby Red Lettuce,Leafy Green,24,4/10/2023,4.0
+Mint,Herb,11,4/10/2023,2.5
+Mizuna,Leafy Green,15,4/10/2023,3.8
+Green Emerald Lettuce,Leafy Green,46,5/10/2023,4.0
+Chye Sim,Leafy Green,42,5/10/2023,3.5
+Mint,Herb,7,6/10/2023,2.5
+Basil,Herb,12,7/10/2023,2.5
+Chye Sim,Leafy Green,52,9/10/2023,3.5
+Ruby Red Lettuce,Leafy Green,22,9/10/2023,4.0
+Mizuna,Leafy Green,19,9/10/2023,3.8
+Green Emerald Lettuce,Leafy Green,31,9/10/2023,4.0
+Mizuna,Leafy Green,19,10/10/2023,3.8
+Ruby Red Lettuce,Leafy Green,17,10/10/2023,4.0
+Basil,Herb,11,11/10/2023,2.5
+Chye Sim,Leafy Green,49,12/10/2023,3.5
+Green Emerald Lettuce,Leafy Green,28,12/10/2023,4.0
+Mint,Herb,11,12/10/2023,2.5
+Green Emerald Lettuce,Leafy Green,31,13/10/2023,4.0
+Mizuna,Leafy Green,22,13/10/2023,3.8
+Mint,Herb,8,14/10/2023,2.5
+Chye Sim,Leafy Green,38,15/10/2023,3.5
+Ruby Red Lettuce,Leafy Green,22,15/10/2023,4.0
+Basil,Herb,13,16/10/2023,2.5
+Ruby Red Lettuce,Leafy Green,20,16/10/2023,4.0
+Green Emerald Lettuce,Leafy Green,39,16/10/2023,4.0
+Chye Sim,Leafy Green,62,16/10/2023,3.5
+Mizuna,Leafy Green,20,17/10/2023,3.8
+Green Emerald Lettuce,Leafy Green,25,18/10/2023,4.0
+Ruby Red Lettuce,Leafy Green,31,18/10/2023,4.0
+Mizuna,Leafy Green,19,19/10/2023,3.8
+Chye Sim,Leafy Green,63,19/10/2023,3.5
+Mizuna,Leafy Green,12,20/10/2023,3.8
+Basil,Herb,13,20/10/2023,2.5
+Chye Sim,Leafy Green,52,20/10/2023,3.5
+Mint,Herb,9,20/10/2023,2.5
+Green Emerald Lettuce,Leafy Green,21,21/10/2023,4.0
+Ruby Red Lettuce,Leafy Green,26,21/10/2023,4.0
+Mint,Herb,11,21/10/2023,2.5
+Green Emerald Lettuce,Leafy Green,33,23/10/2023,4.0
+Chye Sim,Leafy Green,49,23/10/2023,3.5
+Ruby Red Lettuce,Leafy Green,17,23/10/2023,4.0
+Mizuna,Leafy Green,17,23/10/2023,3.8
+Chye Sim,Leafy Green,49,24/10/2023,3.5
+Basil,Herb,12,24/10/2023,2.5
+Mizuna,Leafy Green,21,24/10/2023,3.8
+Green Emerald Lettuce,Leafy Green,35,25/10/2023,4.0
+Ruby Red Lettuce,Leafy Green,26,25/10/2023,4.0
+Ruby Red Lettuce,Leafy Green,18,26/10/2023,4.0
+Green Emerald Lettuce,Leafy Green,43,26/10/2023,4.0
+Mizuna,Leafy Green,15,27/10/2023,3.8
+Chye Sim,Leafy Green,41,27/10/2023,3.5
+Mint,Herb,7,27/10/2023,2.5
+Basil,Herb,12,28/10/2023,2.5
+Ruby Red Lettuce,Leafy Green,25,28/10/2023,4.0
+Green Emerald Lettuce,Leafy Green,33,28/10/2023,4.0
+Mizuna,Leafy Green,18,28/10/2023,3.8
+Chye Sim,Leafy Green,50,28/10/2023,3.5
+Basil,Herb,13,29/10/2023,2.5
+Ruby Red Lettuce,Leafy Green,22,30/10/2023,4.0
+Mizuna,Leafy Green,22,30/10/2023,3.8
+Chye Sim,Leafy Green,32,31/10/2023,3.5
+Green Emerald Lettuce,Leafy Green,20,31/10/2023,4.0
+Mint,Herb,5,31/10/2023,2.5
+Mint,Herb,5,1/11/2023,2.5
+Green Emerald Lettuce,Leafy Green,30,1/11/2023,4.0
+Ruby Red Lettuce,Leafy Green,13,2/11/2023,4.0
+Basil,Herb,7,2/11/2023,2.5
+Mizuna,Leafy Green,10,3/11/2023,3.8
+Chye Sim,Leafy Green,27,3/11/2023,3.5
+Ruby Red Lettuce,Leafy Green,17,4/11/2023,4.0
+Chye Sim,Leafy Green,27,4/11/2023,3.5
+Basil,Herb,12,5/11/2023,2.5
+Mint,Herb,6,5/11/2023,2.5
+Green Emerald Lettuce,Leafy Green,45,6/11/2023,4.0
+Mizuna,Leafy Green,20,6/11/2023,3.8
+Ruby Red Lettuce,Leafy Green,32,7/11/2023,4.0
+Mizuna,Leafy Green,16,7/11/2023,3.8
+Chye Sim,Leafy Green,56,7/11/2023,3.5
+Green Emerald Lettuce,Leafy Green,41,8/11/2023,4.0
+Ruby Red Lettuce,Leafy Green,29,10/11/2023,4.0
+Green Emerald Lettuce,Leafy Green,36,10/11/2023,4.0
+Mint,Herb,7,11/11/2023,2.5
+Mizuna,Leafy Green,23,11/11/2023,3.8
+Chye Sim,Leafy Green,40,11/11/2023,3.5
+Basil,Herb,16,11/11/2023,2.5
+Chye Sim,Leafy Green,37,13/11/2023,3.5
+Mizuna,Leafy Green,21,14/11/2023,3.8
+Green Emerald Lettuce,Leafy Green,48,14/11/2023,4.0
+Mint,Herb,7,14/11/2023,2.5
+Ruby Red Lettuce,Leafy Green,28,15/11/2023,4.0
+Basil,Herb,13,16/11/2023,2.5
+Green Emerald Lettuce,Leafy Green,38,16/11/2023,4.0
+Ruby Red Lettuce,Leafy Green,27,16/11/2023,4.0
+Mizuna,Leafy Green,25,17/11/2023,3.8
+Mint,Herb,9,18/11/2023,2.5
+Chye Sim,Leafy Green,42,18/11/2023,3.5
+Basil,Herb,5,19/11/2023,2.5
+Green Emerald Lettuce,Leafy Green,16,19/11/2023,4.0
+Mizuna,Leafy Green,10,19/11/2023,3.8
+Ruby Red Lettuce,Leafy Green,11,19/11/2023,4.0
+Chye Sim,Leafy Green,30,20/11/2023,3.5
+Mizuna,Leafy Green,29,21/11/2023,3.8
+Basil,Herb,14,21/11/2023,2.5
+Mint,Herb,7,21/11/2023,2.5
+Green Emerald Lettuce,Leafy Green,36,21/11/2023,4.0
+Chye Sim,Leafy Green,62,22/11/2023,3.5
+Ruby Red Lettuce,Leafy Green,49,22/11/2023,4.0
+Green Emerald Lettuce,Leafy Green,44,23/11/2023,4.0
+Chye Sim,Leafy Green,50,23/11/2023,3.5
+Ruby Red Lettuce,Leafy Green,27,23/11/2023,4.0
+Mizuna,Leafy Green,21,24/11/2023,3.8
+Chye Sim,Leafy Green,24,25/11/2023,3.5
+Ruby Red Lettuce,Leafy Green,18,25/11/2023,4.0
+Basil,Herb,5,25/11/2023,2.5
+Mint,Herb,8,26/11/2023,2.5
+Green Emerald Lettuce,Leafy Green,40,26/11/2023,4.0
+Mizuna,Leafy Green,22,26/11/2023,3.8
+Mizuna,Leafy Green,22,27/11/2023,3.8
+Ruby Red Lettuce,Leafy Green,23,28/11/2023,4.0
+Chye Sim,Leafy Green,48,28/11/2023,3.5
+Green Emerald Lettuce,Leafy Green,39,28/11/2023,4.0
+Mizuna,Leafy Green,22,29/11/2023,3.8
+Chye Sim,Leafy Green,43,29/11/2023,3.5
+Basil,Herb,13,29/11/2023,2.5
+Green Emerald Lettuce,Leafy Green,42,30/11/2023,4.0
+Mint,Herb,9,30/11/2023,2.5
+Ruby Red Lettuce,Leafy Green,32,30/11/2023,4.0
+Basil,Herb,9,1/12/2023,2.5
+Green Emerald Lettuce,Leafy Green,46,2/12/2023,4.0
+Ruby Red Lettuce,Leafy Green,26,2/12/2023,4.0
+Chye Sim,Leafy Green,47,2/12/2023,3.5
+Mizuna,Leafy Green,17,2/12/2023,3.8
+Mint,Herb,6,4/12/2023,2.5
+Mint,Herb,8,5/12/2023,2.5
+Chye Sim,Leafy Green,45,5/12/2023,3.5
+Green Emerald Lettuce,Leafy Green,41,5/12/2023,4.0
+Mizuna,Leafy Green,20,6/12/2023,3.8
+Ruby Red Lettuce,Leafy Green,31,6/12/2023,4.0
+Mizuna,Leafy Green,23,7/12/2023,3.8
+Chye Sim,Leafy Green,60,7/12/2023,3.5
+Ruby Red Lettuce,Leafy Green,28,7/12/2023,4.0
+Basil,Herb,9,8/12/2023,2.5
+Green Emerald Lettuce,Leafy Green,42,9/12/2023,4.0
+Mint,Herb,9,9/12/2023,2.5
+Mizuna,Leafy Green,30,10/12/2023,3.8
+Green Emerald Lettuce,Leafy Green,44,11/12/2023,4.0
+Chye Sim,Leafy Green,67,11/12/2023,3.5
+Ruby Red Lettuce,Leafy Green,20,11/12/2023,4.0
+Basil,Herb,8,12/12/2023,2.5
+Chye Sim,Leafy Green,43,13/12/2023,3.5
+Ruby Red Lettuce,Leafy Green,35,13/12/2023,4.0
+Green Emerald Lettuce,Leafy Green,42,14/12/2023,4.0
+Basil,Herb,11,14/12/2023,2.5
+Mizuna,Leafy Green,25,15/12/2023,3.8
+Mint,Herb,9,16/12/2023,2.5
+Chye Sim,Leafy Green,48,17/12/2023,3.5
+Ruby Red Lettuce,Leafy Green,31,17/12/2023,4.0
+Green Emerald Lettuce,Leafy Green,36,17/12/2023,4.0
+Mizuna,Leafy Green,19,17/12/2023,3.8
+Green Emerald Lettuce,Leafy Green,46,18/12/2023,4.0
+Chye Sim,Leafy Green,49,18/12/2023,3.5
+Ruby Red Lettuce,Leafy Green,17,19/12/2023,4.0
+Mint,Herb,4,19/12/2023,2.5
+Mizuna,Leafy Green,12,19/12/2023,3.8
+Green Emerald Lettuce,Leafy Green,27,20/12/2023,4.0
+Basil,Herb,6,20/12/2023,2.5
+Mint,Herb,9,21/12/2023,2.5
+Mizuna,Leafy Green,20,21/12/2023,3.8
+Chye Sim,Leafy Green,44,21/12/2023,3.5
+Ruby Red Lettuce,Leafy Green,35,21/12/2023,4.0
+Mizuna,Leafy Green,27,22/12/2023,3.8
+Chye Sim,Leafy Green,65,22/12/2023,3.5
+Green Emerald Lettuce,Leafy Green,68,22/12/2023,4.0
+Basil,Herb,11,23/12/2023,2.5
+Ruby Red Lettuce,Leafy Green,28,23/12/2023,4.0
+Mizuna,Leafy Green,14,24/12/2023,3.8
+Chye Sim,Leafy Green,44,24/12/2023,3.5
+Ruby Red Lettuce,Leafy Green,25,24/12/2023,4.0
+Green Emerald Lettuce,Leafy Green,33,24/12/2023,4.0
+Chye Sim,Leafy Green,35,26/12/2023,3.5
+Mint,Herb,7,26/12/2023,2.5
+Ruby Red Lettuce,Leafy Green,30,26/12/2023,4.0
+Mizuna,Leafy Green,17,26/12/2023,3.8
+Green Emerald Lettuce,Leafy Green,22,26/12/2023,4.0
+Green Emerald Lettuce,Leafy Green,40,28/12/2023,4.0
+Basil,Herb,9,28/12/2023,2.5
+Ruby Red Lettuce,Leafy Green,31,28/12/2023,4.0
+Mizuna,Leafy Green,22,28/12/2023,3.8
+Chye Sim,Leafy Green,63,29/12/2023,3.5
+Basil,Herb,9,29/12/2023,2.5
+Green Emerald Lettuce,Leafy Green,37,30/12/2023,4.0
+Mizuna,Leafy Green,23,31/12/2023,3.8
+Mint,Herb,8,31/12/2023,2.5
+Ruby Red Lettuce,Leafy Green,19,31/12/2023,4.0
+Chye Sim,Leafy Green,49,31/12/2023,3.5
+Chye Sim,Leafy Green,44,1/1/2024,3.5
+Mint,Herb,7,1/1/2024,2.5
+Green Emerald Lettuce,Leafy Green,41,2/1/2024,4.0
+Mizuna,Leafy Green,24,3/1/2024,3.8
+Ruby Red Lettuce,Leafy Green,20,3/1/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,4/1/2024,4.0
+Basil,Herb,12,4/1/2024,2.5
+Green Emerald Lettuce,Leafy Green,27,5/1/2024,4.0
+Basil,Herb,7,5/1/2024,2.5
+Chye Sim,Leafy Green,59,6/1/2024,3.5
+Mizuna,Leafy Green,20,6/1/2024,3.8
+Mint,Herb,8,6/1/2024,2.5
+Mizuna,Leafy Green,17,7/1/2024,3.8
+Green Emerald Lettuce,Leafy Green,37,7/1/2024,4.0
+Ruby Red Lettuce,Leafy Green,30,8/1/2024,4.0
+Mint,Herb,8,9/1/2024,2.5
+Chye Sim,Leafy Green,48,9/1/2024,3.5
+Ruby Red Lettuce,Leafy Green,27,10/1/2024,4.0
+Mizuna,Leafy Green,17,10/1/2024,3.8
+Basil,Herb,11,11/1/2024,2.5
+Green Emerald Lettuce,Leafy Green,41,12/1/2024,4.0
+Chye Sim,Leafy Green,59,12/1/2024,3.5
+Mizuna,Leafy Green,25,13/1/2024,3.8
+Ruby Red Lettuce,Leafy Green,30,14/1/2024,4.0
+Green Emerald Lettuce,Leafy Green,35,14/1/2024,4.0
+Basil,Herb,11,15/1/2024,2.5
+Chye Sim,Leafy Green,57,15/1/2024,3.5
+Green Emerald Lettuce,Leafy Green,42,16/1/2024,4.0
+Mizuna,Leafy Green,22,16/1/2024,3.8
+Mint,Herb,6,16/1/2024,2.5
+Ruby Red Lettuce,Leafy Green,28,16/1/2024,4.0
+Chye Sim,Leafy Green,71,16/1/2024,3.5
+Mizuna,Leafy Green,17,18/1/2024,3.8
+Basil,Herb,10,18/1/2024,2.5
+Green Emerald Lettuce,Leafy Green,22,19/1/2024,4.0
+Chye Sim,Leafy Green,56,19/1/2024,3.5
+Mint,Herb,8,19/1/2024,2.5
+Ruby Red Lettuce,Leafy Green,29,19/1/2024,4.0
+Chye Sim,Leafy Green,65,20/1/2024,3.5
+Mizuna,Leafy Green,18,21/1/2024,3.8
+Green Emerald Lettuce,Leafy Green,31,21/1/2024,4.0
+Ruby Red Lettuce,Leafy Green,23,21/1/2024,4.0
+Basil,Herb,14,22/1/2024,2.5
+Mint,Herb,5,22/1/2024,2.5
+Mizuna,Leafy Green,14,23/1/2024,3.8
+Chye Sim,Leafy Green,71,23/1/2024,3.5
+Ruby Red Lettuce,Leafy Green,22,23/1/2024,4.0
+Green Emerald Lettuce,Leafy Green,29,23/1/2024,4.0
+Ruby Red Lettuce,Leafy Green,22,24/1/2024,4.0
+Mizuna,Leafy Green,17,24/1/2024,3.8
+Chye Sim,Leafy Green,53,24/1/2024,3.5
+Basil,Herb,7,25/1/2024,2.5
+Green Emerald Lettuce,Leafy Green,35,25/1/2024,4.0
+Mint,Herb,8,26/1/2024,2.5
+Green Emerald Lettuce,Leafy Green,27,26/1/2024,4.0
+Chye Sim,Leafy Green,38,26/1/2024,3.5
+Mizuna,Leafy Green,27,27/1/2024,3.8
+Ruby Red Lettuce,Leafy Green,30,27/1/2024,4.0
+Ruby Red Lettuce,Leafy Green,30,28/1/2024,4.0
+Chye Sim,Leafy Green,40,28/1/2024,3.5
+Green Emerald Lettuce,Leafy Green,37,28/1/2024,4.0
+Basil,Herb,11,29/1/2024,2.5
+Mizuna,Leafy Green,16,29/1/2024,3.8
+Ruby Red Lettuce,Leafy Green,31,30/1/2024,4.0
+Mizuna,Leafy Green,19,31/1/2024,3.8
+Chye Sim,Leafy Green,63,31/1/2024,3.5
+Green Emerald Lettuce,Leafy Green,35,31/1/2024,4.0
+Mint,Herb,8,31/1/2024,2.5
+Ruby Red Lettuce,Leafy Green,28,1/2/2024,4.0
+Green Emerald Lettuce,Leafy Green,44,1/2/2024,4.0
+Basil,Herb,12,1/2/2024,2.5
+Mint,Herb,11,1/2/2024,2.5
+Chye Sim,Leafy Green,56,2/2/2024,3.5
+Mizuna,Leafy Green,18,3/2/2024,3.8
+Green Emerald Lettuce,Leafy Green,36,4/2/2024,4.0
+Chye Sim,Leafy Green,57,4/2/2024,3.5
+Ruby Red Lettuce,Leafy Green,30,4/2/2024,4.0
+Mizuna,Leafy Green,20,4/2/2024,3.8
+Mint,Herb,9,7/2/2024,2.5
+Ruby Red Lettuce,Leafy Green,22,7/2/2024,4.0
+Basil,Herb,10,8/2/2024,2.5
+Green Emerald Lettuce,Leafy Green,36,8/2/2024,4.0
+Mizuna,Leafy Green,28,9/2/2024,3.8
+Basil,Herb,13,9/2/2024,2.5
+Chye Sim,Leafy Green,82,9/2/2024,3.5
+Mizuna,Leafy Green,13,10/2/2024,3.8
+Mint,Herb,7,10/2/2024,2.5
+Ruby Red Lettuce,Leafy Green,20,11/2/2024,4.0
+Chye Sim,Leafy Green,57,12/2/2024,3.5
+Green Emerald Lettuce,Leafy Green,35,12/2/2024,4.0
+Basil,Herb,9,13/2/2024,2.5
+Chye Sim,Leafy Green,29,13/2/2024,3.5
+Mizuna,Leafy Green,24,14/2/2024,3.8
+Ruby Red Lettuce,Leafy Green,22,14/2/2024,4.0
+Mint,Herb,9,15/2/2024,2.5
+Green Emerald Lettuce,Leafy Green,30,15/2/2024,4.0
+Mizuna,Leafy Green,22,16/2/2024,3.8
+Ruby Red Lettuce,Leafy Green,25,17/2/2024,4.0
+Green Emerald Lettuce,Leafy Green,39,17/2/2024,4.0
+Chye Sim,Leafy Green,44,17/2/2024,3.5
+Chye Sim,Leafy Green,59,18/2/2024,3.5
+Green Emerald Lettuce,Leafy Green,22,18/2/2024,4.0
+Ruby Red Lettuce,Leafy Green,23,18/2/2024,4.0
+Mint,Herb,11,19/2/2024,2.5
+Mizuna,Leafy Green,16,19/2/2024,3.8
+Green Emerald Lettuce,Leafy Green,42,20/2/2024,4.0
+Basil,Herb,13,20/2/2024,2.5
+Ruby Red Lettuce,Leafy Green,21,20/2/2024,4.0
+Mizuna,Leafy Green,18,20/2/2024,3.8
+Chye Sim,Leafy Green,63,21/2/2024,3.5
+Mizuna,Leafy Green,28,22/2/2024,3.8
+Basil,Herb,13,22/2/2024,2.5
+Green Emerald Lettuce,Leafy Green,25,22/2/2024,4.0
+Chye Sim,Leafy Green,52,22/2/2024,3.5
+Ruby Red Lettuce,Leafy Green,26,22/2/2024,4.0
+Mint,Herb,7,23/2/2024,2.5
+Mizuna,Leafy Green,20,24/2/2024,3.8
+Green Emerald Lettuce,Leafy Green,42,24/2/2024,4.0
+Chye Sim,Leafy Green,53,24/2/2024,3.5
+Ruby Red Lettuce,Leafy Green,26,24/2/2024,4.0
+Basil,Herb,12,24/2/2024,2.5
+Mint,Herb,8,26/2/2024,2.5
+Green Emerald Lettuce,Leafy Green,36,26/2/2024,4.0
+Ruby Red Lettuce,Leafy Green,21,26/2/2024,4.0
+Chye Sim,Leafy Green,47,27/2/2024,3.5
+Basil,Herb,13,27/2/2024,2.5
+Mizuna,Leafy Green,16,27/2/2024,3.8
+Mizuna,Leafy Green,25,28/2/2024,3.8
+Chye Sim,Leafy Green,59,28/2/2024,3.5
+Green Emerald Lettuce,Leafy Green,31,28/2/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,29/2/2024,4.0
+Mint,Herb,9,29/2/2024,2.5
+Ruby Red Lettuce,Leafy Green,30,1/3/2024,4.0
+Green Emerald Lettuce,Leafy Green,32,1/3/2024,4.0
+Basil,Herb,14,1/3/2024,2.5
+Mizuna,Leafy Green,22,1/3/2024,3.8
+Chye Sim,Leafy Green,41,2/3/2024,3.5
+Mint,Herb,9,2/3/2024,2.5
+Ruby Red Lettuce,Leafy Green,30,4/3/2024,4.0
+Green Emerald Lettuce,Leafy Green,43,5/3/2024,4.0
+Mizuna,Leafy Green,25,5/3/2024,3.8
+Mint,Herb,8,6/3/2024,2.5
+Chye Sim,Leafy Green,36,6/3/2024,3.5
+Basil,Herb,12,7/3/2024,2.5
+Chye Sim,Leafy Green,53,7/3/2024,3.5
+Ruby Red Lettuce,Leafy Green,19,9/3/2024,4.0
+Mizuna,Leafy Green,15,9/3/2024,3.8
+Basil,Herb,13,9/3/2024,2.5
+Green Emerald Lettuce,Leafy Green,34,9/3/2024,4.0
+Chye Sim,Leafy Green,58,10/3/2024,3.5
+Green Emerald Lettuce,Leafy Green,46,10/3/2024,4.0
+Ruby Red Lettuce,Leafy Green,32,11/3/2024,4.0
+Mizuna,Leafy Green,25,11/3/2024,3.8
+Mint,Herb,10,12/3/2024,2.5
+Green Emerald Lettuce,Leafy Green,39,13/3/2024,4.0
+Chye Sim,Leafy Green,41,14/3/2024,3.5
+Ruby Red Lettuce,Leafy Green,32,15/3/2024,4.0
+Mint,Herb,9,15/3/2024,2.5
+Mizuna,Leafy Green,19,15/3/2024,3.8
+Green Emerald Lettuce,Leafy Green,47,16/3/2024,4.0
+Basil,Herb,11,16/3/2024,2.5
+Ruby Red Lettuce,Leafy Green,29,16/3/2024,4.0
+Chye Sim,Leafy Green,38,16/3/2024,3.5
+Mizuna,Leafy Green,18,16/3/2024,3.8
+Basil,Herb,16,17/3/2024,2.5
+Mint,Herb,13,17/3/2024,2.5
+Chye Sim,Leafy Green,36,18/3/2024,3.5
+Mizuna,Leafy Green,18,18/3/2024,3.8
+Green Emerald Lettuce,Leafy Green,47,19/3/2024,4.0
+Ruby Red Lettuce,Leafy Green,19,19/3/2024,4.0
+Mizuna,Leafy Green,15,20/3/2024,3.8
+Green Emerald Lettuce,Leafy Green,40,20/3/2024,4.0
+Ruby Red Lettuce,Leafy Green,23,20/3/2024,4.0
+Chye Sim,Leafy Green,47,20/3/2024,3.5
+Mint,Herb,11,21/3/2024,2.5
+Ruby Red Lettuce,Leafy Green,24,22/3/2024,4.0
+Chye Sim,Leafy Green,55,22/3/2024,3.5
+Green Emerald Lettuce,Leafy Green,39,22/3/2024,4.0
+Mizuna,Leafy Green,19,23/3/2024,3.8
+Basil,Herb,16,23/3/2024,2.5
+Green Emerald Lettuce,Leafy Green,37,24/3/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,24/3/2024,4.0
+Chye Sim,Leafy Green,52,24/3/2024,3.5
+Mizuna,Leafy Green,20,24/3/2024,3.8
+Basil,Herb,10,25/3/2024,2.5
+Mint,Herb,10,25/3/2024,2.5
+Mizuna,Leafy Green,28,26/3/2024,3.8
+Green Emerald Lettuce,Leafy Green,39,27/3/2024,4.0
+Chye Sim,Leafy Green,46,27/3/2024,3.5
+Ruby Red Lettuce,Leafy Green,32,27/3/2024,4.0
+Green Emerald Lettuce,Leafy Green,44,28/3/2024,4.0
+Chye Sim,Leafy Green,37,28/3/2024,3.5
+Basil,Herb,10,29/3/2024,2.5
+Mizuna,Leafy Green,21,29/3/2024,3.8
+Ruby Red Lettuce,Leafy Green,29,29/3/2024,4.0
+Chye Sim,Leafy Green,39,30/3/2024,3.5
+Mizuna,Leafy Green,23,30/3/2024,3.8
+Green Emerald Lettuce,Leafy Green,39,30/3/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,30/3/2024,4.0
+Mint,Herb,11,31/3/2024,2.5
+Green Emerald Lettuce,Leafy Green,40,1/4/2024,4.0
+Ruby Red Lettuce,Leafy Green,29,1/4/2024,4.0
+Mizuna,Leafy Green,18,1/4/2024,3.8
+Mint,Herb,10,2/4/2024,2.5
+Chye Sim,Leafy Green,47,3/4/2024,3.5
+Basil,Herb,14,4/4/2024,2.5
+Mizuna,Leafy Green,20,5/4/2024,3.8
+Green Emerald Lettuce,Leafy Green,61,5/4/2024,4.0
+Mint,Herb,10,5/4/2024,2.5
+Chye Sim,Leafy Green,37,5/4/2024,3.5
+Ruby Red Lettuce,Leafy Green,37,5/4/2024,4.0
+Green Emerald Lettuce,Leafy Green,36,7/4/2024,4.0
+Chye Sim,Leafy Green,36,8/4/2024,3.5
+Basil,Herb,13,8/4/2024,2.5
+Mizuna,Leafy Green,22,8/4/2024,3.8
+Ruby Red Lettuce,Leafy Green,42,9/4/2024,4.0
+Mizuna,Leafy Green,24,10/4/2024,3.8
+Chye Sim,Leafy Green,45,10/4/2024,3.5
+Ruby Red Lettuce,Leafy Green,26,10/4/2024,4.0
+Basil,Herb,20,12/4/2024,2.5
+Mint,Herb,11,12/4/2024,2.5
+Green Emerald Lettuce,Leafy Green,39,12/4/2024,4.0
+Mizuna,Leafy Green,17,13/4/2024,3.8
+Mint,Herb,13,13/4/2024,2.5
+Green Emerald Lettuce,Leafy Green,57,13/4/2024,4.0
+Ruby Red Lettuce,Leafy Green,35,13/4/2024,4.0
+Basil,Herb,18,14/4/2024,2.5
+Chye Sim,Leafy Green,49,15/4/2024,3.5
+Chye Sim,Leafy Green,44,16/4/2024,3.5
+Ruby Red Lettuce,Leafy Green,30,16/4/2024,4.0
+Mizuna,Leafy Green,25,17/4/2024,3.8
+Green Emerald Lettuce,Leafy Green,42,18/4/2024,4.0
+Mizuna,Leafy Green,20,19/4/2024,3.8
+Basil,Herb,17,19/4/2024,2.5
+Ruby Red Lettuce,Leafy Green,28,19/4/2024,4.0
+Chye Sim,Leafy Green,36,20/4/2024,3.5
+Mint,Herb,12,20/4/2024,2.5
+Green Emerald Lettuce,Leafy Green,41,20/4/2024,4.0
+Chye Sim,Leafy Green,39,21/4/2024,3.5
+Ruby Red Lettuce,Leafy Green,30,21/4/2024,4.0
+Mizuna,Leafy Green,26,21/4/2024,3.8
+Mint,Herb,8,21/4/2024,2.5
+Green Emerald Lettuce,Leafy Green,42,22/4/2024,4.0
+Basil,Herb,12,22/4/2024,2.5
+Ruby Red Lettuce,Leafy Green,29,23/4/2024,4.0
+Green Emerald Lettuce,Leafy Green,50,23/4/2024,4.0
+Mizuna,Leafy Green,23,24/4/2024,3.8
+Chye Sim,Leafy Green,45,24/4/2024,3.5
+Ruby Red Lettuce,Leafy Green,17,25/4/2024,4.0
+Green Emerald Lettuce,Leafy Green,45,25/4/2024,4.0
+Mizuna,Leafy Green,27,25/4/2024,3.8
+Chye Sim,Leafy Green,46,26/4/2024,3.5
+Basil,Herb,13,27/4/2024,2.5
+Mizuna,Leafy Green,24,27/4/2024,3.8
+Ruby Red Lettuce,Leafy Green,35,27/4/2024,4.0
+Mint,Herb,10,27/4/2024,2.5
+Chye Sim,Leafy Green,57,27/4/2024,3.5
+Green Emerald Lettuce,Leafy Green,11,28/4/2024,4.0
+Mint,Herb,4,29/4/2024,2.5
+Chye Sim,Leafy Green,17,29/4/2024,3.5
+Ruby Red Lettuce,Leafy Green,12,29/4/2024,4.0
+Basil,Herb,7,29/4/2024,2.5
+Mizuna,Leafy Green,17,30/4/2024,3.8
+Green Emerald Lettuce,Leafy Green,25,30/4/2024,4.0
+Chye Sim,Leafy Green,36,1/5/2024,3.5
+Basil,Herb,17,1/5/2024,2.5
+Mint,Herb,10,1/5/2024,2.5
+Green Emerald Lettuce,Leafy Green,28,2/5/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,2/5/2024,4.0
+Mizuna,Leafy Green,12,2/5/2024,3.8
+Mizuna,Leafy Green,5,4/5/2024,3.8
+Chye Sim,Leafy Green,15,4/5/2024,3.5
+Green Emerald Lettuce,Leafy Green,36,5/5/2024,4.0
+Ruby Red Lettuce,Leafy Green,35,5/5/2024,4.0
+Basil,Herb,15,7/5/2024,2.5
+Mizuna,Leafy Green,14,8/5/2024,3.8
+Mint,Herb,10,8/5/2024,2.5
+Chye Sim,Leafy Green,42,8/5/2024,3.5
+Ruby Red Lettuce,Leafy Green,37,8/5/2024,4.0
+Mint,Herb,14,9/5/2024,2.5
+Green Emerald Lettuce,Leafy Green,54,9/5/2024,4.0
+Green Emerald Lettuce,Leafy Green,32,10/5/2024,4.0
+Chye Sim,Leafy Green,40,10/5/2024,3.5
+Ruby Red Lettuce,Leafy Green,32,10/5/2024,4.0
+Basil,Herb,17,11/5/2024,2.5
+Mizuna,Leafy Green,17,11/5/2024,3.8
+Green Emerald Lettuce,Leafy Green,59,13/5/2024,4.0
+Mint,Herb,9,14/5/2024,2.5
+Chye Sim,Leafy Green,49,14/5/2024,3.5
+Ruby Red Lettuce,Leafy Green,27,15/5/2024,4.0
+Mizuna,Leafy Green,19,15/5/2024,3.8
+Chye Sim,Leafy Green,48,16/5/2024,3.5
+Mizuna,Leafy Green,19,16/5/2024,3.8
+Basil,Herb,18,16/5/2024,2.5
+Ruby Red Lettuce,Leafy Green,30,17/5/2024,4.0
+Green Emerald Lettuce,Leafy Green,55,17/5/2024,4.0
+Ruby Red Lettuce,Leafy Green,34,18/5/2024,4.0
+Chye Sim,Leafy Green,25,18/5/2024,3.5
+Mint,Herb,15,18/5/2024,2.5
+Green Emerald Lettuce,Leafy Green,42,18/5/2024,4.0
+Mizuna,Leafy Green,17,19/5/2024,3.8
+Basil,Herb,18,19/5/2024,2.5
+Mizuna,Leafy Green,22,20/5/2024,3.8
+Ruby Red Lettuce,Leafy Green,28,20/5/2024,4.0
+Chye Sim,Leafy Green,64,20/5/2024,3.5
+Green Emerald Lettuce,Leafy Green,29,21/5/2024,4.0
+Mizuna,Leafy Green,23,22/5/2024,3.8
+Mint,Herb,9,22/5/2024,2.5
+Ruby Red Lettuce,Leafy Green,32,23/5/2024,4.0
+Chye Sim,Leafy Green,57,23/5/2024,3.5
+Basil,Herb,14,23/5/2024,2.5
+Green Emerald Lettuce,Leafy Green,47,23/5/2024,4.0
+Green Emerald Lettuce,Leafy Green,46,24/5/2024,4.0
+Ruby Red Lettuce,Leafy Green,34,24/5/2024,4.0
+Mizuna,Leafy Green,23,24/5/2024,3.8
+Mint,Herb,12,25/5/2024,2.5
+Chye Sim,Leafy Green,45,25/5/2024,3.5
+Basil,Herb,17,26/5/2024,2.5
+Green Emerald Lettuce,Leafy Green,42,26/5/2024,4.0
+Ruby Red Lettuce,Leafy Green,32,26/5/2024,4.0
+Mizuna,Leafy Green,21,27/5/2024,3.8
+Chye Sim,Leafy Green,51,27/5/2024,3.5
+Green Emerald Lettuce,Leafy Green,42,28/5/2024,4.0
+Mizuna,Leafy Green,18,29/5/2024,3.8
+Ruby Red Lettuce,Leafy Green,31,29/5/2024,4.0
+Chye Sim,Leafy Green,43,29/5/2024,3.5
+Chye Sim,Leafy Green,68,30/5/2024,3.5
+Mizuna,Leafy Green,20,30/5/2024,3.8
+Mint,Herb,13,30/5/2024,2.5
+Basil,Herb,18,31/5/2024,2.5
+Green Emerald Lettuce,Leafy Green,54,31/5/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,31/5/2024,4.0
+Basil,Herb,20,2/6/2024,2.5
+Ruby Red Lettuce,Leafy Green,25,2/6/2024,4.0
+Mizuna,Leafy Green,17,2/6/2024,3.8
+Green Emerald Lettuce,Leafy Green,44,3/6/2024,4.0
+Mint,Herb,13,3/6/2024,2.5
+Chye Sim,Leafy Green,46,3/6/2024,3.5
+Mizuna,Leafy Green,27,4/6/2024,3.8
+Green Emerald Lettuce,Leafy Green,51,5/6/2024,4.0
+Mint,Herb,14,5/6/2024,2.5
+Chye Sim,Leafy Green,57,5/6/2024,3.5
+Ruby Red Lettuce,Leafy Green,27,5/6/2024,4.0
+Basil,Herb,20,5/6/2024,2.5
+Mizuna,Leafy Green,12,7/6/2024,3.8
+Green Emerald Lettuce,Leafy Green,47,7/6/2024,4.0
+Ruby Red Lettuce,Leafy Green,44,8/6/2024,4.0
+Chye Sim,Leafy Green,68,8/6/2024,3.5
+Mint,Herb,9,9/6/2024,2.5
+Mizuna,Leafy Green,19,10/6/2024,3.8
+Basil,Herb,21,10/6/2024,2.5
+Chye Sim,Leafy Green,36,10/6/2024,3.5
+Ruby Red Lettuce,Leafy Green,47,10/6/2024,4.0
+Green Emerald Lettuce,Leafy Green,35,12/6/2024,4.0
+Basil,Herb,22,13/6/2024,2.5
+Chye Sim,Leafy Green,65,13/6/2024,3.5
+Mizuna,Leafy Green,20,13/6/2024,3.8
+Mint,Herb,13,14/6/2024,2.5
+Green Emerald Lettuce,Leafy Green,54,15/6/2024,4.0
+Ruby Red Lettuce,Leafy Green,36,15/6/2024,4.0
+Mizuna,Leafy Green,18,16/6/2024,3.8
+Green Emerald Lettuce,Leafy Green,42,17/6/2024,4.0
+Chye Sim,Leafy Green,36,17/6/2024,3.5
+Ruby Red Lettuce,Leafy Green,27,18/6/2024,4.0
+Ruby Red Lettuce,Leafy Green,49,19/6/2024,4.0
+Green Emerald Lettuce,Leafy Green,49,19/6/2024,4.0
+Chye Sim,Leafy Green,43,19/6/2024,3.5
+Basil,Herb,20,19/6/2024,2.5
+Mint,Herb,12,20/6/2024,2.5
+Mizuna,Leafy Green,16,20/6/2024,3.8
+Basil,Herb,21,21/6/2024,2.5
+Green Emerald Lettuce,Leafy Green,58,21/6/2024,4.0
+Mizuna,Leafy Green,15,21/6/2024,3.8
+Ruby Red Lettuce,Leafy Green,48,22/6/2024,4.0
+Chye Sim,Leafy Green,62,22/6/2024,3.5
+Ruby Red Lettuce,Leafy Green,40,23/6/2024,4.0
+Mint,Herb,11,23/6/2024,2.5
+Mizuna,Leafy Green,20,23/6/2024,3.8
+Green Emerald Lettuce,Leafy Green,33,24/6/2024,4.0
+Chye Sim,Leafy Green,52,24/6/2024,3.5
+Chye Sim,Leafy Green,47,25/6/2024,3.5
+Mizuna,Leafy Green,16,26/6/2024,3.8
+Mint,Herb,10,26/6/2024,2.5
+Ruby Red Lettuce,Leafy Green,33,26/6/2024,4.0
+Green Emerald Lettuce,Leafy Green,39,26/6/2024,4.0
+Basil,Herb,20,26/6/2024,2.5
+Mizuna,Leafy Green,12,27/6/2024,3.8
+Ruby Red Lettuce,Leafy Green,38,27/6/2024,4.0
+Chye Sim,Leafy Green,50,28/6/2024,3.5
+Green Emerald Lettuce,Leafy Green,39,28/6/2024,4.0
+Mizuna,Leafy Green,19,29/6/2024,3.8
+Mint,Herb,10,29/6/2024,2.5
+Chye Sim,Leafy Green,66,29/6/2024,3.5
+Basil,Herb,21,30/6/2024,2.5
+Ruby Red Lettuce,Leafy Green,34,30/6/2024,4.0
+Green Emerald Lettuce,Leafy Green,33,30/6/2024,4.0
+Ruby Red Lettuce,Leafy Green,24,1/7/2024,4.0
+Green Emerald Lettuce,Leafy Green,35,1/7/2024,4.0
+Mint,Herb,12,1/7/2024,2.5
+Basil,Herb,19,2/7/2024,2.5
+Chye Sim,Leafy Green,75,3/7/2024,3.5
+Mizuna,Leafy Green,19,3/7/2024,3.8
+Ruby Red Lettuce,Leafy Green,37,4/7/2024,4.0
+Chye Sim,Leafy Green,74,5/7/2024,3.5
+Green Emerald Lettuce,Leafy Green,45,5/7/2024,4.0
+Mizuna,Leafy Green,13,5/7/2024,3.8
+Green Emerald Lettuce,Leafy Green,29,7/7/2024,4.0
+Ruby Red Lettuce,Leafy Green,36,7/7/2024,4.0
+Mint,Herb,11,7/7/2024,2.5
+Basil,Herb,21,7/7/2024,2.5
+Chye Sim,Leafy Green,73,8/7/2024,3.5
+Mizuna,Leafy Green,17,8/7/2024,3.8
+Green Emerald Lettuce,Leafy Green,40,10/7/2024,4.0
+Basil,Herb,20,10/7/2024,2.5
+Mizuna,Leafy Green,11,10/7/2024,3.8
+Ruby Red Lettuce,Leafy Green,29,11/7/2024,4.0
+Mint,Herb,11,11/7/2024,2.5
+Chye Sim,Leafy Green,52,12/7/2024,3.5
+Basil,Herb,21,14/7/2024,2.5
+Green Emerald Lettuce,Leafy Green,36,14/7/2024,4.0
+Chye Sim,Leafy Green,59,14/7/2024,3.5
+Mizuna,Leafy Green,16,15/7/2024,3.8
+Ruby Red Lettuce,Leafy Green,39,15/7/2024,4.0
+Ruby Red Lettuce,Leafy Green,33,16/7/2024,4.0
+Mint,Herb,15,16/7/2024,2.5
+Mizuna,Leafy Green,21,16/7/2024,3.8
+Chye Sim,Leafy Green,47,17/7/2024,3.5
+Green Emerald Lettuce,Leafy Green,41,17/7/2024,4.0
+Ruby Red Lettuce,Leafy Green,35,18/7/2024,4.0
+Chye Sim,Leafy Green,57,18/7/2024,3.5
+Green Emerald Lettuce,Leafy Green,41,19/7/2024,4.0
+Mizuna,Leafy Green,13,19/7/2024,3.8
+Mint,Herb,11,20/7/2024,2.5
+Basil,Herb,20,20/7/2024,2.5
+Green Emerald Lettuce,Leafy Green,42,20/7/2024,4.0
+Mizuna,Leafy Green,13,21/7/2024,3.8
+Ruby Red Lettuce,Leafy Green,29,21/7/2024,4.0
+Chye Sim,Leafy Green,47,21/7/2024,3.5
+Mizuna,Leafy Green,17,23/7/2024,3.8
+Ruby Red Lettuce,Leafy Green,29,23/7/2024,4.0
+Basil,Herb,20,23/7/2024,2.5
+Green Emerald Lettuce,Leafy Green,41,23/7/2024,4.0
+Chye Sim,Leafy Green,65,23/7/2024,3.5
+Mint,Herb,11,23/7/2024,2.5
+Chye Sim,Leafy Green,57,24/7/2024,3.5
+Ruby Red Lettuce,Leafy Green,47,24/7/2024,4.0
+Green Emerald Lettuce,Leafy Green,44,25/7/2024,4.0
+Mizuna,Leafy Green,12,25/7/2024,3.8
+Mint,Herb,13,26/7/2024,2.5
+Green Emerald Lettuce,Leafy Green,32,26/7/2024,4.0
+Basil,Herb,17,26/7/2024,2.5
+Mizuna,Leafy Green,15,27/7/2024,3.8
+Chye Sim,Leafy Green,64,27/7/2024,3.5
+Ruby Red Lettuce,Leafy Green,34,27/7/2024,4.0
+Ruby Red Lettuce,Leafy Green,39,28/7/2024,4.0
+Green Emerald Lettuce,Leafy Green,40,29/7/2024,4.0
+Mizuna,Leafy Green,17,29/7/2024,3.8
+Chye Sim,Leafy Green,66,29/7/2024,3.5
+Mizuna,Leafy Green,15,30/7/2024,3.8
+Basil,Herb,20,30/7/2024,2.5
+Ruby Red Lettuce,Leafy Green,26,30/7/2024,4.0
+Green Emerald Lettuce,Leafy Green,49,30/7/2024,4.0
+Chye Sim,Leafy Green,87,30/7/2024,3.5
+Mint,Herb,13,31/7/2024,2.5
+Green Emerald Lettuce,Leafy Green,35,1/8/2024,4.0
+Mizuna,Leafy Green,15,1/8/2024,3.8
+Basil,Herb,22,2/8/2024,2.5
+Chye Sim,Leafy Green,73,2/8/2024,3.5
+Ruby Red Lettuce,Leafy Green,29,2/8/2024,4.0
+Chye Sim,Leafy Green,53,4/8/2024,3.5
+Mint,Herb,14,4/8/2024,2.5
+Green Emerald Lettuce,Leafy Green,37,5/8/2024,4.0
+Mizuna,Leafy Green,20,6/8/2024,3.8
+Mint,Herb,13,6/8/2024,2.5
+Basil,Herb,22,6/8/2024,2.5
+Ruby Red Lettuce,Leafy Green,28,6/8/2024,4.0
+Green Emerald Lettuce,Leafy Green,37,8/8/2024,4.0
+Mizuna,Leafy Green,16,8/8/2024,3.8
+Ruby Red Lettuce,Leafy Green,33,8/8/2024,4.0
+Chye Sim,Leafy Green,57,9/8/2024,3.5
+Ruby Red Lettuce,Leafy Green,36,10/8/2024,4.0
+Mint,Herb,6,10/8/2024,2.5
+Chye Sim,Leafy Green,67,11/8/2024,3.5
+Mizuna,Leafy Green,16,12/8/2024,3.8
+Green Emerald Lettuce,Leafy Green,33,12/8/2024,4.0
+Basil,Herb,9,12/8/2024,2.5
+Chye Sim,Leafy Green,65,13/8/2024,3.5
+Basil,Herb,10,13/8/2024,2.5
+Ruby Red Lettuce,Leafy Green,23,14/8/2024,4.0
+Mizuna,Leafy Green,19,14/8/2024,3.8
+Green Emerald Lettuce,Leafy Green,44,15/8/2024,4.0
+Mint,Herb,9,16/8/2024,2.5
+Mizuna,Leafy Green,20,16/8/2024,3.8
+Green Emerald Lettuce,Leafy Green,38,16/8/2024,4.0
+Ruby Red Lettuce,Leafy Green,30,16/8/2024,4.0
+Chye Sim,Leafy Green,55,16/8/2024,3.5
+Basil,Herb,19,17/8/2024,2.5
+Mizuna,Leafy Green,19,18/8/2024,3.8
+Ruby Red Lettuce,Leafy Green,30,18/8/2024,4.0
+Green Emerald Lettuce,Leafy Green,29,18/8/2024,4.0
+Chye Sim,Leafy Green,57,18/8/2024,3.5
+Mint,Herb,13,19/8/2024,2.5
+Green Emerald Lettuce,Leafy Green,31,20/8/2024,4.0
+Ruby Red Lettuce,Leafy Green,29,20/8/2024,4.0
+Basil,Herb,17,21/8/2024,2.5
+Mizuna,Leafy Green,19,21/8/2024,3.8
+Chye Sim,Leafy Green,61,21/8/2024,3.5
+Ruby Red Lettuce,Leafy Green,32,22/8/2024,4.0
+Chye Sim,Leafy Green,62,22/8/2024,3.5
+Green Emerald Lettuce,Leafy Green,36,23/8/2024,4.0
+Mint,Herb,7,23/8/2024,2.5
+Mizuna,Leafy Green,16,23/8/2024,3.8
+Mizuna,Leafy Green,14,24/8/2024,3.8
+Ruby Red Lettuce,Leafy Green,34,25/8/2024,4.0
+Green Emerald Lettuce,Leafy Green,45,25/8/2024,4.0
+Chye Sim,Leafy Green,42,25/8/2024,3.5
+Ruby Red Lettuce,Leafy Green,34,26/8/2024,4.0
+Basil,Herb,17,26/8/2024,2.5
+Mint,Herb,13,27/8/2024,2.5
+Mizuna,Leafy Green,16,27/8/2024,3.8
+Green Emerald Lettuce,Leafy Green,37,27/8/2024,4.0
+Chye Sim,Leafy Green,66,27/8/2024,3.5
+Green Emerald Lettuce,Leafy Green,28,28/8/2024,4.0
+Ruby Red Lettuce,Leafy Green,23,28/8/2024,4.0
+Mizuna,Leafy Green,16,29/8/2024,3.8
+Chye Sim,Leafy Green,72,29/8/2024,3.5
+Mint,Herb,11,30/8/2024,2.5
+Green Emerald Lettuce,Leafy Green,44,31/8/2024,4.0
+Basil,Herb,20,31/8/2024,2.5
+Ruby Red Lettuce,Leafy Green,31,31/8/2024,4.0
+Chye Sim,Leafy Green,52,31/8/2024,3.5
+Mizuna,Leafy Green,14,31/8/2024,3.8
+Basil,Herb,17,1/9/2024,2.5
+Green Emerald Lettuce,Leafy Green,26,2/9/2024,4.0
+Mizuna,Leafy Green,19,2/9/2024,3.8
+Mint,Herb,9,3/9/2024,2.5
+Chye Sim,Leafy Green,82,3/9/2024,3.5
+Ruby Red Lettuce,Leafy Green,20,3/9/2024,4.0
+Ruby Red Lettuce,Leafy Green,17,4/9/2024,4.0
+Green Emerald Lettuce,Leafy Green,31,5/9/2024,4.0
+Mizuna,Leafy Green,17,6/9/2024,3.8
+Chye Sim,Leafy Green,72,6/9/2024,3.5
+Mizuna,Leafy Green,14,7/9/2024,3.8
+Mint,Herb,10,7/9/2024,2.5
+Basil,Herb,16,7/9/2024,2.5
+Green Emerald Lettuce,Leafy Green,36,7/9/2024,4.0
+Ruby Red Lettuce,Leafy Green,28,7/9/2024,4.0
+Mint,Herb,7,9/9/2024,2.5
+Chye Sim,Leafy Green,50,9/9/2024,3.5
+Basil,Herb,12,11/9/2024,2.5
+Green Emerald Lettuce,Leafy Green,30,11/9/2024,4.0
+Ruby Red Lettuce,Leafy Green,23,11/9/2024,4.0
+Chye Sim,Leafy Green,56,11/9/2024,3.5
+Mizuna,Leafy Green,12,12/9/2024,3.8
+Chye Sim,Leafy Green,59,13/9/2024,3.5
+Mint,Herb,12,14/9/2024,2.5
+Basil,Herb,19,15/9/2024,2.5
+Ruby Red Lettuce,Leafy Green,17,15/9/2024,4.0
+Mizuna,Leafy Green,18,15/9/2024,3.8
+Green Emerald Lettuce,Leafy Green,25,15/9/2024,4.0
+Mizuna,Leafy Green,23,16/9/2024,3.8
+Ruby Red Lettuce,Leafy Green,27,16/9/2024,4.0
+Chye Sim,Leafy Green,75,16/9/2024,3.5
+Mint,Herb,8,17/9/2024,2.5
+Green Emerald Lettuce,Leafy Green,32,18/9/2024,4.0
+Mizuna,Leafy Green,19,19/9/2024,3.8
+Basil,Herb,19,20/9/2024,2.5
+Chye Sim,Leafy Green,41,20/9/2024,3.5
+Ruby Red Lettuce,Leafy Green,32,20/9/2024,4.0
+Green Emerald Lettuce,Leafy Green,23,20/9/2024,4.0
+Chye Sim,Leafy Green,43,21/9/2024,3.5
+Ruby Red Lettuce,Leafy Green,25,21/9/2024,4.0
+Mizuna,Leafy Green,16,21/9/2024,3.8
+Mint,Herb,9,21/9/2024,2.5
+Basil,Herb,15,21/9/2024,2.5
+Green Emerald Lettuce,Leafy Green,30,21/9/2024,4.0
+Ruby Red Lettuce,Leafy Green,23,23/9/2024,4.0
+Mizuna,Leafy Green,18,23/9/2024,3.8
+Green Emerald Lettuce,Leafy Green,42,23/9/2024,4.0
+Chye Sim,Leafy Green,52,23/9/2024,3.5
+Mint,Herb,7,25/9/2024,2.5
+Basil,Herb,17,25/9/2024,2.5
+Mizuna,Leafy Green,18,25/9/2024,3.8
+Chye Sim,Leafy Green,59,25/9/2024,3.5
+Ruby Red Lettuce,Leafy Green,26,26/9/2024,4.0
+Green Emerald Lettuce,Leafy Green,25,26/9/2024,4.0
+Green Emerald Lettuce,Leafy Green,31,27/9/2024,4.0
+Mizuna,Leafy Green,17,27/9/2024,3.8
+Mint,Herb,10,28/9/2024,2.5
+Chye Sim,Leafy Green,63,28/9/2024,3.5
+Ruby Red Lettuce,Leafy Green,26,28/9/2024,4.0
+Mizuna,Leafy Green,20,29/9/2024,3.8
+Ruby Red Lettuce,Leafy Green,23,29/9/2024,4.0
+Green Emerald Lettuce,Leafy Green,32,29/9/2024,4.0
+Basil,Herb,15,29/9/2024,2.5
+Chye Sim,Leafy Green,69,30/9/2024,3.5
+Green Emerald Lettuce,Leafy Green,39,2/10/2024,4.0
+Mizuna,Leafy Green,17,2/10/2024,3.8
+Mint,Herb,9,3/10/2024,2.5
+Ruby Red Lettuce,Leafy Green,24,3/10/2024,4.0
+Chye Sim,Leafy Green,47,3/10/2024,3.5
+Basil,Herb,9,4/10/2024,2.5
+Basil,Herb,5,5/10/2024,2.5
+Mizuna,Leafy Green,10,5/10/2024,3.8
+Ruby Red Lettuce,Leafy Green,15,5/10/2024,4.0
+Green Emerald Lettuce,Leafy Green,13,5/10/2024,4.0
+Chye Sim,Leafy Green,27,6/10/2024,3.5
+Mint,Herb,5,8/10/2024,2.5
+Chye Sim,Leafy Green,24,8/10/2024,3.5
+Ruby Red Lettuce,Leafy Green,12,9/10/2024,4.0
+Green Emerald Lettuce,Leafy Green,22,9/10/2024,4.0
+Mizuna,Leafy Green,11,9/10/2024,3.8
+Chye Sim,Leafy Green,37,10/10/2024,3.5
+Basil,Herb,10,10/10/2024,2.5
+Ruby Red Lettuce,Leafy Green,25,10/10/2024,4.0
+Mint,Herb,10,10/10/2024,2.5
+Green Emerald Lettuce,Leafy Green,38,10/10/2024,4.0
+Mizuna,Leafy Green,19,12/10/2024,3.8
+Mint,Herb,7,13/10/2024,2.5
+Mizuna,Leafy Green,21,13/10/2024,3.8
+Green Emerald Lettuce,Leafy Green,29,13/10/2024,4.0
+Chye Sim,Leafy Green,56,13/10/2024,3.5
+Ruby Red Lettuce,Leafy Green,22,15/10/2024,4.0
+Ruby Red Lettuce,Leafy Green,20,16/10/2024,4.0
+Basil,Herb,11,16/10/2024,2.5
+Mizuna,Leafy Green,19,17/10/2024,3.8
+Chye Sim,Leafy Green,49,17/10/2024,3.5
+Green Emerald Lettuce,Leafy Green,36,17/10/2024,4.0
+Basil,Herb,17,18/10/2024,2.5
+Mizuna,Leafy Green,24,19/10/2024,3.8
+Chye Sim,Leafy Green,52,19/10/2024,3.5
+Green Emerald Lettuce,Leafy Green,29,19/10/2024,4.0
+Ruby Red Lettuce,Leafy Green,20,19/10/2024,4.0
+Mint,Herb,12,19/10/2024,2.5
+Green Emerald Lettuce,Leafy Green,38,20/10/2024,4.0
+Mizuna,Leafy Green,15,20/10/2024,3.8
+Basil,Herb,15,21/10/2024,2.5
+Ruby Red Lettuce,Leafy Green,19,21/10/2024,4.0
+Mint,Herb,10,21/10/2024,2.5
+Chye Sim,Leafy Green,40,21/10/2024,3.5
+Ruby Red Lettuce,Leafy Green,16,22/10/2024,4.0
+Green Emerald Lettuce,Leafy Green,27,22/10/2024,4.0
+Chye Sim,Leafy Green,55,23/10/2024,3.5
+Mizuna,Leafy Green,21,23/10/2024,3.8
+Ruby Red Lettuce,Leafy Green,19,24/10/2024,4.0
+Green Emerald Lettuce,Leafy Green,25,24/10/2024,4.0
+Chye Sim,Leafy Green,59,25/10/2024,3.5
+Mizuna,Leafy Green,25,25/10/2024,3.8
+Mizuna,Leafy Green,22,26/10/2024,3.8
+Green Emerald Lettuce,Leafy Green,37,26/10/2024,4.0
+Chye Sim,Leafy Green,56,27/10/2024,3.5
+Ruby Red Lettuce,Leafy Green,25,27/10/2024,4.0
+Basil,Herb,11,27/10/2024,2.5
+Mint,Herb,11,28/10/2024,2.5
+Chye Sim,Leafy Green,42,28/10/2024,3.5
+Green Emerald Lettuce,Leafy Green,34,29/10/2024,4.0
+Mizuna,Leafy Green,18,29/10/2024,3.8
+Ruby Red Lettuce,Leafy Green,20,29/10/2024,4.0
+Basil,Herb,11,30/10/2024,2.5
+Ruby Red Lettuce,Leafy Green,27,30/10/2024,4.0
+Chye Sim,Leafy Green,50,30/10/2024,3.5
+Green Emerald Lettuce,Leafy Green,35,30/10/2024,4.0
+Mizuna,Leafy Green,17,30/10/2024,3.8
+Mint,Herb,9,31/10/2024,2.5
+Mint,Herb,11,1/11/2024,2.5
+Mizuna,Leafy Green,21,1/11/2024,3.8
+Chye Sim,Leafy Green,40,1/11/2024,3.5
+Basil,Herb,14,1/11/2024,2.5
+Green Emerald Lettuce,Leafy Green,36,2/11/2024,4.0
+Ruby Red Lettuce,Leafy Green,24,2/11/2024,4.0
+Mizuna,Leafy Green,22,4/11/2024,3.8
+Chye Sim,Leafy Green,37,5/11/2024,3.5
+Green Emerald Lettuce,Leafy Green,31,6/11/2024,4.0
+Ruby Red Lettuce,Leafy Green,24,6/11/2024,4.0
+Green Emerald Lettuce,Leafy Green,33,7/11/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,7/11/2024,4.0
+Chye Sim,Leafy Green,41,7/11/2024,3.5
+Mint,Herb,9,8/11/2024,2.5
+Basil,Herb,13,8/11/2024,2.5
+Mizuna,Leafy Green,13,9/11/2024,3.8
+Mint,Herb,11,9/11/2024,2.5
+Mizuna,Leafy Green,20,10/11/2024,3.8
+Green Emerald Lettuce,Leafy Green,48,10/11/2024,4.0
+Chye Sim,Leafy Green,46,11/11/2024,3.5
+Basil,Herb,13,12/11/2024,2.5
+Ruby Red Lettuce,Leafy Green,24,12/11/2024,4.0
+Basil,Herb,13,13/11/2024,2.5
+Ruby Red Lettuce,Leafy Green,24,13/11/2024,4.0
+Chye Sim,Leafy Green,58,14/11/2024,3.5
+Mizuna,Leafy Green,24,14/11/2024,3.8
+Mint,Herb,7,15/11/2024,2.5
+Green Emerald Lettuce,Leafy Green,49,15/11/2024,4.0
+Mizuna,Leafy Green,24,16/11/2024,3.8
+Ruby Red Lettuce,Leafy Green,24,16/11/2024,4.0
+Green Emerald Lettuce,Leafy Green,41,16/11/2024,4.0
+Basil,Herb,11,17/11/2024,2.5
+Chye Sim,Leafy Green,33,18/11/2024,3.5
+Green Emerald Lettuce,Leafy Green,16,19/11/2024,4.0
+Mint,Herb,4,19/11/2024,2.5
+Mizuna,Leafy Green,13,19/11/2024,3.8
+Chye Sim,Leafy Green,35,20/11/2024,3.5
+Ruby Red Lettuce,Leafy Green,22,20/11/2024,4.0
+Chye Sim,Leafy Green,44,21/11/2024,3.5
+Green Emerald Lettuce,Leafy Green,42,21/11/2024,4.0
+Mint,Herb,7,21/11/2024,2.5
+Basil,Herb,16,22/11/2024,2.5
+Ruby Red Lettuce,Leafy Green,49,22/11/2024,4.0
+Mizuna,Leafy Green,33,22/11/2024,3.8
+Ruby Red Lettuce,Leafy Green,29,23/11/2024,4.0
+Mizuna,Leafy Green,14,24/11/2024,3.8
+Green Emerald Lettuce,Leafy Green,33,24/11/2024,4.0
+Chye Sim,Leafy Green,28,24/11/2024,3.5
+Mizuna,Leafy Green,8,25/11/2024,3.8
+Green Emerald Lettuce,Leafy Green,22,25/11/2024,4.0
+Ruby Red Lettuce,Leafy Green,17,25/11/2024,4.0
+Chye Sim,Leafy Green,25,25/11/2024,3.5
+Basil,Herb,13,27/11/2024,2.5
+Ruby Red Lettuce,Leafy Green,21,27/11/2024,4.0
+Mint,Herb,7,27/11/2024,2.5
+Green Emerald Lettuce,Leafy Green,30,27/11/2024,4.0
+Chye Sim,Leafy Green,42,28/11/2024,3.5
+Mizuna,Leafy Green,22,28/11/2024,3.8
+Mizuna,Leafy Green,23,29/11/2024,3.8
+Green Emerald Lettuce,Leafy Green,34,29/11/2024,4.0
+Ruby Red Lettuce,Leafy Green,27,29/11/2024,4.0
+Chye Sim,Leafy Green,40,29/11/2024,3.5
+Basil,Herb,10,30/11/2024,2.5
+Mint,Herb,8,30/11/2024,2.5
+Chye Sim,Leafy Green,58,1/12/2024,3.5
+Ruby Red Lettuce,Leafy Green,30,1/12/2024,4.0
+Mizuna,Leafy Green,20,2/12/2024,3.8
+Green Emerald Lettuce,Leafy Green,42,3/12/2024,4.0
+Mint,Herb,8,3/12/2024,2.5
+Basil,Herb,9,4/12/2024,2.5
+Mizuna,Leafy Green,29,4/12/2024,3.8
+Green Emerald Lettuce,Leafy Green,35,5/12/2024,4.0
+Ruby Red Lettuce,Leafy Green,36,5/12/2024,4.0
+Chye Sim,Leafy Green,41,6/12/2024,3.5
+Basil,Herb,11,7/12/2024,2.5
+Mizuna,Leafy Green,25,7/12/2024,3.8
+Chye Sim,Leafy Green,35,7/12/2024,3.5
+Green Emerald Lettuce,Leafy Green,47,8/12/2024,4.0
+Mint,Herb,7,8/12/2024,2.5
+Ruby Red Lettuce,Leafy Green,29,9/12/2024,4.0
+Mizuna,Leafy Green,23,10/12/2024,3.8
+Basil,Herb,10,10/12/2024,2.5
+Chye Sim,Leafy Green,49,10/12/2024,3.5
+Green Emerald Lettuce,Leafy Green,52,11/12/2024,4.0
+Ruby Red Lettuce,Leafy Green,26,12/12/2024,4.0
+Mint,Herb,9,12/12/2024,2.5
+Ruby Red Lettuce,Leafy Green,32,13/12/2024,4.0
+Basil,Herb,7,13/12/2024,2.5
+Mint,Herb,9,15/12/2024,2.5
+Mizuna,Leafy Green,22,15/12/2024,3.8
+Green Emerald Lettuce,Leafy Green,42,15/12/2024,4.0
+Chye Sim,Leafy Green,45,15/12/2024,3.5
+Ruby Red Lettuce,Leafy Green,34,16/12/2024,4.0
+Chye Sim,Leafy Green,52,16/12/2024,3.5
+Green Emerald Lettuce,Leafy Green,31,17/12/2024,4.0
+Mizuna,Leafy Green,25,17/12/2024,3.8
+Mint,Herb,9,17/12/2024,2.5
+Basil,Herb,14,18/12/2024,2.5
+Green Emerald Lettuce,Leafy Green,38,18/12/2024,4.0
+Chye Sim,Leafy Green,54,18/12/2024,3.5
+Mizuna,Leafy Green,10,19/12/2024,3.8
+Ruby Red Lettuce,Leafy Green,20,19/12/2024,4.0
+Mizuna,Leafy Green,23,20/12/2024,3.8
+Chye Sim,Leafy Green,37,20/12/2024,3.5
+Ruby Red Lettuce,Leafy Green,35,21/12/2024,4.0
+Green Emerald Lettuce,Leafy Green,49,21/12/2024,4.0
+Mint,Herb,9,21/12/2024,2.5
+Basil,Herb,14,22/12/2024,2.5
+Ruby Red Lettuce,Leafy Green,44,22/12/2024,4.0
+Chye Sim,Leafy Green,78,22/12/2024,3.5
+Mizuna,Leafy Green,29,22/12/2024,3.8
+Green Emerald Lettuce,Leafy Green,49,23/12/2024,4.0
+Ruby Red Lettuce,Leafy Green,24,24/12/2024,4.0
+Green Emerald Lettuce,Leafy Green,39,24/12/2024,4.0
+Chye Sim,Leafy Green,28,25/12/2024,3.5
+Mizuna,Leafy Green,11,25/12/2024,3.8
+Ruby Red Lettuce,Leafy Green,32,26/12/2024,4.0
+Mizuna,Leafy Green,29,27/12/2024,3.8
+Mint,Herb,9,27/12/2024,2.5
+Chye Sim,Leafy Green,47,27/12/2024,3.5
+Green Emerald Lettuce,Leafy Green,41,27/12/2024,4.0
+Chye Sim,Leafy Green,37,28/12/2024,3.5
+Green Emerald Lettuce,Leafy Green,38,28/12/2024,4.0
+Mizuna,Leafy Green,23,28/12/2024,3.8
+Ruby Red Lettuce,Leafy Green,36,28/12/2024,4.0
+Basil,Herb,9,28/12/2024,2.5
+Mint,Herb,7,29/12/2024,2.5
+Green Emerald Lettuce,Leafy Green,46,30/12/2024,4.0
+Basil,Herb,8,31/12/2024,2.5
+Chye Sim,Leafy Green,51,31/12/2024,3.5
+Mizuna,Leafy Green,25,31/12/2024,3.8
+Ruby Red Lettuce,Leafy Green,25,31/12/2024,4.0
