@@ -1,7 +1,20 @@
-from flask import Flask, render_template, jsonify
+from turtle import pd
+from venv import logger
+from flask import Flask, render_template, jsonify, request
+from flask_cors import CORS
+from flask import jsonify, request
+from models.aibot import AIBot
+import logging
+import traceback
+import asyncio
 import os
 
+logging.basicConfig(level=logging.INFO) 
+logger = logging.getLogger(__name__)
+
 app = Flask(__name__)
+CORS(app)  
+aibot = AIBot()
 
 # Setup function to create required directories and files
 def setup_app():
@@ -85,6 +98,48 @@ def demand_forecast_api():
         'metrics': metrics,
         'product_forecast_svg': product_forecast_svg
     })
+    
+# Update your API endpoint:
+@app.route('/api/ai-query', methods=['POST'])
+def handle_ai_query():
+    """Handle AI bot requests"""
+    try:
+        data = request.get_json()
+        if not data or 'query' not in data:
+            return jsonify({"error": "Missing query parameter"}), 400
+            
+        response = aibot.query(data['query'])
+        return jsonify(response)
+        
+    except Exception as e:
+        logger.error(f"API Error: {traceback.format_exc()}")
+        return jsonify({
+            "error": "Internal server error",
+            "details": str(e),
+            "success": False
+        }), 500
+
+
+def get_latest_water_data():
+    """Helper to get current water prediction data"""
+    csv_path = os.path.join(app.root_path, 'data', 'water_data.csv')
+    if os.path.exists(csv_path):
+        df = pd.read_csv(csv_path)
+        return df.iloc[-1].to_dict()
+    return {}
+
+def get_latest_demand_data():
+    """Helper to get current demand forecast data"""
+    csv_path = os.path.join(app.root_path, 'data', 'historical_data_random.csv')
+    if os.path.exists(csv_path):
+        df = pd.read_csv(csv_path)
+        return {
+            "latest_sales": df.iloc[-1].to_dict(),
+            "top_products": df.groupby('Name')['Quantity Sold'].sum().nlargest(3).to_dict()
+        }
+    return {}
+
+
 
 if __name__ == '__main__':
     # Run setup before starting the app

@@ -25,8 +25,10 @@
         <div class="dashboard-tabs">
             <div class="dashboard-tab active" data-target="farm-content">Farm Operations</div>
             <div class="dashboard-tab" data-target="demand-forecast-content">Demand Forecast</div>
+            <div class="dashboard-tab" data-target="ai-bot-content">AI Bot</div>
+
         </div>
-        
+
         <div id="farm-content" class="dashboard-content">
             <!-- ROW 1: Current Conditions -->
             <div class="dashboard-section">
@@ -34,50 +36,50 @@
                     <h2>CURRENT ENVIRONMENTAL CONDITIONS</h2>
                     <span class="timestamp">Last updated: 11:05 AM</span>
                 </div>
-                
+
                 <div class="current-conditions">
                     <div class="condition-item">
                         <div class="condition-label">Temperature</div>
                         <div class="condition-value">28°C</div>
                         <div class="condition-meta">Range: 24-30°C</div>
                     </div>
-                    
+
                     <div class="condition-item">
                         <div class="condition-label">Humidity</div>
                         <div class="condition-value">65%</div>
                         <div class="condition-meta">Optimal: 60-70%</div>
                     </div>
-                    
+
                     <div class="condition-item">
                         <div class="condition-label">Light Intensity</div>
                         <div class="condition-value">18,500 lux</div>
                         <div class="condition-meta">Daily goal: 16-22k lux</div>
                     </div>
-                    
+
                     <div class="condition-item">
                         <div class="condition-label">CO₂ Level</div>
                         <div class="condition-value">590 ppm</div>
                         <div class="condition-meta">Target: 600-800 ppm</div>
                     </div>
-                    
+
                     <div class="condition-item">
                         <div class="condition-label">Soil Moisture</div>
                         <div class="condition-value" style="color: var(--warning);">42%</div>
                         <div class="condition-meta">Below target (45-55%)</div>
                     </div>
-                    
+
                     <div class="condition-item">
                         <div class="condition-label">Soil pH</div>
                         <div class="condition-value">6.4</div>
                         <div class="condition-meta">Optimal: 6.0-6.8</div>
                     </div>
-                    
+
                     <div class="condition-item">
                         <div class="condition-label">EC Value</div>
                         <div class="condition-value">1.8 mS/cm</div>
                         <div class="condition-meta">Range: 1.5-2.2 mS/cm</div>
                     </div>
-                    
+
                     <div class="condition-item">
                         <div class="condition-label">Last Rainfall</div>
                         <div class="condition-value">0 mm</div>
@@ -85,14 +87,14 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- ROW 2: Drone Fleet Management -->
             <div class="dashboard-section">
                 <div class="section-header">
                     <h2>DRONE FLEET MANAGEMENT</h2>
                     <span class="timestamp">Last updated: 11:05 AM</span>
                 </div>
-                
+
                 <div class="drone-status">
                     <div class="drone-card">
                         <div class="status-indicator active"></div>
@@ -102,7 +104,7 @@
                             <div class="battery-level medium" style="width: 68%"></div>
                         </div>
                     </div>
-                    
+
                     <div class="drone-card">
                         <div class="status-indicator active"></div>
                         <div class="drone-name">Drone 02</div>
@@ -111,7 +113,7 @@
                             <div class="battery-level medium" style="width: 45%"></div>
                         </div>
                     </div>
-                    
+
                     <div class="drone-card">
                         <div class="status-indicator charging"></div>
                         <div class="drone-name">Drone 03</div>
@@ -120,7 +122,7 @@
                             <div class="battery-level low" style="width: 24%"></div>
                         </div>
                     </div>
-                    
+
                     <div class="drone-card">
                         <div class="status-indicator active"></div>
                         <div class="drone-name">Drone 04</div>
@@ -129,7 +131,7 @@
                             <div class="battery-level" style="width: 82%"></div>
                         </div>
                     </div>
-                    
+
                     <div class="drone-card">
                         <div class="status-indicator maintenance"></div>
                         <div class="drone-name">Drone 05</div>
@@ -138,7 +140,7 @@
                             <div class="battery-level" style="width: 100%"></div>
                         </div>
                     </div>
-                    
+
                     <div class="drone-card">
                         <div class="status-indicator charging"></div>
                         <div class="drone-name">Drone 06</div>
@@ -148,30 +150,30 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="section-header" style="margin-top: 15px; margin-bottom: 10px;">
                     <h2>UPCOMING MISSIONS</h2>
                 </div>
-                
+
                 <div class="mission-schedule">
                     <div class="mission-item">
                         <div class="mission-time">11:30 AM</div>
                         <div class="mission-desc">Pollination mission (Section D)</div>
                         <div class="mission-drone">Drone 03</div>
                     </div>
-                    
+
                     <div class="mission-item">
                         <div class="mission-time">12:15 PM</div>
                         <div class="mission-desc">Imaging mission (Section A)</div>
                         <div class="mission-drone">Drone 06</div>
                     </div>
-                    
+
                     <div class="mission-item">
                         <div class="mission-time">1:45 PM</div>
                         <div class="mission-desc">Pollination mission (Section B)</div>
                         <div class="mission-drone">Drone 02</div>
                     </div>
-                    
+
                     <div class="mission-item">
                         <div class="mission-time">3:00 PM</div>
                         <div class="mission-desc">Weather-dependent: Imaging</div>
@@ -179,7 +181,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- ROW 3: Water Needs & Disease Risk -->
             <div class="dashboard-row">
                 <!-- Water Needs & Irrigation Schedule -->
@@ -188,12 +190,12 @@
                         <h2>WATER NEEDS & IRRIGATION SCHEDULE</h2>
                         <span class="timestamp">Last updated: 6:00 AM</span>
                     </div>
-                    
+
                     <!-- Chart container - Will be filled by JavaScript with SVG from our Python model -->
                     <div class="chart-container">
                         <!-- Chart will be inserted here by JavaScript -->
                     </div>
-                    
+
                     <div class="metrics-grid">
                         <div class="metric">
                             <div class="metric-label">Today's Need</div>
@@ -213,20 +215,20 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <!-- Disease Risk Assessment -->
                 <div class="dashboard-section">
                     <div class="section-header">
                         <h2>DISEASE RISK ASSESSMENT</h2>
                         <span class="timestamp">Last updated: 10:30 AM (Drone imagery)</span>
                     </div>
-                    
+
                     <div class="chart-container">
                         <!-- Example disease risk heatmap -->
                         <svg width="100%" height="250" viewBox="0 0 450 250">
                             <!-- Grid background -->
                             <rect x="50" y="40" width="360" height="160" fill="#f8f8f8" stroke="#ddd"></rect>
-                            
+
                             <!-- Heatmap cells -->
                             <!-- Row 1 -->
                             <rect x="50" y="40" width="36" height="32" fill="#2ecc71"></rect>
@@ -239,7 +241,7 @@
                             <rect x="302" y="40" width="36" height="32" fill="#e67e22"></rect>
                             <rect x="338" y="40" width="36" height="32" fill="#e74c3c"></rect>
                             <rect x="374" y="40" width="36" height="32" fill="#e74c3c"></rect>
-                            
+
                             <!-- Row 2 -->
                             <rect x="50" y="72" width="36" height="32" fill="#2ecc71"></rect>
                             <rect x="86" y="72" width="36" height="32" fill="#2ecc71"></rect>
@@ -251,7 +253,7 @@
                             <rect x="302" y="72" width="36" height="32" fill="#e74c3c"></rect>
                             <rect x="338" y="72" width="36" height="32" fill="#e74c3c"></rect>
                             <rect x="374" y="72" width="36" height="32" fill="#e67e22"></rect>
-                            
+
                             <!-- Row 3 -->
                             <rect x="50" y="104" width="36" height="32" fill="#2ecc71"></rect>
                             <rect x="86" y="104" width="36" height="32" fill="#7dcea0"></rect>
@@ -263,7 +265,7 @@
                             <rect x="302" y="104" width="36" height="32" fill="#e67e22"></rect>
                             <rect x="338" y="104" width="36" height="32" fill="#f1c40f"></rect>
                             <rect x="374" y="104" width="36" height="32" fill="#7dcea0"></rect>
-                            
+
                             <!-- Row 4 -->
                             <rect x="50" y="136" width="36" height="32" fill="#2ecc71"></rect>
                             <rect x="86" y="136" width="36" height="32" fill="#2ecc71"></rect>
@@ -275,7 +277,7 @@
                             <rect x="302" y="136" width="36" height="32" fill="#7dcea0"></rect>
                             <rect x="338" y="136" width="36" height="32" fill="#2ecc71"></rect>
                             <rect x="374" y="136" width="36" height="32" fill="#2ecc71"></rect>
-                            
+
                             <!-- Row 5 -->
                             <rect x="50" y="168" width="36" height="32" fill="#2ecc71"></rect>
                             <rect x="86" y="168" width="36" height="32" fill="#2ecc71"></rect>
@@ -287,32 +289,32 @@
                             <rect x="302" y="168" width="36" height="32" fill="#2ecc71"></rect>
                             <rect x="338" y="168" width="36" height="32" fill="#2ecc71"></rect>
                             <rect x="374" y="168" width="36" height="32" fill="#2ecc71"></rect>
-                            
+
                             <!-- Early symptom markers -->
                             <text x="320" y="90" font-size="16" font-weight="bold" fill="black">X</text>
                             <text x="356" y="60" font-size="16" font-weight="bold" fill="black">X</text>
                             <text x="392" y="60" font-size="16" font-weight="bold" fill="black">X</text>
-                            
+
                             <!-- Action required markers -->
                             <circle cx="320" cy="85" r="10" stroke="white" stroke-width="2" fill="none"></circle>
                             <circle cx="356" cy="55" r="10" stroke="white" stroke-width="2" fill="none"></circle>
                             <circle cx="392" cy="55" r="10" stroke="white" stroke-width="2" fill="none"></circle>
-                            
+
                             <!-- Legend -->
                             <rect x="50" y="220" width="12" height="12" fill="#2ecc71"></rect>
                             <text class="chart-text" x="67" y="230">Low Risk</text>
-                            
+
                             <rect x="130" y="220" width="12" height="12" fill="#f1c40f"></rect>
                             <text class="chart-text" x="147" y="230">Medium Risk</text>
-                            
+
                             <rect x="220" y="220" width="12" height="12" fill="#e74c3c"></rect>
                             <text class="chart-text" x="237" y="230">High Risk</text>
-                            
+
                             <text class="chart-text" x="310" y="230" font-weight="bold">X</text>
                             <text class="chart-text" x="322" y="230">Early Symptoms</text>
                         </svg>
                     </div>
-                    
+
                     <div class="metrics-grid">
                         <div class="metric">
                             <div class="metric-label">Low Risk Area</div>
@@ -333,7 +335,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- ROW 4: Nutrient Deficiency & Pollination Analytics -->
             <div class="dashboard-row">
                 <!-- Nutrient Deficiency Risk -->
@@ -342,27 +344,37 @@
                         <h2>NUTRIENT DEFICIENCY RISK</h2>
                         <span class="timestamp">Last updated: 9:15 AM</span>
                     </div>
-                    
+
                     <div class="chart-container">
                         <!-- Nutrient radar chart -->
                         <svg width="100%" height="250" viewBox="0 0 450 250">
                             <!-- Center point -->
                             <circle cx="225" cy="125" r="2" fill="#666"></circle>
-                            
+
                             <!-- Radar grid lines -->
-                            <circle cx="225" cy="125" r="20" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></circle>
-                            <circle cx="225" cy="125" r="40" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></circle>
-                            <circle cx="225" cy="125" r="60" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></circle>
-                            <circle cx="225" cy="125" r="80" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></circle>
-                            
+                            <circle cx="225" cy="125" r="20" fill="none" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></circle>
+                            <circle cx="225" cy="125" r="40" fill="none" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></circle>
+                            <circle cx="225" cy="125" r="60" fill="none" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></circle>
+                            <circle cx="225" cy="125" r="80" fill="none" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></circle>
+
                             <!-- Axis lines -->
-                            <line x1="225" y1="125" x2="225" y2="45" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></line>
-                            <line x1="225" y1="125" x2="294" y2="165" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></line>
-                            <line x1="225" y1="125" x2="294" y2="85" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></line>
-                            <line x1="225" y1="125" x2="225" y2="205" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></line>
-                            <line x1="225" y1="125" x2="156" y2="165" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></line>
-                            <line x1="225" y1="125" x2="156" y2="85" stroke="#ccc" stroke-width="1" stroke-dasharray="2,2"></line>
-                            
+                            <line x1="225" y1="125" x2="225" y2="45" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></line>
+                            <line x1="225" y1="125" x2="294" y2="165" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></line>
+                            <line x1="225" y1="125" x2="294" y2="85" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></line>
+                            <line x1="225" y1="125" x2="225" y2="205" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></line>
+                            <line x1="225" y1="125" x2="156" y2="165" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></line>
+                            <line x1="225" y1="125" x2="156" y2="85" stroke="#ccc" stroke-width="1"
+                                stroke-dasharray="2,2"></line>
+
                             <!-- Axis labels -->
                             <text x="225" y="35" text-anchor="middle" fill="#666" font-size="10">Nitrogen (N)</text>
                             <text x="305" y="80" text-anchor="start" fill="#666" font-size="10">Phosphorus (P)</text>
@@ -370,13 +382,16 @@
                             <text x="225" y="215" text-anchor="middle" fill="#666" font-size="10">Calcium (Ca)</text>
                             <text x="145" y="170" text-anchor="end" fill="#666" font-size="10">Magnesium (Mg)</text>
                             <text x="145" y="80" text-anchor="end" fill="#666" font-size="10">Sulfur (S)</text>
-                            
+
                             <!-- Optimal zone -->
-                            <polygon points="225,65 278,90 278,160 225,185 172,160 172,90" fill="rgba(46, 204, 113, 0.1)" stroke="#2ecc71" stroke-width="1" stroke-dasharray="3,3"></polygon>
-                            
+                            <polygon points="225,65 278,90 278,160 225,185 172,160 172,90"
+                                fill="rgba(46, 204, 113, 0.1)" stroke="#2ecc71" stroke-width="1" stroke-dasharray="3,3">
+                            </polygon>
+
                             <!-- Current nutrients level -->
-                            <polygon points="225,77 270,85 180,175 225,165 172,145 180,90" fill="rgba(52, 152, 219, 0.3)" stroke="#3498db" stroke-width="2"></polygon>
-                            
+                            <polygon points="225,77 270,85 180,175 225,165 172,145 180,90"
+                                fill="rgba(52, 152, 219, 0.3)" stroke="#3498db" stroke-width="2"></polygon>
+
                             <!-- Points -->
                             <circle cx="225" cy="77" r="3" fill="#3498db"></circle>
                             <circle cx="270" cy="85" r="3" fill="#3498db"></circle>
@@ -384,16 +399,18 @@
                             <circle cx="225" cy="165" r="3" fill="#3498db"></circle>
                             <circle cx="172" cy="145" r="3" fill="#3498db"></circle>
                             <circle cx="180" cy="90" r="3" fill="#3498db"></circle>
-                            
+
                             <!-- Legend -->
-                            <rect x="320" y="20" width="12" height="6" fill="rgba(52, 152, 219, 0.3)" stroke="#3498db"></rect>
+                            <rect x="320" y="20" width="12" height="6" fill="rgba(52, 152, 219, 0.3)" stroke="#3498db">
+                            </rect>
                             <text x="335" y="25" fill="#666" font-size="10">Current Levels</text>
-                            
-                            <rect x="320" y="40" width="12" height="6" fill="rgba(46, 204, 113, 0.1)" stroke="#2ecc71" stroke-dasharray="3,3"></rect>
+
+                            <rect x="320" y="40" width="12" height="6" fill="rgba(46, 204, 113, 0.1)" stroke="#2ecc71"
+                                stroke-dasharray="3,3"></rect>
                             <text x="335" y="45" fill="#666" font-size="10">Optimal Range</text>
                         </svg>
                     </div>
-                    
+
                     <div class="nutrient-bars">
                         <div class="nutrient-bar">
                             <div class="nutrient-name">Potassium (K)</div>
@@ -402,7 +419,7 @@
                             </div>
                             <div class="nutrient-value">21.5 kg/ha</div>
                         </div>
-                        
+
                         <div class="nutrient-bar">
                             <div class="nutrient-name">Nitrogen (N)</div>
                             <div class="nutrient-progress">
@@ -410,7 +427,7 @@
                             </div>
                             <div class="nutrient-value">10.2 kg/ha</div>
                         </div>
-                        
+
                         <div class="nutrient-bar">
                             <div class="nutrient-name">Sulfur (S)</div>
                             <div class="nutrient-progress">
@@ -418,7 +435,7 @@
                             </div>
                             <div class="nutrient-value">8.0 kg/ha</div>
                         </div>
-                        
+
                         <div class="nutrient-bar">
                             <div class="nutrient-name">Magnesium (Mg)</div>
                             <div class="nutrient-progress">
@@ -427,7 +444,7 @@
                             <div class="nutrient-value">5.0 kg/ha</div>
                         </div>
                     </div>
-                    
+
                     <div class="metrics-grid" style="margin-top: 10px;">
                         <div class="metric">
                             <div class="metric-label">Critical Nutrient</div>
@@ -447,83 +464,94 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <!-- Pollination Effectiveness Analytics -->
                 <div class="dashboard-section">
                     <div class="section-header">
                         <h2>POLLINATION EFFECTIVENESS ANALYTICS</h2>
                         <span class="timestamp">Last updated: 10:30 AM (Drone data)</span>
                     </div>
-                    
+
                     <div class="chart-container">
                         <!-- Pollination coverage and effectiveness map -->
                         <svg width="100%" height="250" viewBox="0 0 450 250">
                             <!-- Farm plot background -->
                             <rect x="50" y="40" width="360" height="160" fill="#f8f8f8" stroke="#ddd"></rect>
-                            
+
                             <!-- Section labels -->
                             <text x="40" y="120" font-size="12" fill="#666" text-anchor="end">Farm Plot</text>
-                            
+
                             <!-- Grid sections with varying pollination coverage -->
                             <!-- Section A -->
-                            <rect x="60" y="50" width="80" height="60" fill="#b3dca0" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="60" y="50" width="80" height="60" fill="#b3dca0" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="100" y="80" font-size="14" fill="#333" text-anchor="middle">A</text>
                             <text x="100" y="95" font-size="12" fill="#333" text-anchor="middle">92%</text>
-                            
+
                             <!-- Section B -->
-                            <rect x="150" y="50" width="80" height="60" fill="#e5dfb2" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="150" y="50" width="80" height="60" fill="#e5dfb2" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="190" y="80" font-size="14" fill="#333" text-anchor="middle">B</text>
                             <text x="190" y="95" font-size="12" fill="#333" text-anchor="middle">68%</text>
-                            
+
                             <!-- Section C -->
-                            <rect x="240" y="50" width="80" height="60" fill="#b3dca0" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="240" y="50" width="80" height="60" fill="#b3dca0" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="280" y="80" font-size="14" fill="#333" text-anchor="middle">C</text>
                             <text x="280" y="95" font-size="12" fill="#333" text-anchor="middle">88%</text>
-                            
+
                             <!-- Section D -->
-                            <rect x="330" y="50" width="70" height="60" fill="#d5e5a0" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="330" y="50" width="70" height="60" fill="#d5e5a0" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="365" y="80" font-size="14" fill="#333" text-anchor="middle">D</text>
                             <text x="365" y="95" font-size="12" fill="#333" text-anchor="middle">75%</text>
-                            
+
                             <!-- Section E -->
-                            <rect x="60" y="120" width="80" height="70" fill="#f3d6a0" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="60" y="120" width="80" height="70" fill="#f3d6a0" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="100" y="155" font-size="14" fill="#333" text-anchor="middle">E</text>
                             <text x="100" y="170" font-size="12" fill="#333" text-anchor="middle">42%</text>
-                            
+
                             <!-- Section F -->
-                            <rect x="150" y="120" width="80" height="70" fill="#d5e5a0" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="150" y="120" width="80" height="70" fill="#d5e5a0" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="190" y="155" font-size="14" fill="#333" text-anchor="middle">F</text>
                             <text x="190" y="170" font-size="12" fill="#333" text-anchor="middle">78%</text>
-                            
+
                             <!-- Section G -->
-                            <rect x="240" y="120" width="80" height="70" fill="#b3dca0" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="240" y="120" width="80" height="70" fill="#b3dca0" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="280" y="155" font-size="14" fill="#333" text-anchor="middle">G</text>
                             <text x="280" y="170" font-size="12" fill="#333" text-anchor="middle">85%</text>
-                            
+
                             <!-- Section H -->
-                            <rect x="330" y="120" width="70" height="70" fill="#f3d6a0" stroke="#fff" class="pollination-cell"></rect>
+                            <rect x="330" y="120" width="70" height="70" fill="#f3d6a0" stroke="#fff"
+                                class="pollination-cell"></rect>
                             <text x="365" y="155" font-size="14" fill="#333" text-anchor="middle">H</text>
                             <text x="365" y="170" font-size="12" fill="#333" text-anchor="middle">51%</text>
-                            
+
                             <!-- Upcoming pollination mission markers -->
-                            <circle cx="100" cy="155" r="12" stroke="#ff9800" stroke-width="2" stroke-dasharray="3,3" fill="none"></circle>
-                            <circle cx="365" cy="155" r="12" stroke="#ff9800" stroke-width="2" stroke-dasharray="3,3" fill="none"></circle>
-                            
+                            <circle cx="100" cy="155" r="12" stroke="#ff9800" stroke-width="2" stroke-dasharray="3,3"
+                                fill="none"></circle>
+                            <circle cx="365" cy="155" r="12" stroke="#ff9800" stroke-width="2" stroke-dasharray="3,3"
+                                fill="none"></circle>
+
                             <!-- Legend -->
                             <rect x="50" y="220" width="12" height="12" fill="#b3dca0"></rect>
                             <text class="chart-text" x="67" y="230">80-100%</text>
-                            
+
                             <rect x="130" y="220" width="12" height="12" fill="#d5e5a0"></rect>
                             <text class="chart-text" x="147" y="230">60-80%</text>
-                            
+
                             <rect x="220" y="220" width="12" height="12" fill="#e5dfb2"></rect>
                             <text class="chart-text" x="237" y="230">40-60%</text>
-                            
+
                             <rect x="310" y="220" width="12" height="12" fill="#f3d6a0"></rect>
-                            <text class="chart-text" x="327" y="230">< 40%</text>
+                            <text class="chart-text" x="327" y="230">
+                                < 40%</text>
                         </svg>
                     </div>
-                    
+
                     <div class="pollination-stats">
                         <div class="pollination-stat">
                             <div class="stat-value">72%</div>
@@ -542,7 +570,7 @@
                             <div class="stat-label">Yield Improvement</div>
                         </div>
                     </div>
-                    
+
                     <div class="metrics-grid" style="margin-top: 10px;">
                         <div class="metric">
                             <div class="metric-label">Next Priority</div>
@@ -572,7 +600,7 @@
                     <h2>DEMAND FORECAST & SALES TRENDS</h2>
                     <span class="timestamp">Last updated: Loading...</span>
                 </div>
-                
+
                 <!-- Main forecast chart container -->
                 <div class="chart-container">
                     <!-- Chart will be inserted here by JavaScript -->
@@ -599,11 +627,11 @@
                         <div class="metric-value">Loading...</div>
                     </div>
                 </div>
-                
+
                 <div class="section-header" style="margin-top: 20px; margin-bottom: 10px;">
                     <h2>DEMAND TREND ANALYSIS</h2>
                 </div>
-                
+
                 <div class="trend-analysis">
                     <div class="trend-item">
                         <div class="trend-label">Forecast vs Previous Period</div>
@@ -619,7 +647,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <!-- Product breakdown chart -->
                 <div class="product-breakdown-container">
                     <!-- Product breakdown chart will be inserted here by JavaScript -->
@@ -628,13 +656,13 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- ROW 2: Product-specific forecasts -->
             <div class="dashboard-section">
                 <div class="section-header">
                     <h2>PRODUCT-SPECIFIC FORECASTS</h2>
                 </div>
-                
+
                 <!-- Product-specific forecast charts -->
                 <div class="product-forecast-container">
                     <!-- Product forecast charts will be inserted here by JavaScript -->
@@ -642,7 +670,7 @@
                         <div>Loading product-specific forecast data...</div>
                     </div>
                 </div>
-                
+
                 <div class="insights-container">
                     <div class="recommendation-title">Insights:</div>
                     <ul style="margin: 0; padding-left: 20px;">
@@ -653,7 +681,7 @@
                     </ul>
                 </div>
             </div>
-            
+
             <!-- ROW 3: Planting Recommendations -->
             <div class="dashboard-section">
                 <div class="section-header">
@@ -686,73 +714,124 @@
                         <div class="metric-trend positive">↓ 3%</div>
                     </div>
 
-                
-                <div class="recommendations-grid">
-                    <div class="recommendation-card increase">
-                        <div class="recommendation-title">Increase Production</div>
-                        <ul style="margin: 0; padding-left: 20px;">
-                            <li>Chye Sim (+15%)</li>
-                            <li>Green Emerald Lettuce (+10%)</li>
-                        </ul>
+
+                    <div class="recommendations-grid">
+                        <div class="recommendation-card increase">
+                            <div class="recommendation-title">Increase Production</div>
+                            <ul style="margin: 0; padding-left: 20px;">
+                                <li>Chye Sim (+15%)</li>
+                                <li>Green Emerald Lettuce (+10%)</li>
+                            </ul>
+                        </div>
+
+                        <div class="recommendation-card maintain">
+                            <div class="recommendation-title">Maintain Production</div>
+                            <ul style="margin: 0; padding-left: 20px;">
+                                <li>Ruby Red Lettuce</li>
+                                <li>Mizuna</li>
+                            </ul>
+                        </div>
+
+                        <div class="recommendation-card diversify">
+                            <div class="recommendation-title">Diversify</div>
+                            <ul style="margin: 0; padding-left: 20px;">
+                                <li>Consider adding Kale</li>
+                                <li>Test market for Arugula</li>
+                            </ul>
+                        </div>
+
+                        <div class="recommendation-card special">
+                            <div class="recommendation-title">Special Focus</div>
+                            <ul style="margin: 0; padding-left: 20px;">
+                                <li>Prepare for holiday demand spike</li>
+                                <li>Increase herb production in Apr</li>
+                            </ul>
+                        </div>
                     </div>
-                    
-                    <div class="recommendation-card maintain">
-                        <div class="recommendation-title">Maintain Production</div>
-                        <ul style="margin: 0; padding-left: 20px;">
-                            <li>Ruby Red Lettuce</li>
-                            <li>Mizuna</li>
-                        </ul>
+                </div>
+
+            </div>
+        </div>
+        <!-- AI Bot  -->
+        <div id="ai-bot-content" class="dashboard-content" style="display: none;">
+            <div class="dashboard-section ai-section">
+                <div class="section-header">
+                    <h2>AI FARMING ASSISTANT</h2>
+                    <span class="timestamp">Last updated: Never</span>
+                </div>
+
+                <div class="ai-container">
+                    <div class="query-container">
+                        <input type="text" class="query-input" placeholder="Ask about crops, sales, or forecasts...">
+                        <button class="submit-button">Ask</button>
                     </div>
-                    
-                    <div class="recommendation-card diversify">
-                        <div class="recommendation-title">Diversify</div>
-                        <ul style="margin: 0; padding-left: 20px;">
-                            <li>Consider adding Kale</li>
-                            <li>Test market for Arugula</li>
-                        </ul>
+
+                    <div class="metrics-grid">
+                        <div class="metric">
+                            <span class="metric-label">Model:</span>
+                            <span class="model-info metric-value">Ask a question first!</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Response Time:</span>
+                            <span class="response-time metric-value">-</span>
+                        </div>
                     </div>
-                    
-                    <div class="recommendation-card special">
-                        <div class="recommendation-title">Special Focus</div>
-                        <ul style="margin: 0; padding-left: 20px;">
-                            <li>Prepare for holiday demand spike</li>
-                            <li>Increase herb production in Apr</li>
-                        </ul>
+
+                    <div class="response-container">
+                        <div class="ai-response">
+                            <p>Hello! I'm Comcrop's AI assistant. Ask me about:</p>
+                            <ul>
+                                <li>Current farm conditions</li>
+                                <li>Demand forecasts</li>
+                                <li>Crop recommendations</li>
+                                <li>Resource optimization</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="ai-examples">
+                        <h3>Example Questions:</h3>
+                        <div class="example-questions">
+                            <button class="example-btn">What's today's water need?</button>
+                            <button class="example-btn">Show demand trends for basil</button>
+                            <button class="example-btn">Any disease risks today?</button>
+                            <button class="example-btn">Best crops to plant next month</button>
+                        </div>
                     </div>
                 </div>
             </div>
-
         </div>
-    </div>
 
-    <script>
-        // Tab switching functionality
-        document.addEventListener('DOMContentLoaded', function() {
-            const tabs = document.querySelectorAll('.dashboard-tab');
-            
-            tabs.forEach(tab => {
-                tab.addEventListener('click', function() {
-                    // Remove active class from all tabs
-                    tabs.forEach(t => t.classList.remove('active'));
-                    
-                    // Add active class to clicked tab
-                    this.classList.add('active');
-                    
-                    // Hide all content
-                    const contents = document.querySelectorAll('.dashboard-content');
-                    contents.forEach(content => content.style.display = 'none');
-                    
-                    // Show corresponding content
-                    const targetId = this.getAttribute('data-target');
-                    document.getElementById(targetId).style.display = 'block';
+        <script>
+            // Tab switching functionality
+            document.addEventListener('DOMContentLoaded', function () {
+                const tabs = document.querySelectorAll('.dashboard-tab');
+
+                tabs.forEach(tab => {
+                    tab.addEventListener('click', function () {
+                        // Remove active class from all tabs
+                        tabs.forEach(t => t.classList.remove('active'));
+
+                        // Add active class to clicked tab
+                        this.classList.add('active');
+
+                        // Hide all content
+                        const contents = document.querySelectorAll('.dashboard-content');
+                        contents.forEach(content => content.style.display = 'none');
+
+                        // Show corresponding content
+                        const targetId = this.getAttribute('data-target');
+                        document.getElementById(targetId).style.display = 'block';
+                    });
                 });
             });
-        });
-    </script>
-    
-    <!-- Load JavaScript -->
-    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/demand_forecast.js') }}"></script>
+        </script>
+
+        <!-- Load JavaScript -->
+        <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/demand_forecast.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/aibot.js') }}"></script>
+
 
 </body>
 

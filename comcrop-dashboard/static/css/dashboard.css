@@ -563,3 +563,81 @@ body {
     font-size: 12px;
     color: #777;
 }
+
+/* AI Assistant Styles */
+.ai-section {
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.ai-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.query-container {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.query-input {
+    flex-grow: 1;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.submit-button {
+    padding: 12px 20px;
+    background: #2ecc71;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.response-container {
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    min-height: 200px;
+    border: 1px solid #eee;
+}
+
+.ai-response {
+    line-height: 1.6;
+    color: #333;
+}
+
+.ai-examples {
+    margin-top: 20px;
+}
+
+.example-questions {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.example-btn {
+    padding: 8px 12px;
+    background: #e8f4fc;
+    border: 1px solid #3498db;
+    border-radius: 4px;
+    color: #3498db;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s;
+}
+
+.example-btn:hover {
+    background: #3498db;
+    color: white;
+}
