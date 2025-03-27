@@ -2,3 +2,4 @@ pandas
 numpy
 matplotlib
 flask
+scikit-learn
