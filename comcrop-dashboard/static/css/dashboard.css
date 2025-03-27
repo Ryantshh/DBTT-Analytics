@@ -1,3 +1,61 @@
+/* Simplified Resource Metrics Styles */
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.resource-metric {
+    background-color: var(--light);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    text-align: center;
+}
+
+.metric-label {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.metric-value {
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 5px;
+}
+
+.metric-trend {
+    font-size: 12px;
+    font-weight: 500;
+    padding: 2px 8px;
+    border-radius: 12px;
+    display: inline-block;
+}
+
+.positive {
+    color: #27ae60;
+    background-color: rgba(39, 174, 96, 0.1);
+}
+
+.negative {
+    color: #e74c3c;
+    background-color: rgba(231, 76, 60, 0.1);
+}
+
+.neutral {
+    color: #7f8c8d;
+    background-color: rgba(127, 140, 141, 0.1);
+}
+
+@media (max-width: 768px) {
+    .metrics-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 :root {
     --primary: #2e7d32;
     --primary-light: #60ad5e;
@@ -260,22 +318,27 @@ body {
 .water-chart-svg {
     background-color: white;
 }
+
 .water-line {
     fill: none;
     stroke: #3498db;
     stroke-width: 3;
 }
+
 .water-dots {
     fill: #3498db;
 }
+
 .water-bars {
     fill: #9b59b6;
     opacity: 0.7;
 }
+
 .chart-axis {
     stroke: #ccc;
     stroke-width: 1;
 }
+
 .chart-text {
     font-size: 10px;
     fill: #666;
