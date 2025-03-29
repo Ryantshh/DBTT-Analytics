@@ -4,6 +4,8 @@ from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
 from flask import jsonify, request
 from models.aibot import AIBot
+from dotenv import load_dotenv
+load_dotenv()
 import logging
 import traceback
 import asyncio

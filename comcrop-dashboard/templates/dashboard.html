@@ -106,15 +106,6 @@
                     </div>
 
                     <div class="drone-card">
-                        <div class="status-indicator active"></div>
-                        <div class="drone-name">Drone 02</div>
-                        <div class="drone-mission">Pollination (Section C)</div>
-                        <div class="battery-bar">
-                            <div class="battery-level medium" style="width: 45%"></div>
-                        </div>
-                    </div>
-
-                    <div class="drone-card">
                         <div class="status-indicator charging"></div>
                         <div class="drone-name">Drone 03</div>
                         <div class="drone-mission">Charging: Ready in 42 min</div>
@@ -219,7 +210,7 @@
                 <!-- Disease Risk Assessment -->
                 <div class="dashboard-section">
                     <div class="section-header">
-                        <h2>DISEASE RISK ASSESSMENT</h2>
+                        <h2>DISEASE RISK ASSESSMENT (DRONE IMAGRY COMPUTER VISION)</h2>
                         <span class="timestamp">Last updated: 10:30 AM (Drone imagery)</span>
                     </div>
 
@@ -336,7 +327,7 @@
                 </div>
             </div>
 
-            <!-- ROW 4: Nutrient Deficiency & Pollination Analytics -->
+            <!-- ROW 4: Nutrient Deficiency -->
             <div class="dashboard-row">
                 <!-- Nutrient Deficiency Risk -->
                 <div class="dashboard-section">
@@ -461,132 +452,6 @@
                         <div class="metric">
                             <div class="metric-label">Formula</div>
                             <div class="metric-value">NPK 5-0-10</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Pollination Effectiveness Analytics -->
-                <div class="dashboard-section">
-                    <div class="section-header">
-                        <h2>POLLINATION EFFECTIVENESS ANALYTICS</h2>
-                        <span class="timestamp">Last updated: 10:30 AM (Drone data)</span>
-                    </div>
-
-                    <div class="chart-container">
-                        <!-- Pollination coverage and effectiveness map -->
-                        <svg width="100%" height="250" viewBox="0 0 450 250">
-                            <!-- Farm plot background -->
-                            <rect x="50" y="40" width="360" height="160" fill="#f8f8f8" stroke="#ddd"></rect>
-
-                            <!-- Section labels -->
-                            <text x="40" y="120" font-size="12" fill="#666" text-anchor="end">Farm Plot</text>
-
-                            <!-- Grid sections with varying pollination coverage -->
-                            <!-- Section A -->
-                            <rect x="60" y="50" width="80" height="60" fill="#b3dca0" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="100" y="80" font-size="14" fill="#333" text-anchor="middle">A</text>
-                            <text x="100" y="95" font-size="12" fill="#333" text-anchor="middle">92%</text>
-
-                            <!-- Section B -->
-                            <rect x="150" y="50" width="80" height="60" fill="#e5dfb2" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="190" y="80" font-size="14" fill="#333" text-anchor="middle">B</text>
-                            <text x="190" y="95" font-size="12" fill="#333" text-anchor="middle">68%</text>
-
-                            <!-- Section C -->
-                            <rect x="240" y="50" width="80" height="60" fill="#b3dca0" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="280" y="80" font-size="14" fill="#333" text-anchor="middle">C</text>
-                            <text x="280" y="95" font-size="12" fill="#333" text-anchor="middle">88%</text>
-
-                            <!-- Section D -->
-                            <rect x="330" y="50" width="70" height="60" fill="#d5e5a0" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="365" y="80" font-size="14" fill="#333" text-anchor="middle">D</text>
-                            <text x="365" y="95" font-size="12" fill="#333" text-anchor="middle">75%</text>
-
-                            <!-- Section E -->
-                            <rect x="60" y="120" width="80" height="70" fill="#f3d6a0" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="100" y="155" font-size="14" fill="#333" text-anchor="middle">E</text>
-                            <text x="100" y="170" font-size="12" fill="#333" text-anchor="middle">42%</text>
-
-                            <!-- Section F -->
-                            <rect x="150" y="120" width="80" height="70" fill="#d5e5a0" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="190" y="155" font-size="14" fill="#333" text-anchor="middle">F</text>
-                            <text x="190" y="170" font-size="12" fill="#333" text-anchor="middle">78%</text>
-
-                            <!-- Section G -->
-                            <rect x="240" y="120" width="80" height="70" fill="#b3dca0" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="280" y="155" font-size="14" fill="#333" text-anchor="middle">G</text>
-                            <text x="280" y="170" font-size="12" fill="#333" text-anchor="middle">85%</text>
-
-                            <!-- Section H -->
-                            <rect x="330" y="120" width="70" height="70" fill="#f3d6a0" stroke="#fff"
-                                class="pollination-cell"></rect>
-                            <text x="365" y="155" font-size="14" fill="#333" text-anchor="middle">H</text>
-                            <text x="365" y="170" font-size="12" fill="#333" text-anchor="middle">51%</text>
-
-                            <!-- Upcoming pollination mission markers -->
-                            <circle cx="100" cy="155" r="12" stroke="#ff9800" stroke-width="2" stroke-dasharray="3,3"
-                                fill="none"></circle>
-                            <circle cx="365" cy="155" r="12" stroke="#ff9800" stroke-width="2" stroke-dasharray="3,3"
-                                fill="none"></circle>
-
-                            <!-- Legend -->
-                            <rect x="50" y="220" width="12" height="12" fill="#b3dca0"></rect>
-                            <text class="chart-text" x="67" y="230">80-100%</text>
-
-                            <rect x="130" y="220" width="12" height="12" fill="#d5e5a0"></rect>
-                            <text class="chart-text" x="147" y="230">60-80%</text>
-
-                            <rect x="220" y="220" width="12" height="12" fill="#e5dfb2"></rect>
-                            <text class="chart-text" x="237" y="230">40-60%</text>
-
-                            <rect x="310" y="220" width="12" height="12" fill="#f3d6a0"></rect>
-                            <text class="chart-text" x="327" y="230">
-                                < 40%</text>
-                        </svg>
-                    </div>
-
-                    <div class="pollination-stats">
-                        <div class="pollination-stat">
-                            <div class="stat-value">72%</div>
-                            <div class="stat-label">Overall Coverage</div>
-                        </div>
-                        <div class="pollination-stat">
-                            <div class="stat-value">84%</div>
-                            <div class="stat-label">Pollination Efficacy</div>
-                        </div>
-                        <div class="pollination-stat">
-                            <div class="stat-value">11,520</div>
-                            <div class="stat-label">Flowers Visited</div>
-                        </div>
-                        <div class="pollination-stat">
-                            <div class="stat-value">+15%</div>
-                            <div class="stat-label">Yield Improvement</div>
-                        </div>
-                    </div>
-
-                    <div class="metrics-grid" style="margin-top: 10px;">
-                        <div class="metric">
-                            <div class="metric-label">Next Priority</div>
-                            <div class="metric-value">Section E</div>
-                        </div>
-                        <div class="metric">
-                            <div class="metric-label">Drone Assignment</div>
-                            <div class="metric-value">Drone 03</div>
-                        </div>
-                        <div class="metric">
-                            <div class="metric-label">Expected Time</div>
-                            <div class="metric-value">45 minutes</div>
-                        </div>
-                        <div class="metric">
-                            <div class="metric-label">Fruit Set Forecast</div>
-                            <div class="metric-value">+15% vs baseline</div>
                         </div>
                     </div>
                 </div>
