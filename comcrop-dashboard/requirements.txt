@@ -4,3 +4,4 @@ matplotlib
 flask
 scikit-learn
 groq
+flask_cors
